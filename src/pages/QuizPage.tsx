@@ -94,11 +94,11 @@ export function QuizPage() {
     if (!topicId) return
 
     Promise.all([
-      fetch(`/data/topics/${topicId}.json`).then(r => {
+      fetch(`${import.meta.env.BASE_URL}data/topics/${topicId}.json`).then(r => {
         if (!r.ok) throw new Error('Topic not found')
         return r.json()
       }),
-      fetch('/data/manifest.json').then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/manifest.json`).then(r => r.json()),
     ])
       .then(([topicData, manifest]) => {
         setData(topicData)

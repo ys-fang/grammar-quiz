@@ -6,7 +6,7 @@ export function LandingPage() {
   const [manifest, setManifest] = useState<Manifest | null>(null)
 
   useEffect(() => {
-    fetch('/data/manifest.json')
+    fetch(`${import.meta.env.BASE_URL}data/manifest.json`)
       .then(r => r.json())
       .then(setManifest)
   }, [])
