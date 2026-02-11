@@ -37,3 +37,4 @@ Thumbs.db
 
 # Scraped source (large HTML files, not needed in repo)
 scraped/*.mhtml
+.vercel

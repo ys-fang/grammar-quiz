@@ -18,7 +18,7 @@ export function LandingPage() {
   return (
     <div className="landing-page min-h-screen bg-gradient-to-b from-rose-50 to-amber-50">
       {/* Noren header */}
-      <header className="noren-header text-center py-10">
+      <header className="noren-header text-center pt-0 pb-10">
         <div className="noren flex justify-center gap-2 mb-4">
           {'文法練習'.split('').map((char, i) => (
             <div
