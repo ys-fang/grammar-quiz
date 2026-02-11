@@ -1,0 +1,246 @@
+{
+  "topicId": "11-間接問句-名詞子句",
+  "currentTopic": "Indirect_Questions_Master",
+  "questions": [
+    {
+      "q": "Do you know ________?",
+      "options": [
+        "where is he",
+        "where he is",
+        "is where he",
+        "he is where"
+      ],
+      "correctAnswer": "where he is",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你知道他在哪裡嗎？",
+        "grammar": "間接問句語序：疑問詞 + 主詞 + 動詞。不可使用倒裝語序 is he。",
+        "vocab": "know [noʊ] (v.) 知道"
+      }
+    },
+    {
+      "q": "I wonder ________ last night.",
+      "options": [
+        "what did she do",
+        "what she did",
+        "what does she do",
+        "she did what"
+      ],
+      "correctAnswer": "what she did",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我想知道她昨晚做了什麼。",
+        "grammar": "當 do/does/did 消失時，動詞須依時態還原。昨晚是過去式，故用 did。",
+        "vocab": "wonder [ˈwʌndər] (v.) 想知道"
+      }
+    },
+    {
+      "q": "Could you tell me ________?",
+      "options": [
+        "who is that man",
+        "who that man is",
+        "that man is who",
+        "is who that man"
+      ],
+      "correctAnswer": "who that man is",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你能告訴我那個人是誰嗎？",
+        "grammar": "疑問詞 who + 主詞 that man + be動詞 is。",
+        "vocab": "man [mæn] (n.) 男人"
+      }
+    },
+    {
+      "q": "Please tell me ________.",
+      "options": [
+        "when does the train leave",
+        "when the train leaves",
+        "when leaves the train",
+        "the train leaves when"
+      ],
+      "correctAnswer": "when the train leaves",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "請告訴我火車什麼時候開。",
+        "grammar": "去掉助動詞 does 後，動詞 leave 須變回三單形式 leaves。",
+        "vocab": "leave [liːv] (v.) 離開/出發"
+      }
+    },
+    {
+      "q": "I have no idea ________.",
+      "options": [
+        "how much does it cost",
+        "how much it costs",
+        "how much is it cost",
+        "it costs how much"
+      ],
+      "correctAnswer": "how much it costs",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我不知道這多少錢。",
+        "grammar": "去掉 does 後，cost 需加 s。how much 是不可分割的疑問詞組。",
+        "vocab": "cost [kɔːst] (v.) 花費"
+      }
+    },
+    {
+      "q": "I'm not sure ________ it will rain tomorrow.",
+      "options": [
+        "if",
+        "that",
+        "what",
+        "where"
+      ],
+      "correctAnswer": "if",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不確定明天是否會下雨。",
+        "grammar": "當原問句是 Yes/No 問句時，間接問句需加 if 或 whether (是否)。",
+        "vocab": "sure [ʃʊr] (adj.) 確定的"
+      }
+    },
+    {
+      "q": "Tell me ________ you are crying.",
+      "options": [
+        "why",
+        "what",
+        "who",
+        "which"
+      ],
+      "correctAnswer": "why",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "告訴我你為什麼在哭。",
+        "grammar": "根據句意選擇 why (為什麼)，語序為 you (S) + are crying (V)。",
+        "vocab": "cry [kraɪ] (v.) 哭泣"
+      }
+    },
+    {
+      "q": "No one knows ________.",
+      "options": [
+        "where did she go",
+        "where she goes",
+        "where she went",
+        "she went where"
+      ],
+      "correctAnswer": "where she went",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "沒人知道她去了哪裡。",
+        "grammar": "過去式 did 消失，動詞 go 需還原為過去式 went。",
+        "vocab": "went [went] (v.) go 的過去式"
+      }
+    },
+    {
+      "q": "Can you see ________?",
+      "options": [
+        "what are they doing",
+        "what they are doing",
+        "they are doing what",
+        "are they doing what"
+      ],
+      "correctAnswer": "what they are doing",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你能看見他們正在做什麼嗎？",
+        "grammar": "正在進行式的間接問句，語序為 what + 主詞 + are doing。",
+        "vocab": "doing [ˈduːɪŋ] (v.) 做"
+      }
+    },
+    {
+      "q": "I don't remember ________.",
+      "options": [
+        "where did I put my keys",
+        "where I put my keys",
+        "where do I put my keys",
+        "I put my keys where"
+      ],
+      "correctAnswer": "where I put my keys",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我不記得我把鑰匙放在哪了。",
+        "grammar": "過去式 put (三態同形)，語序為主詞 I + 動詞 put。",
+        "vocab": "remember [rɪˈmembər] (v.) 記得"
+      }
+    },
+    {
+      "q": "He asked me ________ I liked English.",
+      "options": [
+        "if",
+        "that",
+        "whether",
+        "A & C are correct"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "他問我是否喜歡英文。",
+        "grammar": "『是否』可用 if 或 whether 引導。",
+        "vocab": "ask [æsk] (v.) 詢問"
+      }
+    },
+    {
+      "q": "I want to know ________ to the party.",
+      "options": [
+        "who will come",
+        "who come",
+        "will who come",
+        "who comes"
+      ],
+      "correctAnswer": "who will come",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我想知道誰會來參加聚會。",
+        "grammar": "當疑問詞 who 就是『主詞』時，語序不變（Who + V）。",
+        "vocab": "party [ˈpɑːrti] (n.) 派對"
+      }
+    },
+    {
+      "q": "Do you know ________?",
+      "options": [
+        "how old is he",
+        "how old he is",
+        "is he how old",
+        "he is how old"
+      ],
+      "correctAnswer": "how old he is",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你知道他幾歲嗎？",
+        "grammar": "疑問詞組 how old + 主詞 he + be動詞 is。",
+        "vocab": "old [oʊld] (adj.) 年老的"
+      }
+    },
+    {
+      "q": "She told me ________.",
+      "options": [
+        "which book did she like",
+        "which book she liked",
+        "which book she likes",
+        "she liked which book"
+      ],
+      "correctAnswer": "which book she liked",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "她告訴我她喜歡哪本書。",
+        "grammar": "which book 為疑問詞組，後接主詞 + 過去式動詞 liked。",
+        "vocab": "which [wɪtʃ] (det.) 哪一個"
+      }
+    },
+    {
+      "q": "I forgot ________.",
+      "options": [
+        "what was his name",
+        "what his name was",
+        "what is his name",
+        "his name was what"
+      ],
+      "correctAnswer": "what his name was",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我忘了他的名字叫什麼。",
+        "grammar": "過去式問句，be動詞 was 須移至主詞 his name 之後。",
+        "vocab": "forgot [fərˈɡɑːt] (v.) forget 的過去式"
+      }
+    }
+  ]
+}

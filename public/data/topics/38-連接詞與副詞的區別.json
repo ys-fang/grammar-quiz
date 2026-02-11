@@ -1,0 +1,166 @@
+{
+  "topicId": "38-連接詞與副詞的區別",
+  "currentTopic": "However_Therefore_10Q",
+  "questions": [
+    {
+      "q": "It was raining hard; ________, we decided to cancel the picnic.",
+      "options": [
+        "therefore",
+        "so",
+        "because",
+        "but"
+      ],
+      "correctAnswer": "therefore",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "雨下得很大；因此，我們決定取消野餐。",
+        "grammar": "分號 (;) 用來連接兩句，後方接副詞 therefore。so 是連接詞，不能跟在分號後面。",
+        "vocab": "cancel [ˈkænsl] (v.) 取消"
+      }
+    },
+    {
+      "q": "She worked very hard, ________ she still failed the exam.",
+      "options": [
+        "but",
+        "however",
+        "although",
+        "therefore"
+      ],
+      "correctAnswer": "but",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她很努力，但她還是考試不及格。",
+        "grammar": "兩個句子間只有逗號 (,)，需使用連接詞 but。However 是副詞，不能這樣接。",
+        "vocab": "failed [feɪld] (v.) 失敗/不及格"
+      }
+    },
+    {
+      "q": "The movie was long. ________, it was very interesting.",
+      "options": [
+        "However",
+        "But",
+        "So",
+        "Therefore"
+      ],
+      "correctAnswer": "However",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這部電影很長。然而，它非常有趣。",
+        "grammar": "句首大寫且後方有逗號，應使用轉折副詞 However。",
+        "vocab": "interesting [ˈɪntrəstɪŋ] (adj.) 有趣的"
+      }
+    },
+    {
+      "q": "He didn't study for the test, ________ he got a low grade.",
+      "options": [
+        "so",
+        "therefore",
+        "however",
+        "but"
+      ],
+      "correctAnswer": "so",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他沒為考試讀書，所以他得到了低分。",
+        "grammar": "逗號連接兩句，語意為因果，選用連接詞 so。",
+        "vocab": "grade [ɡreɪd] (n.) 分數"
+      }
+    },
+    {
+      "q": "The smartphone is expensive; ________, many people want to buy it.",
+      "options": [
+        "however",
+        "but",
+        "although",
+        "so"
+      ],
+      "correctAnswer": "however",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這支手機很貴；然而，很多人想買。",
+        "grammar": "分號後方引導語意轉折，應使用副詞 however。",
+        "vocab": "expensive [ɪkˈspensɪv] (adj.) 昂貴的"
+      }
+    },
+    {
+      "q": "I missed the bus, ________ I was late for work.",
+      "options": [
+        "so",
+        "therefore",
+        "but",
+        "however"
+      ],
+      "correctAnswer": "so",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我錯過了公車，所以我上班遲到了。",
+        "grammar": "逗號連接兩個句子，表結果，使用連接詞 so。",
+        "vocab": "missed [mɪst] (v.) 錯過"
+      }
+    },
+    {
+      "q": "The team practiced every day. ________, they won the championship.",
+      "options": [
+        "Therefore",
+        "So",
+        "However",
+        "But"
+      ],
+      "correctAnswer": "Therefore",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "團隊每天練習。因此，他們贏得了冠軍。",
+        "grammar": "句首大寫且後方有逗號，表結果，使用副詞 Therefore。",
+        "vocab": "championship [ˈtʃæmpiənʃɪp] (n.) 冠軍"
+      }
+    },
+    {
+      "q": "She is very rich, ________ she never wastes money.",
+      "options": [
+        "but",
+        "however",
+        "therefore",
+        "so"
+      ],
+      "correctAnswer": "but",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她很富有，但她從不浪費錢。",
+        "grammar": "逗號連接兩句，表轉折，使用連接詞 but。",
+        "vocab": "waste [weɪst] (v.) 浪費"
+      }
+    },
+    {
+      "q": "I forgot my umbrella; ________, I got soaked in the rain.",
+      "options": [
+        "therefore",
+        "so",
+        "but",
+        "however"
+      ],
+      "correctAnswer": "therefore",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我忘了帶傘；因此，我被雨淋透了。",
+        "grammar": "分號後接副詞 therefore 表結果。",
+        "vocab": "soaked [soʊkt] (adj.) 濕透的"
+      }
+    },
+    {
+      "q": "He felt very tired. ________, he finished his project on time.",
+      "options": [
+        "However",
+        "But",
+        "So",
+        "Therefore"
+      ],
+      "correctAnswer": "However",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他感到很累。然而，他準時完成了他的計畫。",
+        "grammar": "句首大寫後加逗號，表轉折，使用副詞 However。",
+        "vocab": "on time (adv.phr.) 準時"
+      }
+    }
+  ]
+}

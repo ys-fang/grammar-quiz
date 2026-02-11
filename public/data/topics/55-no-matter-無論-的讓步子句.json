@@ -1,0 +1,246 @@
+{
+  "topicId": "55-no-matter-無論-的讓步子句",
+  "currentTopic": "No_Matter_Subjunctive_15Q",
+  "questions": [
+    {
+      "q": "No matter ________ happens, don't give up your dreams.",
+      "options": [
+        "what",
+        "who",
+        "how",
+        "where"
+      ],
+      "correctAnswer": "what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論發生什麼事，都不要放棄你的夢想。",
+        "grammar": "指稱『事情』，使用 No matter what，等於 Whatever。",
+        "vocab": "dreams [driːmz] (n.) 夢想"
+      }
+    },
+    {
+      "q": "No matter ________ hard she works, she can't finish it today.",
+      "options": [
+        "how",
+        "what",
+        "where",
+        "who"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論她多麼努力工作，她今天都無法完成。",
+        "grammar": "後接形容詞或副詞時，必須使用 No matter how。",
+        "vocab": "hard [hɑːrd] (adv.) 努力地"
+      }
+    },
+    {
+      "q": "No matter ________ calls, tell them I'm busy.",
+      "options": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論是誰打來，都跟他們說我很忙。",
+        "grammar": "指稱『人』，使用 No matter who，等於 Whoever。",
+        "vocab": "calls [kɔːlz] (v.) 打電話"
+      }
+    },
+    {
+      "q": "You can come to see me no matter ________ you want.",
+      "options": [
+        "when",
+        "where",
+        "what",
+        "how"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論你想什麼時候來見我都可以。",
+        "grammar": "指稱『時間』，使用 No matter when。",
+        "vocab": "want [wɑːnt] (v.) 想要"
+      }
+    },
+    {
+      "q": "No matter ________ you go, I will follow you.",
+      "options": [
+        "where",
+        "when",
+        "how",
+        "what"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論你去哪裡，我都會跟著你。",
+        "grammar": "指稱『地點』，使用 No matter where。",
+        "vocab": "follow [ˈfɑːloʊ] (v.) 跟隨"
+      }
+    },
+    {
+      "q": "________ late it is, he always finishes his homework.",
+      "options": [
+        "No matter how",
+        "No matter what",
+        "No matter when",
+        "Whatever"
+      ],
+      "correctAnswer": "No matter how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論多晚，他總是會完成功課。",
+        "grammar": "後接形容詞 late，應選 No matter how。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 功課"
+      }
+    },
+    {
+      "q": "No matter ________ she says, I don't believe her.",
+      "options": [
+        "what",
+        "how",
+        "who",
+        "when"
+      ],
+      "correctAnswer": "what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論她說什麼，我都不相信她。",
+        "grammar": "指稱說話的『內容』，使用 No matter what。",
+        "vocab": "believe [bɪˈliːv] (v.) 相信"
+      }
+    },
+    {
+      "q": "You will be successful ________ difficulties you face.",
+      "options": [
+        "no matter what",
+        "no matter how",
+        "however",
+        "whenever"
+      ],
+      "correctAnswer": "no matter what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論你面臨什麼困難，你都會成功。",
+        "grammar": "No matter what + 名詞 (difficulties) 表示『無論什麼樣的...』。",
+        "vocab": "difficulties [ˈdɪfɪkəltiz] (n.) 困難"
+      }
+    },
+    {
+      "q": "No matter ________ expensive it is, he will buy it.",
+      "options": [
+        "how",
+        "what",
+        "which",
+        "where"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論多貴，他都會買。",
+        "grammar": "修飾形容詞 expensive，使用 No matter how。",
+        "vocab": "expensive [ɪkˈspensɪv] (adj.) 昂貴的"
+      }
+    },
+    {
+      "q": "________ wins the game, we should be happy for them.",
+      "options": [
+        "No matter who",
+        "Whoever",
+        "No matter what",
+        "A and C are correct"
+      ],
+      "correctAnswer": "A and C are correct",
+      "correctIndex": 3,
+      "explanation": {
+        "translation": "無論誰贏得比賽，我們都應該為他們感到高興。",
+        "grammar": "No matter who 等於 Whoever，皆可用於引導讓步子句。",
+        "vocab": "wins [wɪnz] (v.) 贏得"
+      }
+    },
+    {
+      "q": "No matter ________ you treat him, he is always kind to you.",
+      "options": [
+        "how",
+        "what",
+        "where",
+        "who"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論你如何對待他，他對你總是很仁慈。",
+        "grammar": "指稱『方式/如何』，使用 No matter how。",
+        "vocab": "treat [triːt] (v.) 對待"
+      }
+    },
+    {
+      "q": "I'll find you no matter ________ you hide.",
+      "options": [
+        "where",
+        "when",
+        "what",
+        "how"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論你躲在哪裡，我都會找到你。",
+        "grammar": "指稱『地點』，使用 No matter where。",
+        "vocab": "hide [haɪd] (v.) 躲藏"
+      }
+    },
+    {
+      "q": "No matter ________ of the two books you choose, you'll like it.",
+      "options": [
+        "which",
+        "what",
+        "who",
+        "how"
+      ],
+      "correctAnswer": "which",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這兩本書中無論你選哪一本，你都會喜歡。",
+        "grammar": "在有限的範圍內做選擇，使用 No matter which。",
+        "vocab": "choose [tʃuːz] (v.) 選擇"
+      }
+    },
+    {
+      "q": "________ he tries, he can't solve the math problem.",
+      "options": [
+        "However hard",
+        "No matter what hard",
+        "Hard no matter",
+        "Whatever hard"
+      ],
+      "correctAnswer": "However hard",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論多麼努力嘗試，他都解不開這道數學題。",
+        "grammar": "However + adj/adv 等於 No matter how + adj/adv。",
+        "vocab": "solve [sɑːlv] (v.) 解決"
+      }
+    },
+    {
+      "q": "No matter ________ the weather is like, the party will go on.",
+      "options": [
+        "what",
+        "how",
+        "where",
+        "when"
+      ],
+      "correctAnswer": "what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "無論天氣如何，派對都會繼續。",
+        "grammar": "固定用法 What...is like 表示『...是什麼樣子』，故用 what。",
+        "vocab": "weather [ˈweðər] (n.) 天氣"
+      }
+    }
+  ]
+}

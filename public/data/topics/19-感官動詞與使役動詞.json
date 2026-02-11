@@ -1,0 +1,246 @@
+{
+  "topicId": "19-感官動詞與使役動詞",
+  "currentTopic": "Causative_Perception_15Q",
+  "questions": [
+    {
+      "q": "My boss made me ______ overtime yesterday.",
+      "options": [
+        "work",
+        "working",
+        "to work",
+        "worked"
+      ],
+      "correctAnswer": "work",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的老闆昨天讓我加班。",
+        "grammar": "使役動詞 made 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "overtime [ˈoʊvərtaɪm] (adv./n.) 加班"
+      }
+    },
+    {
+      "q": "I heard someone ______ my name outside the window.",
+      "options": [
+        "calling",
+        "to call",
+        "called",
+        "calls"
+      ],
+      "correctAnswer": "calling",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我聽到有人在窗外喊我的名字。",
+        "grammar": "感官動詞 heard 強調「正在進行」的動作，接 V-ing。",
+        "vocab": "outside [ˌaʊtˈsaɪd] (prep.) 在...之外"
+      }
+    },
+    {
+      "q": "Please let your sister ______ with us tonight.",
+      "options": [
+        "come",
+        "coming",
+        "to come",
+        "comes"
+      ],
+      "correctAnswer": "come",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請讓你妹妹今晚跟我們一起來。",
+        "grammar": "使役動詞 let 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "tonight [təˈnaɪt] (adv.) 今晚"
+      }
+    },
+    {
+      "q": "We watched the plane ______ into the sky.",
+      "options": [
+        "disappear",
+        "disappearing",
+        "to disappear",
+        "disappeared"
+      ],
+      "correctAnswer": "disappear",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們看著飛機消失在天空中。",
+        "grammar": "感官動詞 watched 強調「全過程」的事實，接原形動詞。",
+        "vocab": "disappear [ˌdɪsəˈpɪr] (v.) 消失"
+      }
+    },
+    {
+      "q": "The movie was so sad that it had me ______.",
+      "options": [
+        "crying",
+        "to cry",
+        "cry",
+        "cried"
+      ],
+      "correctAnswer": "crying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這部電影太悲傷了，讓我哭個不停。",
+        "grammar": "使役動詞 have sb V-ing 可用來表示「讓某人處於某種狀態（持續中）」。",
+        "vocab": "sad [sæd] (adj.) 悲傷的"
+      }
+    },
+    {
+      "q": "Did you notice a stranger ______ into the house?",
+      "options": [
+        "enter",
+        "entering",
+        "to enter",
+        "entered"
+      ],
+      "correctAnswer": "enter",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有注意到一名陌生人進入房子嗎？",
+        "grammar": "感官動詞 notice 可接原形 V 表示看到進入的動作事實。",
+        "vocab": "stranger [ˈstreɪndʒər] (n.) 陌生人"
+      }
+    },
+    {
+      "q": "The teacher had the students ______ their homework in class.",
+      "options": [
+        "do",
+        "doing",
+        "to do",
+        "done"
+      ],
+      "correctAnswer": "do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師要求學生在課堂上做作業。",
+        "grammar": "使役動詞 had (要求) 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "I felt the house ______ during the earthquake.",
+      "options": [
+        "shaking",
+        "to shake",
+        "shook",
+        "shaken"
+      ],
+      "correctAnswer": "shaking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "地震期間我感覺到房子在搖晃。",
+        "grammar": "感官動詞 felt 強調感受到的「過程狀態」，接 V-ing。",
+        "vocab": "earthquake [ˈɜːrθkweɪk] (n.) 地震"
+      }
+    },
+    {
+      "q": "Don't let the dog ______ on the bed.",
+      "options": [
+        "jump",
+        "jumping",
+        "to jump",
+        "jumps"
+      ],
+      "correctAnswer": "jump",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別讓狗跳上床。",
+        "grammar": "使役動詞 let 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "jump [dʒʌmp] (v.) 跳躍"
+      }
+    },
+    {
+      "q": "I saw her ______ her bike and enter the library.",
+      "options": [
+        "park",
+        "parking",
+        "to park",
+        "parked"
+      ],
+      "correctAnswer": "park",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我看見她停好腳踏車後進入圖書館。",
+        "grammar": "一連串的動作事實，感官動詞 saw 接原形動詞 V。",
+        "vocab": "library [ˈlaɪbreri] (n.) 圖書館"
+      }
+    },
+    {
+      "q": "The spicy food made my eyes ______.",
+      "options": [
+        "water",
+        "watering",
+        "to water",
+        "watered"
+      ],
+      "correctAnswer": "water",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "辛辣的食物讓我的眼睛流淚。",
+        "grammar": "使役動詞 made 後接受詞，必須接原形動詞 (V)。這裡 water 是動詞「流淚」。",
+        "vocab": "spicy [ˈspaɪsi] (adj.) 辛辣的"
+      }
+    },
+    {
+      "q": "Listen! Can you hear the baby ______?",
+      "options": [
+        "crying",
+        "cry",
+        "to cry",
+        "cried"
+      ],
+      "correctAnswer": "crying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "聽！你有聽到寶寶正在哭嗎？",
+        "grammar": "Listen 提示「當下正在進行」，感官動詞 hear 接 V-ing。",
+        "vocab": "baby [ˈbeɪbi] (n.) 寶寶"
+      }
+    },
+    {
+      "q": "Mom doesn't have me ______ any house chores on school days.",
+      "options": [
+        "do",
+        "doing",
+        "to do",
+        "done"
+      ],
+      "correctAnswer": "do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在校期間媽媽不要求我做任何家務。",
+        "grammar": "使役動詞 have (要求) 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "house chores (n.phr.) 家務"
+      }
+    },
+    {
+      "q": "The little boy watched the ants ______ on the ground.",
+      "options": [
+        "crawling",
+        "to crawl",
+        "crawled",
+        "crawls"
+      ],
+      "correctAnswer": "crawling",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小男孩看著螞蟻在地上爬行。",
+        "grammar": "感官動詞 watched 強調看著其「正在進行」的狀態，接 V-ing。",
+        "vocab": "ant [ænt] (n.) 螞蟻"
+      }
+    },
+    {
+      "q": "My father made my brother ______ the car yesterday morning.",
+      "options": [
+        "wash",
+        "washing",
+        "to wash",
+        "washed"
+      ],
+      "correctAnswer": "wash",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "昨天早上我父親叫我弟弟洗車。",
+        "grammar": "使役動詞 made 後接受詞，必須接原形動詞 (V)。",
+        "vocab": "wash [wɑːʃ] (v.) 清洗"
+      }
+    }
+  ]
+}

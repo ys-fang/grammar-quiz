@@ -1,0 +1,166 @@
+{
+  "topicId": "39-集合名詞",
+  "currentTopic": "Collective_Nouns_10Q",
+  "questions": [
+    {
+      "q": "The police ______ looking for the thief who stole the money.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "警察正在尋找那個偷錢的賊。",
+        "grammar": "Police 永遠視為複數，動詞需用 are。",
+        "vocab": "thief [θiːf] (n.) 賊"
+      }
+    },
+    {
+      "q": "Many people ______ waiting in line for the new iPhone.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "許多人正在排隊等候新的 iPhone。",
+        "grammar": "People 永遠視為複數，動詞用 are。",
+        "vocab": "wait in line (v.phr.) 排隊"
+      }
+    },
+    {
+      "q": "My family ______ very large; there are ten of us.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的家庭很大；我們家有十個人。",
+        "grammar": "指稱家庭『整體單位』大或小時，視為單數 is。",
+        "vocab": "large [lɑːrdʒ] (adj.) 大的"
+      }
+    },
+    {
+      "q": "His family ______ all doctors.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他的家人全都是醫生。",
+        "grammar": "這裡指稱的是家庭裡的『每個成員』，故視為複數 are。",
+        "vocab": "doctor [ˈdɑːktər] (n.) 醫生"
+      }
+    },
+    {
+      "q": "The team ______ playing very well today.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "團隊今天表現得非常好。",
+        "grammar": "這裡指團隊中的『隊員們』正在比賽表現，視為複數 are。",
+        "vocab": "well [wel] (adv.) 好地"
+      }
+    },
+    {
+      "q": "The class ______ having a test right now.",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "全班同學現在正在考試。",
+        "grammar": "指班級裡的『學生們』正在動作，視為複數 are。",
+        "vocab": "test [test] (n.) 考試"
+      }
+    },
+    {
+      "q": "The whole class ______ going on a field trip tomorrow.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "全班明天要去校外教學。",
+        "grammar": "Whole class 強調整個『班級單位』，視為單數 is。",
+        "vocab": "field trip (n.phr.) 校外教學"
+      }
+    },
+    {
+      "q": "The police ______ coming to help us.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "警察正趕來幫助我們。",
+        "grammar": "Police 恆為複數。",
+        "vocab": "help [help] (v.) 幫助"
+      }
+    },
+    {
+      "q": "Young people ______ often interested in social media.",
+      "options": [
+        "are",
+        "is",
+        "was",
+        "be"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "年輕人通常對社交媒體感興趣。",
+        "grammar": "People 恆為複數。",
+        "vocab": "interested [ˈɪntrəstɪd] (adj.) 感興趣的"
+      }
+    },
+    {
+      "q": "Our team ______ the best in the city.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們的團隊是全市最好的。",
+        "grammar": "指稱『團隊名聲/地位』這個整體單位，視為單數 is。",
+        "vocab": "best [best] (adj.) 最好的"
+      }
+    }
+  ]
+}

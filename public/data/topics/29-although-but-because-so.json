@@ -1,0 +1,166 @@
+{
+  "topicId": "29-although-but-because-so",
+  "currentTopic": "Conjunctions_Logic_10Q",
+  "questions": [
+    {
+      "q": "下列哪一個句子在文法上是『正確』的？",
+      "options": [
+        "Although it was raining, but they played soccer.",
+        "Although it was raining, they played soccer.",
+        "Because it was raining, so they didn't play soccer.",
+        "Because it was raining, but they played soccer."
+      ],
+      "correctAnswer": "Although it was raining, they played soccer.",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "雖然在下雨，他們還是踢了足球。",
+        "grammar": "英文中 although 與 but 只能二選一，不可同時出現在同一個句子中。",
+        "vocab": "soccer [ˈsɑːkər] (n.) 足球"
+      }
+    },
+    {
+      "q": "A: Why didn't you come to the party? <br>B: ________ I had too much homework.",
+      "options": [
+        "Because",
+        "Because so",
+        "Because but",
+        "So"
+      ],
+      "correctAnswer": "Because",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "因為我有太多作業了。",
+        "grammar": "回答 Why 的問題直接用 Because 開頭即可，不須加其他連接詞。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "Choose the correct sentence:",
+      "options": [
+        "Because he was sick, so he stayed home.",
+        "He was sick, so he stayed home.",
+        "Although he was sick, but he stayed home.",
+        "So he was sick, because he stayed home."
+      ],
+      "correctAnswer": "He was sick, so he stayed home.",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他生病了，所以待在家裡。",
+        "grammar": "because 與 so 只能二選一。此句使用了 so 作為對等連接詞，結構正確。",
+        "vocab": "sick [sɪk] (adj.) 生病的"
+      }
+    },
+    {
+      "q": "________ she is very small, she is very strong.",
+      "options": [
+        "Although",
+        "But",
+        "Although but",
+        "Because so"
+      ],
+      "correctAnswer": "Although",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "雖然她很瘦小，但她很強壯。",
+        "grammar": "although 引導從屬子句，後方主要子句不可加 but。",
+        "vocab": "strong [strɔːŋ] (adj.) 強壯的"
+      }
+    },
+    {
+      "q": "I like that car, ________ it is too expensive.",
+      "options": [
+        "but",
+        "although but",
+        "so",
+        "because so"
+      ],
+      "correctAnswer": "but",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我喜歡那台車，但是它太貴了。",
+        "grammar": "but 作為對等連接詞連接兩個完整的句子，前方常用逗號隔開。",
+        "vocab": "expensive [ɪkˈspensɪv] (adj.) 昂貴的"
+      }
+    },
+    {
+      "q": "________ he worked hard, he didn't pass the exam.",
+      "options": [
+        "Although",
+        "Because",
+        "So",
+        "But"
+      ],
+      "correctAnswer": "Although",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "雖然他很努力，但他沒通過考試。",
+        "grammar": "雖然...（語意轉折）使用 Although。注意不可加 but。",
+        "vocab": "pass [pæs] (v.) 通過"
+      }
+    },
+    {
+      "q": "We missed the bus ________ we got up late.",
+      "options": [
+        "because",
+        "so",
+        "but",
+        "although"
+      ],
+      "correctAnswer": "because",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們錯過了公車，因為我們晚起。",
+        "grammar": "後方是原因 (got up late)，故連接詞選 because。",
+        "vocab": "missed [mɪst] (v.) 錯過"
+      }
+    },
+    {
+      "q": "下列何者錯誤？",
+      "options": [
+        "Because I like music, I joined the club.",
+        "I like music, so I joined the club.",
+        "Because I like music, so I joined the club.",
+        "I joined the club because I like music."
+      ],
+      "correctAnswer": "Because I like music, so I joined the club.",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "錯誤項：因為我喜歡音樂，所以我加入了社團。",
+        "grammar": "Because 與 So 絕對不能同時出現在同一個句子中。",
+        "vocab": "club [klʌb] (n.) 社團"
+      }
+    },
+    {
+      "q": "He didn't have enough money, ________ he didn't buy the book.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "although"
+      ],
+      "correctAnswer": "so",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他錢不夠，所以他沒買那本書。",
+        "grammar": "前方是原因，後方是結果，使用 so。",
+        "vocab": "enough [ɪˈnʌf] (adj.) 足夠的"
+      }
+    },
+    {
+      "q": "________ it was very cold, we went swimming anyway.",
+      "options": [
+        "Although",
+        "Because",
+        "So",
+        "But"
+      ],
+      "correctAnswer": "Although",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "雖然天氣很冷，我們還是去游泳了。",
+        "grammar": "語意轉折使用 Although。",
+        "vocab": "anyway [ˈeniweɪ] (adv.) 無論如何"
+      }
+    }
+  ]
+}

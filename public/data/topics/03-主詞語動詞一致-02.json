@@ -1,0 +1,266 @@
+{
+  "topicId": "03-主詞語動詞一致-02",
+  "currentTopic": "SubjectVerb_Mastery_20",
+  "questions": [
+    {
+      "q": "Each of the workers <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> a safety helmet.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "correctAnswer": "has",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每個工人都有安全帽。",
+        "grammar": "Each of + 複數名詞，主詞核心是單數 Each。"
+      }
+    },
+    {
+      "q": "The number of students <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> increasing every year.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "學生的數量每年都在增加。",
+        "grammar": "The number of 指「數量」，視為單數；A number of 才是指「許多」，用複數。"
+      }
+    },
+    {
+      "q": "A number of volunteers <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> joined the project.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "correctAnswer": "have",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "許多志工加入了這個計畫。",
+        "grammar": "A number of 等於 many，主詞視為複數。"
+      }
+    },
+    {
+      "q": "Ten miles <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> too far to walk in one hour.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "十英哩對一小時步行來說太遠了。",
+        "grammar": "距離、時間、金錢、重量視為一個整體，用單數動詞。"
+      }
+    },
+    {
+      "q": "Either you or he <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> responsible for the error.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不是你就是他要為這錯誤負責。",
+        "grammar": "Either A or B 結構，動詞隨靠近的主詞（he）變化。"
+      }
+    },
+    {
+      "q": "Neither the apple nor the grapes <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> fresh.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "蘋果和葡萄都不新鮮。",
+        "grammar": "Neither A nor B 結構，動詞隨靠近的主詞（grapes）變化。"
+      }
+    },
+    {
+      "q": "The news about the layoffs <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> spreading quickly.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "關於裁員的消息傳播得很快。",
+        "grammar": "News 是不可數名詞，恆用單數動詞。"
+      }
+    },
+    {
+      "q": "Economics <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> a difficult subject for many.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "經濟學對許多人來說是困難的學科。",
+        "grammar": "學科名稱（-ics結尾）視為單數。"
+      }
+    },
+    {
+      "q": "The team <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> discussing the new strategy.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "團隊正在討論新策略。",
+        "grammar": "集合名詞若視為一個整體，使用單數動詞。"
+      }
+    },
+    {
+      "q": "A pair of jeans <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> hanging in the closet.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "一條牛仔褲掛在衣櫥裡。",
+        "grammar": "jeans 雖是複數，但主詞核心是單數 A pair。"
+      }
+    },
+    {
+      "q": "All of the water <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> contaminated.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "所有的水都被污染了。",
+        "grammar": "All of + 不可數名詞，動詞用單數。"
+      }
+    },
+    {
+      "q": "Some of the cookies <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> missing from the jar.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "罐子裡的一些餅乾不見了。",
+        "grammar": "Some of + 複數名詞，動詞用複數。"
+      }
+    },
+    {
+      "q": "Not only the students but also the teacher <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> excited.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不僅學生，老師也很興奮。",
+        "grammar": "Not only A but also B，動詞隨靠近的主詞（teacher）變化。"
+      }
+    },
+    {
+      "q": "There <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> a book and two pens on the desk.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "桌上有一本書和兩枝筆。",
+        "grammar": "There be 句型，動詞通常隨最近的主詞（a book）變化。"
+      }
+    },
+    {
+      "q": "Physics <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> my favorite branch of science.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "物理是我最喜歡的科學分支。",
+        "grammar": "學科名稱視為單數。"
+      }
+    },
+    {
+      "q": "Bread and butter <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> their daily breakfast.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "奶油吐司是他們的日常早餐。",
+        "grammar": "Bread and butter 視為一組單一餐點時，用單數。"
+      }
+    },
+    {
+      "q": "Every boy and girl <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> required to attend.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每個男孩和女孩都被要求出席。",
+        "grammar": "Every 修飾的主詞，不論有多少個，皆視為單數。"
+      }
+    },
+    {
+      "q": "The teacher, as well as the parents, <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> present.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師及家長們都在場。",
+        "grammar": "主詞+as well as...，動詞隨第一個主詞（teacher）變化。"
+      }
+    },
+    {
+      "q": "Many a student <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> failed the test before.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "correctAnswer": "has",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "許多學生以前都沒通過這考試。",
+        "grammar": "Many a + 單數名詞，語氣強烈但動詞用單數。"
+      }
+    },
+    {
+      "q": "One-third of the city <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> destroyed by the fire.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "correctAnswer": "was",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "城市的三分之一被火災摧毀了。",
+        "grammar": "分數或百分比修飾不可數名詞（city），動詞用單數。"
+      }
+    }
+  ]
+}

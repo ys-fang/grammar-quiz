@@ -1,0 +1,246 @@
+{
+  "topicId": "46-stop-forget-remember-to-v-vs-v-ing",
+  "currentTopic": "Remember_Forget_Stop_15Q",
+  "questions": [
+    {
+      "q": "Don't forget ________ the window before you leave.",
+      "options": [
+        "to close",
+        "closing",
+        "closed",
+        "close"
+      ],
+      "correctAnswer": "to close",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "離開前別忘了關窗戶。",
+        "grammar": "指「記得去」做一件還沒做的事，使用 to V。",
+        "vocab": "leave [liːv] (v.) 離開"
+      }
+    },
+    {
+      "q": "I remember ________ this man somewhere before.",
+      "options": [
+        "seeing",
+        "to see",
+        "seen",
+        "saw"
+      ],
+      "correctAnswer": "seeing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我記得以前在某個地方見過這個男人。",
+        "grammar": "指對「過去發生過」的事情的回憶，使用 V-ing。",
+        "vocab": "somewhere [ˈsʌmwer] (adv.) 某處"
+      }
+    },
+    {
+      "q": "He stopped ________ because he was feeling dizzy.",
+      "options": [
+        "running",
+        "to run",
+        "ran",
+        "to running"
+      ],
+      "correctAnswer": "running",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他停止跑步，因為他感到頭暈。",
+        "grammar": "指「中斷正在進行」的動作，使用 V-ing。",
+        "vocab": "dizzy [ˈdɪzi] (adj.) 頭暈的"
+      }
+    },
+    {
+      "q": "We stopped ________ some photos during our road trip.",
+      "options": [
+        "to take",
+        "taking",
+        "taken",
+        "took"
+      ],
+      "correctAnswer": "to take",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們在公路旅行中停下來拍了些照片。",
+        "grammar": "指「停下原本的事，轉而去」做另一件事，使用 to V。",
+        "vocab": "road trip (n.) 公路旅行"
+      }
+    },
+    {
+      "q": "Please remember ________ the light when you go to bed.",
+      "options": [
+        "to turn off",
+        "turning off",
+        "turned off",
+        "turn off"
+      ],
+      "correctAnswer": "to turn off",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "睡覺時請記得關燈。",
+        "grammar": "指「記得去執行」未來的任務，使用 to V。",
+        "vocab": "turn off (v.phr.) 關掉"
+      }
+    },
+    {
+      "q": "I will never forget ________ that beautiful sunset in Bali.",
+      "options": [
+        "seeing",
+        "to see",
+        "seen",
+        "saw"
+      ],
+      "correctAnswer": "seeing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我永遠不會忘記在峇里島看到的那場美麗日落。",
+        "grammar": "指對「已發生」的精彩回憶，使用 V-ing。",
+        "vocab": "sunset [ˈsʌnset] (n.) 日落"
+      }
+    },
+    {
+      "q": "You should stop ________! It's bad for your health.",
+      "options": [
+        "smoking",
+        "to smoke",
+        "smoke",
+        "smoked"
+      ],
+      "correctAnswer": "smoking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你應該戒菸！這對你的健康不好。",
+        "grammar": "指「戒除/停止」某種習慣，使用 V-ing。",
+        "vocab": "health [helθ] (n.) 健康"
+      }
+    },
+    {
+      "q": "I was lost, so I stopped ________ for directions.",
+      "options": [
+        "to ask",
+        "asking",
+        "asked",
+        "ask"
+      ],
+      "correctAnswer": "to ask",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我迷路了，所以我停下來問路。",
+        "grammar": "指「停下腳步，目的是為了」去做某事，使用 to V。",
+        "vocab": "direction [daɪˈrekʃn] (n.) 方向/指引"
+      }
+    },
+    {
+      "q": "Do you remember ________ me ten dollars yesterday?",
+      "options": [
+        "lending",
+        "to lend",
+        "lent",
+        "lends"
+      ],
+      "correctAnswer": "lending",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你記得昨天借我十美金嗎？",
+        "grammar": "指對「昨天已發生」的事實進行確認，使用 V-ing。",
+        "vocab": "lend [lend] (v.) 借出"
+      }
+    },
+    {
+      "q": "Forget ________ him for help; he is very selfish.",
+      "options": [
+        "asking",
+        "to ask",
+        "asked",
+        "ask"
+      ],
+      "correctAnswer": "asking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別指望找他幫忙了（忘了曾找過他的念頭吧）；他很自私。",
+        "grammar": "這裡指「放棄/停止」某個念頭或過去的想法，常用 V-ing。",
+        "vocab": "selfish [ˈselfɪʃ] (adj.) 自私的"
+      }
+    },
+    {
+      "q": "Remember ________ some eggs on your way home.",
+      "options": [
+        "to buy",
+        "buying",
+        "bought",
+        "buy"
+      ],
+      "correctAnswer": "to buy",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "回家的路上記得買些雞蛋。",
+        "grammar": "交代未來的任務，使用 to V。",
+        "vocab": "on your way (phr.) 在路上"
+      }
+    },
+    {
+      "q": "I'll never forget ________ my first bicycle.",
+      "options": [
+        "getting",
+        "to get",
+        "got",
+        "gets"
+      ],
+      "correctAnswer": "getting",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我永遠不會忘記得到第一台腳踏車的時候。",
+        "grammar": "回憶過去發生的事，使用 V-ing。",
+        "vocab": "bicycle [ˈbaɪsɪkl] (n.) 腳踏車"
+      }
+    },
+    {
+      "q": "They stopped ________ a break after working for four hours.",
+      "options": [
+        "to have",
+        "having",
+        "had",
+        "have"
+      ],
+      "correctAnswer": "to have",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "工作四小時後，他們停下來休息了一下。",
+        "grammar": "停下工作去休息，表目的，使用 to V。",
+        "vocab": "break [breɪk] (n.) 休息"
+      }
+    },
+    {
+      "q": "Stop ________ so much noise! I'm trying to sleep.",
+      "options": [
+        "making",
+        "to make",
+        "made",
+        "make"
+      ],
+      "correctAnswer": "making",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別再吵了！我正在試著睡覺。",
+        "grammar": "要求「停止正在進行」的騷擾動作，使用 V-ing。",
+        "vocab": "noise [nɔɪz] (n.) 噪音"
+      }
+    },
+    {
+      "q": "Did you remember ________ the letter I gave you?",
+      "options": [
+        "to mail",
+        "mailing",
+        "mailed",
+        "mail"
+      ],
+      "correctAnswer": "to mail",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有記得去寄我給你的那封信嗎？",
+        "grammar": "詢問是否有去執行那個任務，使用 to V。",
+        "vocab": "mail [meɪl] (v.) 郵寄"
+      }
+    }
+  ]
+}

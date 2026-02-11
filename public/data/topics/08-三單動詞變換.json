@@ -1,0 +1,166 @@
+{
+  "topicId": "08-三單動詞變換",
+  "currentTopic": "3rd_Person_Singular_Basic",
+  "questions": [
+    {
+      "q": "My brother ________ (play) basketball every weekend.",
+      "options": [
+        "play",
+        "plays",
+        "playing",
+        "played"
+      ],
+      "correctAnswer": "plays",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我弟弟每個週末都打籃球。",
+        "grammar": "主詞 My brother 為第三人稱單數，動詞需加 -s。",
+        "vocab": "basketball [ˈbæskɪtbɔːl] (n.) 籃球"
+      }
+    },
+    {
+      "q": "She ________ (not like) eating onions in her salad.",
+      "options": [
+        "don't like",
+        "doesn't like",
+        "not like",
+        "doesn't likes"
+      ],
+      "correctAnswer": "doesn't like",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "她不喜歡在沙拉裡吃洋蔥。",
+        "grammar": "三單否定句使用 doesn't + 原形動詞。",
+        "vocab": "onion [ˈʌnjən] (n.) 洋蔥"
+      }
+    },
+    {
+      "q": "The Earth ________ (go) around the Sun.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": "goes",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "地球繞著太陽運行。",
+        "grammar": "真理或事實使用現在簡單式，Earth 是三單，go 加 -es。",
+        "vocab": "Earth [ɜːrθ] (n.) 地球"
+      }
+    },
+    {
+      "q": "Where ________ your father work?",
+      "options": [
+        "do",
+        "does",
+        "is",
+        "doing"
+      ],
+      "correctAnswer": "does",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你的父親在哪裡工作？",
+        "grammar": "三單疑問句助動詞需使用 Does。",
+        "vocab": "father [ˈfɑːðər] (n.) 父親"
+      }
+    },
+    {
+      "q": "Peter ________ (wash) his car every Sunday morning.",
+      "options": [
+        "wash",
+        "washs",
+        "washes",
+        "washing"
+      ],
+      "correctAnswer": "washes",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "彼得每個週日早上洗車。",
+        "grammar": "動詞字尾為 -sh 時，三單需加 -es。",
+        "vocab": "wash [wɑːʃ] (v.) 清洗"
+      }
+    },
+    {
+      "q": "The bus ________ (stop) here at 8:00 AM.",
+      "options": [
+        "stop",
+        "stops",
+        "stopes",
+        "stopping"
+      ],
+      "correctAnswer": "stops",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "公車早上八點停在這裡。",
+        "grammar": "Bus 為三單主詞，一般動詞加 -s。",
+        "vocab": "stop [stɑːp] (v.) 停止"
+      }
+    },
+    {
+      "q": "My cat ________ (sleep) for sixteen hours a day.",
+      "options": [
+        "sleep",
+        "sleeps",
+        "sleeping",
+        "sleepes"
+      ],
+      "correctAnswer": "sleeps",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我的貓一天睡16個小時。",
+        "grammar": "單數寵物主詞，動詞 sleep 直接加 -s。",
+        "vocab": "sixteen [ˌsɪksˈtiːn] (n./adj.) 十六"
+      }
+    },
+    {
+      "q": "That teacher ________ (teach) English very well.",
+      "options": [
+        "teach",
+        "teachs",
+        "teaches",
+        "teaching"
+      ],
+      "correctAnswer": "teaches",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "那位老師英語教得很好。",
+        "grammar": "動詞字尾為 -ch 時，三單需加 -es。",
+        "vocab": "teach [tiːtʃ] (v.) 教導"
+      }
+    },
+    {
+      "q": "He ________ (have) a big breakfast every morning.",
+      "options": [
+        "haves",
+        "has",
+        "having",
+        "had"
+      ],
+      "correctAnswer": "has",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他每天早上吃一份豐盛的早餐。",
+        "grammar": "have 的三單形式為不規則變化 has。",
+        "vocab": "breakfast [ˈbrekfəst] (n.) 早餐"
+      }
+    },
+    {
+      "q": "A bee ________ (fly) from flower to flower.",
+      "options": [
+        "flys",
+        "flyes",
+        "flies",
+        "flying"
+      ],
+      "correctAnswer": "flies",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "蜜蜂在花叢間飛翔。",
+        "grammar": "子音 + y 結尾的動詞，需去 y 加 -ies。",
+        "vocab": "flower [ˈflaʊər] (n.) 花朵"
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "topicId": "32-分詞句型-whilebeforeafter-v-ing",
+  "currentTopic": "Participle_After_Conj_15Q",
+  "questions": [
+    {
+      "q": "After ______ his homework, Tim went out to play basketball.",
+      "options": [
+        "finishing",
+        "finished",
+        "finish",
+        "to finish"
+      ],
+      "correctAnswer": "finishing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "寫完功課後，Tim 出去打籃球了。",
+        "grammar": "當 After 後的主詞與主句主詞 Tim 相同時，動詞改為 V-ing。",
+        "vocab": "finish [ˈfɪnɪʃ] (v.) 完成"
+      }
+    },
+    {
+      "q": "While ______ the street, you must be very careful.",
+      "options": [
+        "crossing",
+        "crossed",
+        "cross",
+        "to cross"
+      ],
+      "correctAnswer": "crossing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "過馬路時，你必須非常小心。",
+        "grammar": "While 後省略主詞 you，動作主動進行使用 V-ing。",
+        "vocab": "cross [krɔːs] (v.) 橫越"
+      }
+    },
+    {
+      "q": "Please wash your hands before ________ dinner.",
+      "options": [
+        "eating",
+        "eat",
+        "eaten",
+        "to eat"
+      ],
+      "correctAnswer": "eating",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "吃晚餐前請洗手。",
+        "grammar": "Before 後省略主詞 you，動詞改為 V-ing。",
+        "vocab": "dinner [ˈdɪnər] (n.) 晚餐"
+      }
+    },
+    {
+      "q": "After ________ a shower, I felt much better.",
+      "options": [
+        "taking",
+        "taken",
+        "took",
+        "take"
+      ],
+      "correctAnswer": "taking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "洗完澡後，我感覺好多了。",
+        "grammar": "主詞一致，After 後接 V-ing 表示主動動作的先後順序。",
+        "vocab": "shower [ˈʃaʊər] (n.) 淋浴"
+      }
+    },
+    {
+      "q": "Don't talk while ________ your food.",
+      "options": [
+        "chewing",
+        "chewed",
+        "chew",
+        "to chew"
+      ],
+      "correctAnswer": "chewing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "咀嚼食物時不要說話。",
+        "grammar": "While 表示同時發生的動作，主詞省略後接 V-ing。",
+        "vocab": "chew [tʃuː] (v.) 咀嚼"
+      }
+    },
+    {
+      "q": "Before ________ the room, remember to turn off the lights.",
+      "options": [
+        "leaving",
+        "left",
+        "leave",
+        "to leave"
+      ],
+      "correctAnswer": "leaving",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "離開房間前，記得關燈。",
+        "grammar": "Before 後省略主詞 you，動詞轉為分詞 V-ing。",
+        "vocab": "remember [rɪˈmembər] (v.) 記得"
+      }
+    },
+    {
+      "q": "After ________ the news, she started to cry.",
+      "options": [
+        "hearing",
+        "heard",
+        "hear",
+        "to hear"
+      ],
+      "correctAnswer": "hearing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "聽到消息後，她開始哭了起來。",
+        "grammar": "主詞一致，After 引導的動作簡化為 V-ing。",
+        "vocab": "news [nuːz] (n.) 新聞"
+      }
+    },
+    {
+      "q": "He always listens to music while ________ the car.",
+      "options": [
+        "driving",
+        "driven",
+        "drive",
+        "drives"
+      ],
+      "correctAnswer": "driving",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他開車時總是在聽音樂。",
+        "grammar": "同時進行的動作，While 後接 V-ing。",
+        "vocab": "drive [draɪv] (v.) 駕駛"
+      }
+    },
+    {
+      "q": "You should check your bag before ________ home.",
+      "options": [
+        "going",
+        "gone",
+        "go",
+        "went"
+      ],
+      "correctAnswer": "going",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "回家前你應該檢查一下包包。",
+        "grammar": "Before 後接分詞 V-ing 表主動。",
+        "vocab": "check [tʃek] (v.) 檢查"
+      }
+    },
+    {
+      "q": "After ________ many times, he finally succeeded.",
+      "options": [
+        "trying",
+        "tried",
+        "try",
+        "to try"
+      ],
+      "correctAnswer": "trying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "嘗試多次後，他終於成功了。",
+        "grammar": "主詞 he 一致，After 後接 V-ing。",
+        "vocab": "succeed [səkˈsiːd] (v.) 成功"
+      }
+    },
+    {
+      "q": "Be quiet while ________ in the library.",
+      "options": [
+        "studying",
+        "studied",
+        "study",
+        "to study"
+      ],
+      "correctAnswer": "studying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在圖書館讀書時要安靜。",
+        "grammar": "While 後接 V-ing 表示當下的活動。",
+        "vocab": "library [ˈlaɪbreri] (n.) 圖書館"
+      }
+    },
+    {
+      "q": "He felt nervous before ________ his speech.",
+      "options": [
+        "giving",
+        "given",
+        "give",
+        "gave"
+      ],
+      "correctAnswer": "giving",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他在演講前感到很緊張。",
+        "grammar": "Before 後接 V-ing 簡化子句。",
+        "vocab": "speech [spiːtʃ] (n.) 演講"
+      }
+    },
+    {
+      "q": "After ________ the letter, I realized I had made a mistake.",
+      "options": [
+        "reading",
+        "read",
+        "to read",
+        "reads"
+      ],
+      "correctAnswer": "reading",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "讀完信後，我意識到我犯了一個錯誤。",
+        "grammar": "主詞一致，After 後接 V-ing 表示主動動作完成。",
+        "vocab": "realize [ˈriːəlaɪz] (v.) 意識到"
+      }
+    },
+    {
+      "q": "Always wear a helmet while ________ a motorcycle.",
+      "options": [
+        "riding",
+        "ridden",
+        "ride",
+        "rode"
+      ],
+      "correctAnswer": "riding",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "騎機車時務必戴安全帽。",
+        "grammar": "While 後接 V-ing 表同時進行的動作。",
+        "vocab": "helmet [ˈhelmɪt] (n.) 安全帽"
+      }
+    },
+    {
+      "q": "Brush your teeth after ________ sweets.",
+      "options": [
+        "eating",
+        "eaten",
+        "eat",
+        "ate"
+      ],
+      "correctAnswer": "eating",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "吃完甜食後要刷牙。",
+        "grammar": "After 後省略主詞，動作主動進行用 V-ing。",
+        "vocab": "sweets [swiːts] (n.) 甜點/糖果"
+      }
+    }
+  ]
+}

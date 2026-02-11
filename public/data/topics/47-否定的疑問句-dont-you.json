@@ -1,0 +1,166 @@
+{
+  "topicId": "47-否定的疑問句-dont-you",
+  "currentTopic": "Negative_Questions_10Q",
+  "questions": [
+    {
+      "q": "A: Don't you like coffee? <br>(事實：你<b>非常喜歡</b>咖啡)",
+      "options": [
+        "Yes, I do.",
+        "No, I don't.",
+        "Yes, I don't.",
+        "No, I do."
+      ],
+      "correctAnswer": "Yes, I do.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不喜歡咖啡嗎？ B: 不，我喜歡。",
+        "grammar": "英文回答不看題目怎麼問，只看事實。既然事實是『喜歡』，回答一定要用 Yes + 肯定。",
+        "vocab": "coffee [ˈkɔːfi] (n.) 咖啡"
+      }
+    },
+    {
+      "q": "A: Didn't he go to school today? <br>(事實：他今天<b>真的沒去</b>上學)",
+      "options": [
+        "No, he didn't.",
+        "Yes, he did.",
+        "Yes, he didn't.",
+        "No, he did."
+      ],
+      "correctAnswer": "No, he didn't.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他今天沒去上學嗎？ B: 是的，他沒去。",
+        "grammar": "事實是『沒去』，回答一定要用 No + 否定。中文常譯為『對，他沒去』，但英文不說 Yes, he didn't。",
+        "vocab": "school [skuːl] (n.) 學校"
+      }
+    },
+    {
+      "q": "A: Aren't you tired? <br>(事實：你現在<b>一點都不累</b>)",
+      "options": [
+        "No, I'm not.",
+        "Yes, I am.",
+        "No, I am.",
+        "Yes, I'm not."
+      ],
+      "correctAnswer": "No, I'm not.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不累嗎？ B: 不，我不累。",
+        "grammar": "事實是『不累』，回答即為 No, I'm not。",
+        "vocab": "tired [ˈtaɪərd] (adj.) 疲累的"
+      }
+    },
+    {
+      "q": "A: Can't you swim? <br>(事實：你是<b>游泳高手</b>)",
+      "options": [
+        "Yes, I can.",
+        "No, I can't.",
+        "No, I can.",
+        "Yes, I can't."
+      ],
+      "correctAnswer": "Yes, I can.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不會游泳嗎？ B: 不，我會。",
+        "grammar": "事實是『會』，直接回答 Yes, I can。不要被題目開頭的 Can't 影響。",
+        "vocab": "swim [swɪm] (v.) 游泳"
+      }
+    },
+    {
+      "q": "A: Won't she come to the party? <br>(事實：她<b>會準時出現</b>)",
+      "options": [
+        "Yes, she will.",
+        "No, she won't.",
+        "Yes, she won't.",
+        "No, she will."
+      ],
+      "correctAnswer": "Yes, she will.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 她不會來派對嗎？ B: 不，她會來。",
+        "grammar": "事實是『會來』，故選 Yes, she will。",
+        "vocab": "party [ˈpɑːrti] (n.) 派對"
+      }
+    },
+    {
+      "q": "A: Isn't it a beautiful day? <br>(事實：天氣<b>真的很好</b>)",
+      "options": [
+        "Yes, it is.",
+        "No, it isn't.",
+        "No, it is.",
+        "Yes, it isn't."
+      ],
+      "correctAnswer": "Yes, it is.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 天氣難道不美嗎？ B: 是啊，很美。",
+        "grammar": "這類問句常用於邀請對方認同。事實是天氣好，所以用 Yes, it is。",
+        "vocab": "beautiful [ˈbjuːtɪfl] (adj.) 美麗的"
+      }
+    },
+    {
+      "q": "A: Haven't you finished your homework? <br>(事實：你<b>還沒寫完</b>)",
+      "options": [
+        "No, I haven't.",
+        "Yes, I have.",
+        "Yes, I haven't.",
+        "No, I have."
+      ],
+      "correctAnswer": "No, I haven't.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你還沒寫完作業嗎？ B: 是的，還沒。",
+        "grammar": "事實是『還沒寫完』，故用 No + 否定。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "A: Don't they live in Taipei? <br>(事實：他們<b>真的住</b>在台北)",
+      "options": [
+        "Yes, they do.",
+        "No, they don't.",
+        "No, they do.",
+        "Yes, they don't."
+      ],
+      "correctAnswer": "Yes, they do.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他們不住在台北嗎？ B: 不，他們住在那。",
+        "grammar": "事實是『住』，所以是 Yes, they do。",
+        "vocab": "live [lɪv] (v.) 居住"
+      }
+    },
+    {
+      "q": "A: Didn't you see the sign? <br>(事實：你<b>完全沒看到</b>標誌)",
+      "options": [
+        "No, I didn't.",
+        "Yes, I did.",
+        "Yes, I didn't.",
+        "No, I did."
+      ],
+      "correctAnswer": "No, I didn't.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你沒看到標誌嗎？ B: 是的，我沒看到。",
+        "grammar": "事實是『沒看到』，選 No, I didn't。",
+        "vocab": "sign [saɪn] (n.) 標誌/招牌"
+      }
+    },
+    {
+      "q": "A: Aren't those flowers lovely? <br>(事實：花<b>真的非常漂亮</b>)",
+      "options": [
+        "Yes, they are.",
+        "No, they aren't.",
+        "No, they are.",
+        "Yes, they aren't."
+      ],
+      "correctAnswer": "Yes, they are.",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 那些花難道不漂亮嗎？ B: 是啊，很漂亮。",
+        "grammar": "事實是『漂亮』，故回答 Yes, they are。",
+        "vocab": "lovely [ˈlʌvli] (adj.) 漂亮的/可愛的"
+      }
+    }
+  ]
+}

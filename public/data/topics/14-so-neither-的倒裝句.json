@@ -1,0 +1,166 @@
+{
+  "topicId": "14-so-neither-的倒裝句",
+  "currentTopic": "So_Neither_Inversion_10Q",
+  "questions": [
+    {
+      "q": "A: I'm not ready for the test. <br>B: ________ I.",
+      "options": [
+        "Neither am",
+        "So am",
+        "Neither do",
+        "So do"
+      ],
+      "correctAnswer": "Neither am",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我還沒準備好考試。<br>B: 我也是（我不也是）。",
+        "grammar": "前句是 Be 動詞否定句，後句附和用 Neither + am + I。",
+        "vocab": "ready [ˈredi] (adj.) 準備好的"
+      }
+    },
+    {
+      "q": "A: My cat loves sleeping on the sofa. <br>B: ________ mine.",
+      "options": [
+        "So does",
+        "So is",
+        "Neither does",
+        "Neither is"
+      ],
+      "correctAnswer": "So does",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我的貓喜歡睡在沙發上。<br>B: 我的也是。",
+        "grammar": "前句一般動詞肯定，後句附和用 So + does + 主詞。",
+        "vocab": "sofa [ˈsoʊfə] (n.) 沙發"
+      }
+    },
+    {
+      "q": "A: They won't arrive before 6 PM. <br>B: ________ we.",
+      "options": [
+        "Neither will",
+        "So will",
+        "Neither won't",
+        "So won't"
+      ],
+      "correctAnswer": "Neither will",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他們六點前不會到。<br>B: 我們也不會。",
+        "grammar": "未來式否定，倒裝用 Neither will + 主詞（Neither後不重複否定）。",
+        "vocab": "arrive [əˈraɪv] (v.) 到達"
+      }
+    },
+    {
+      "q": "A: I can play the piano well. <br>B: ________ my sister.",
+      "options": [
+        "So can",
+        "So does",
+        "Neither can",
+        "Neither does"
+      ],
+      "correctAnswer": "So can",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我鋼琴彈得很好。<br>B: 我妹妹也是。",
+        "grammar": "有助動詞 can 的肯定句，倒裝維持用 can。",
+        "vocab": "piano [piˈænoʊ] (n.) 鋼琴"
+      }
+    },
+    {
+      "q": "A: We didn't have lunch yet. <br>B: ________ he.",
+      "options": [
+        "Neither did",
+        "So did",
+        "Neither do",
+        "So do"
+      ],
+      "correctAnswer": "Neither did",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我們還沒吃午餐。<br>B: 他也沒吃。",
+        "grammar": "過去式否定，使用 Neither + did + 主詞。",
+        "vocab": "lunch [lʌntʃ] (n.) 午餐"
+      }
+    },
+    {
+      "q": "A: He is very proud of his son. <br>B: ________ we.",
+      "options": [
+        "So are",
+        "So is",
+        "So do",
+        "Neither are"
+      ],
+      "correctAnswer": "So are",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他為他的兒子感到自豪。<br>B: 我們也是。",
+        "grammar": "前句 be 動詞，後句主詞是 we，故用 are。",
+        "vocab": "proud [praʊd] (adj.) 自豪的"
+      }
+    },
+    {
+      "q": "A: I don't think it's a good idea. <br>B: ________ I.",
+      "options": [
+        "Neither do",
+        "So do",
+        "Neither am",
+        "So am"
+      ],
+      "correctAnswer": "Neither do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我不覺得那是個好主意。<br>B: 我也不覺得。",
+        "grammar": "一般動詞否定，使用 Neither + do + I。",
+        "vocab": "idea [aɪˈdiə] (n.) 主意"
+      }
+    },
+    {
+      "q": "A: She has already finished the work. <br>B: ________ I.",
+      "options": [
+        "So have",
+        "So has",
+        "So do",
+        "Neither have"
+      ],
+      "correctAnswer": "So have",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 她已經完成工作了。<br>B: 我也是。",
+        "grammar": "現在完成式 has finished，倒裝用 have/has。主詞 I 搭配 have。",
+        "vocab": "finished [ˈfɪnɪʃt] (v.) 完成"
+      }
+    },
+    {
+      "q": "A: You shouldn't stay up late. <br>B: ________ you.",
+      "options": [
+        "Neither should",
+        "So should",
+        "Neither do",
+        "So do"
+      ],
+      "correctAnswer": "Neither should",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不應該熬夜。<br>B: 你也不應該。",
+        "grammar": "助動詞 shouldn't 否定，倒裝用 Neither should。",
+        "vocab": "stay up late (v.phr.) 熬夜"
+      }
+    },
+    {
+      "q": "A: They went to the zoo yesterday. <br>B: ________ we.",
+      "options": [
+        "So did",
+        "So do",
+        "Neither did",
+        "So were"
+      ],
+      "correctAnswer": "So did",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他們昨天去了動物園。<br>B: 我們也是。",
+        "grammar": "一般動詞過去式肯定，倒裝用 So + did + 主詞。",
+        "vocab": "zoo [zuː] (n.) 動物園"
+      }
+    }
+  ]
+}

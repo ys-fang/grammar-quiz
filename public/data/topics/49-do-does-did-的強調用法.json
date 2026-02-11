@@ -1,0 +1,166 @@
+{
+  "topicId": "49-do-does-did-的強調用法",
+  "currentTopic": "Emphatic_Do_Does_Did_10Q",
+  "questions": [
+    {
+      "q": "A: You don't like spicy food. <br>B: That's not true! I ________ spicy food.",
+      "options": [
+        "do like",
+        "does like",
+        "do likes",
+        "did liked"
+      ],
+      "correctAnswer": "do like",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不喜歡辣的食物。 B: 那不是真的！我真的喜歡辣食。",
+        "grammar": "主詞是 I，現在式強調用 do + 原形動詞 like。",
+        "vocab": "spicy [ˈspaɪsi] (adj.) 辣的"
+      }
+    },
+    {
+      "q": "She ________ very beautiful in that white dress tonight.",
+      "options": [
+        "does look",
+        "do look",
+        "does looks",
+        "did look"
+      ],
+      "correctAnswer": "does look",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她今晚穿那件白洋裝真的看起來很美。",
+        "grammar": "主詞是 She (第三人稱單數)，強調用 does + 原形動詞 look。",
+        "vocab": "beautiful [ˈbjuːtɪfl] (adj.) 美麗的"
+      }
+    },
+    {
+      "q": "A: Why didn't you call me yesterday? <br>B: But I ________ you, but you didn't answer.",
+      "options": [
+        "did call",
+        "do call",
+        "did called",
+        "does call"
+      ],
+      "correctAnswer": "did call",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你昨天為什麼沒打給我？ B: 但我真的有打給你，只是你沒接。",
+        "grammar": "時間是 yesterday (過去式)，強調用 did + 原形動詞 call。",
+        "vocab": "answer [ˈænsər] (v.) 接聽/回答"
+      }
+    },
+    {
+      "q": "He doesn't talk much, but when he ________ speak, everyone listens.",
+      "options": [
+        "does",
+        "do",
+        "did",
+        "is"
+      ],
+      "correctAnswer": "does",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他不常說話，但當他真的開口時，每個人都會傾聽。",
+        "grammar": "主詞是 he，後方動詞 speak 是原形，故選強調助動詞 does。",
+        "vocab": "listens [ˈlɪsnz] (v.) 傾聽"
+      }
+    },
+    {
+      "q": "________ be careful when you cross the busy street!",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Is"
+      ],
+      "correctAnswer": "Do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "過繁忙的馬路時請務必小心！",
+        "grammar": "祈使句中的強調用法，一律用 Do 開頭，表達『務必』。",
+        "vocab": "cross [krɔːs] (v.) 橫越"
+      }
+    },
+    {
+      "q": "A: I heard it didn't rain in London. <br>B: No, it ________ rain, but only for a few minutes.",
+      "options": [
+        "did",
+        "do",
+        "does",
+        "was"
+      ],
+      "correctAnswer": "did",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我聽說倫敦沒下雨。 B: 不，真的有下雨，但只下了幾分鐘。",
+        "grammar": "討論過去發生的事實，使用 did 強調『真的有』。",
+        "vocab": "minutes [ˈmɪnɪts] (n.) 分鐘"
+      }
+    },
+    {
+      "q": "Although he is busy, he ________ find time to exercise every day.",
+      "options": [
+        "does",
+        "do",
+        "did",
+        "is"
+      ],
+      "correctAnswer": "does",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "雖然他很忙，但他每天確實會找時間運動。",
+        "grammar": "主詞 he，習慣性動作(現在式)，強調用 does。",
+        "vocab": "exercise [ˈeksərsaɪz] (v.) 運動"
+      }
+    },
+    {
+      "q": "I ________ feel much better after taking a short nap.",
+      "options": [
+        "do",
+        "does",
+        "did",
+        "am"
+      ],
+      "correctAnswer": "do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小睡一下後，我真的感覺好多了。",
+        "grammar": "主詞 I，表達現在的感受，強調用 do。",
+        "vocab": "nap [næp] (n.) 小睡"
+      }
+    },
+    {
+      "q": "A: You forgot our anniversary! <br>B: I ________! I even bought a gift for you.",
+      "options": [
+        "did remember",
+        "do remember",
+        "did remembered",
+        "does remember"
+      ],
+      "correctAnswer": "did remember",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "B: 我真的有記得！我甚至還買了禮物。",
+        "grammar": "過去時間點的強調肯定，did + 原形動詞 remember。",
+        "vocab": "anniversary [ˌænɪˈvɜːrsəri] (n.) 週年紀念日"
+      }
+    },
+    {
+      "q": "They ________ have a lot of talent, even though they are young.",
+      "options": [
+        "do",
+        "does",
+        "did",
+        "are"
+      ],
+      "correctAnswer": "do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "儘管他們很年輕，他們確實很有才華。",
+        "grammar": "主詞 They (複數)，現在式強調用 do。",
+        "vocab": "talent [ˈtælənt] (n.) 才華"
+      }
+    }
+  ]
+}

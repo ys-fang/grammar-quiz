@@ -1,0 +1,171 @@
+@import "tailwindcss";
+
+/* ── Design Tokens ─────────────────────────────────────── */
+@theme {
+  --color-rose: #E56399;
+  --color-tan: #D3A588;
+  --color-almond: #ECE2D0;
+  --color-mint: #7FD1B9;
+  --color-brown: #7A6563;
+  --color-quiz-blue: #1a73e8;
+  --color-correct: #2e7d32;
+  --color-wrong: #d32f2f;
+}
+
+:root {
+  --bg-gradient: linear-gradient(135deg, #ECE2D0 0%, #DFD5C1 100%);
+  --quiz-gradient: linear-gradient(135deg, #1565c0 0%, #42a5f5 100%);
+  --card-bg: #FFFFFF;
+  --manga-dot: radial-gradient(rgba(122, 101, 99, 0.08) 1px, transparent 0);
+}
+
+/* ── Base ──────────────────────────────────────────────── */
+body {
+  font-family: 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  color: var(--color-brown);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Landing Page ──────────────────────────────────────── */
+.landing-page {
+  background: var(--bg-gradient);
+  background-attachment: fixed;
+}
+
+/* Noren (暖簾) */
+.noren-header {
+  position: relative;
+  background: var(--card-bg);
+  background-image: var(--manga-dot);
+  background-size: 15px 15px;
+  border-radius: 0 0 30px 30px;
+  box-shadow: 0 10px 30px rgba(122, 101, 99, 0.1);
+  border-bottom: 6px solid var(--color-mint);
+  overflow: hidden;
+}
+
+.noren-part {
+  background: var(--color-mint);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  animation: noren-sway 3s ease-in-out infinite;
+}
+
+.noren-part:nth-child(2) { animation-delay: 0.15s; }
+.noren-part:nth-child(3) { animation-delay: 0.3s; }
+.noren-part:nth-child(4) { animation-delay: 0.45s; }
+
+@keyframes noren-sway {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(3px); }
+}
+
+/* Category sections */
+.category-section {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.category-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.category-title::before {
+  content: '';
+  width: 5px;
+  height: 1.2rem;
+  background: var(--color-rose);
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+/* Topic cards */
+.topic-card {
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(122, 101, 99, 0.06);
+}
+
+.topic-card::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  right: -5px;
+  width: 25px;
+  height: 25px;
+  background: var(--color-tan);
+  opacity: 0.15;
+  border-radius: 50%;
+}
+
+.topic-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--color-mint) !important;
+  box-shadow: 0 8px 20px rgba(127, 209, 185, 0.15);
+}
+
+/* ── Quiz Page ─────────────────────────────────────────── */
+.quiz-page {
+  min-height: 100dvh;
+}
+
+/* Option buttons */
+.option-btn {
+  font-size: 1rem;
+}
+
+.option-btn[data-state="default"]:hover {
+  border-color: var(--color-quiz-blue);
+  background: #e3f2fd;
+}
+
+.option-btn[data-state="correct"] {
+  background: #e8f5e9;
+  border-color: var(--color-correct);
+  color: var(--color-correct);
+  font-weight: 600;
+}
+
+.option-btn[data-state="wrong"] {
+  background: #ffebee;
+  border-color: var(--color-wrong);
+  color: var(--color-wrong);
+}
+
+/* Explanation box */
+.explanation-box {
+  background: #fff9c4;
+  border-left: 5px solid #fbc02d;
+  border-radius: 0 10px 10px 0;
+}
+
+/* Result screen */
+.result-screen {
+  animation: fade-in 0.4s ease-out;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Responsive ────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .topic-card {
+    padding: 12px !important;
+  }
+
+  .topic-name {
+    font-size: 0.85rem;
+  }
+
+  .category-section {
+    padding: 15px 12px;
+  }
+}

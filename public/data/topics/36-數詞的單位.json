@@ -1,0 +1,166 @@
+{
+  "topicId": "36-數詞的單位",
+  "currentTopic": "Number_Units_10Q",
+  "questions": [
+    {
+      "q": "There are about three ______ students in this school.",
+      "options": [
+        "thousand",
+        "thousands",
+        "thousands of",
+        "thousand of"
+      ],
+      "correctAnswer": "thousand",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這所學校大約有三千名學生。",
+        "grammar": "前面有數字 three，單位 thousand 保持單數型態，且不接 of。",
+        "vocab": "student [ˈstuːdnt] (n.) 學生"
+      }
+    },
+    {
+      "q": "______ of people visited the museum last weekend.",
+      "options": [
+        "Hundreds",
+        "Hundred",
+        "Three hundred",
+        "Hundred of"
+      ],
+      "correctAnswer": "Hundreds",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "上週末有數以百計的人參觀了博物館。",
+        "grammar": "表達模糊複數「數以百計」，單位要加 s 並接 of。這裡作主詞用。",
+        "vocab": "museum [mjuˈziːəm] (n.) 博物館"
+      }
+    },
+    {
+      "q": "The company sold five ______ cars last year.",
+      "options": [
+        "million",
+        "millions",
+        "millions of",
+        "million of"
+      ],
+      "correctAnswer": "million",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "該公司去年賣出了五百萬輛汽車。",
+        "grammar": "前方有數字 five，單位 million 不加 s 也不接 of。",
+        "vocab": "million [ˈmɪljən] (n.) 百萬"
+      }
+    },
+    {
+      "q": "He spent ______ of dollars on his new house.",
+      "options": [
+        "thousands",
+        "thousand",
+        "five thousand",
+        "thousand of"
+      ],
+      "correctAnswer": "thousands",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他在新房子上花了數千美元。",
+        "grammar": "表達模糊複數「數以千計」，使用 thousands of。",
+        "vocab": "dollar [ˈdɑːlər] (n.) 美元"
+      }
+    },
+    {
+      "q": "There are seven ______ people on Earth.",
+      "options": [
+        "billion",
+        "billions",
+        "billions of",
+        "billion of"
+      ],
+      "correctAnswer": "billion",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "地球上有七十億人口。",
+        "grammar": "精確數字用法，seven 後接單數型單位 billion。",
+        "vocab": "billion [ˈbɪljən] (n.) 十億"
+      }
+    },
+    {
+      "q": "______ of stars can be seen on a clear night.",
+      "options": [
+        "Millions",
+        "Million",
+        "Two million",
+        "Million of"
+      ],
+      "correctAnswer": "Millions",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在晴朗的夜晚可以看到數百萬顆星星。",
+        "grammar": "模糊複數「數以百萬計」，使用 Millions of。",
+        "vocab": "clear [klɪr] (adj.) 晴朗的"
+      }
+    },
+    {
+      "q": "I have ______ dollars in my wallet.",
+      "options": [
+        "ten",
+        "tens",
+        "tens of",
+        "ten of"
+      ],
+      "correctAnswer": "ten",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的錢包裡有十美元。",
+        "grammar": "單純的數字用法。",
+        "vocab": "wallet [ˈwɑːlɪt] (n.) 錢包"
+      }
+    },
+    {
+      "q": "We saw ______ of birds flying south.",
+      "options": [
+        "hundreds",
+        "hundred",
+        "two hundred",
+        "hundred of"
+      ],
+      "correctAnswer": "hundreds",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們看到數以百計的鳥向南飛。",
+        "grammar": "模糊複數用法，單位百位數加 s 並接 of。",
+        "vocab": "south [saʊθ] (adv.) 向南方"
+      }
+    },
+    {
+      "q": "The library has over twenty ______ books.",
+      "options": [
+        "thousand",
+        "thousands",
+        "thousands of",
+        "thousand of"
+      ],
+      "correctAnswer": "thousand",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這間圖書館有超過兩萬本書。",
+        "grammar": "twenty 是數字，後接單數單位 thousand。",
+        "vocab": "library [ˈlɪbreri] (n.) 圖書館"
+      }
+    },
+    {
+      "q": "The population of that city is about two ______.",
+      "options": [
+        "million",
+        "millions",
+        "millions of",
+        "million of"
+      ],
+      "correctAnswer": "million",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個城市的人口大約是兩百萬。",
+        "grammar": "精確數字搭配單數型單位。",
+        "vocab": "population [ˌpɑːpjuˈleɪʃn] (n.) 人口"
+      }
+    }
+  ]
+}

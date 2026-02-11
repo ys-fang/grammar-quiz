@@ -1,0 +1,231 @@
+{
+  "topicId": "04-關係副詞",
+  "currentTopic": "Rel_Adverbs_Mastery",
+  "questions": [
+    {
+      "q": "This is the house _______ I lived when I was a child.",
+      "options": [
+        "where",
+        "which",
+        "that",
+        "who"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這是我小時候住過的房子。",
+        "grammar": "where 引導地點。原句：I lived IN the house. (where = in which)"
+      }
+    },
+    {
+      "q": "Do you remember the day _______ we first met?",
+      "options": [
+        "which",
+        "where",
+        "when",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "你記得我們第一次見面的那天嗎？",
+        "grammar": "when 引導時間。原句：We met ON the day. (when = on which)"
+      }
+    },
+    {
+      "q": "Tell me the reason _______ you were late this morning.",
+      "options": [
+        "why",
+        "where",
+        "when",
+        "which"
+      ],
+      "correctAnswer": "why",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "告訴我你今天早上遲到的理由。",
+        "grammar": "why 引導原因。原句：You were late FOR the reason. (why = for which)"
+      }
+    },
+    {
+      "q": "Is this the restaurant _______ they serve great pasta?",
+      "options": [
+        "where",
+        "which",
+        "why",
+        "who"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這就是那家供應美味義大利麵的餐廳嗎？",
+        "grammar": "地點副詞 where。原句：They serve pasta IN the restaurant."
+      }
+    },
+    {
+      "q": "Summer is the season _______ people love to go swimming.",
+      "options": [
+        "where",
+        "when",
+        "which",
+        "that"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "夏天是人們喜愛去游泳的季節。",
+        "grammar": "時間副詞 when。原句：People love to go swimming DURING summer."
+      }
+    },
+    {
+      "q": "The library is a place _______ students go to study.",
+      "options": [
+        "which",
+        "where",
+        "who",
+        "when"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "圖書館是學生去讀書的地方。",
+        "grammar": "地點副詞 where。原句：Students go to study AT the library."
+      }
+    },
+    {
+      "q": "Sunday is the day _______ I usually visit my grandparents.",
+      "options": [
+        "which",
+        "where",
+        "when",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "週日是我通常探望祖父母的日子。",
+        "grammar": "時間副詞 when。原句：I visit them ON Sunday."
+      }
+    },
+    {
+      "q": "I don't know the reason _______ she is so angry.",
+      "options": [
+        "where",
+        "why",
+        "when",
+        "which"
+      ],
+      "correctAnswer": "why",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我不知道她為什麼這麼生氣。",
+        "grammar": "原因副詞 why。常與 the reason 搭配使用。"
+      }
+    },
+    {
+      "q": "This is the town _______ I was born and raised.",
+      "options": [
+        "which",
+        "where",
+        "that",
+        "who"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "這是我出生並長大的小鎮。",
+        "grammar": "地點副詞 where。原句：I was born IN the town."
+      }
+    },
+    {
+      "q": "1945 was the year _______ World War II ended.",
+      "options": [
+        "when",
+        "where",
+        "which",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "1945年是第二次世界大戰結束的那一年。",
+        "grammar": "時間副詞 when。原句：The war ended IN that year."
+      }
+    },
+    {
+      "q": "The cafe _______ we met is now closed.",
+      "options": [
+        "which",
+        "where",
+        "why",
+        "when"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我們見面的那家咖啡館現在關門了。",
+        "grammar": "地點副詞 where。原句：We met AT the cafe."
+      }
+    },
+    {
+      "q": "I can't forget the time _______ we got lost in London.",
+      "options": [
+        "where",
+        "which",
+        "when",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我忘不了我們在倫敦迷路的那次。",
+        "grammar": "時間副詞 when。原句：We got lost AT that time."
+      }
+    },
+    {
+      "q": "That is the spot _______ the accident happened.",
+      "options": [
+        "which",
+        "where",
+        "why",
+        "who"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "那就是車禍發生的地點。",
+        "grammar": "地點副詞 where。原句：The accident happened AT that spot."
+      }
+    },
+    {
+      "q": "There are several reasons _______ students fail exams.",
+      "options": [
+        "when",
+        "where",
+        "why",
+        "which"
+      ],
+      "correctAnswer": "why",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "有幾個學生考試不及格的原因。",
+        "grammar": "原因副詞 why。解釋 students fail 的理由。"
+      }
+    },
+    {
+      "q": "I'll never forget the moment _______ I won the race.",
+      "options": [
+        "which",
+        "where",
+        "when",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我永遠不會忘記贏得比賽的那一刻。",
+        "grammar": "時間副詞 when。原句：I won the race AT that moment."
+      }
+    }
+  ]
+}

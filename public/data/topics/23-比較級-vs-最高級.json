@@ -1,0 +1,246 @@
+{
+  "topicId": "23-比較級-vs-最高級",
+  "currentTopic": "Comp_Super_15Q",
+  "questions": [
+    {
+      "q": "This cake is ______ than that one.",
+      "options": [
+        "more delicious",
+        "deliciouser",
+        "the most delicious",
+        "delicious"
+      ],
+      "correctAnswer": "more delicious",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這塊蛋糕比那塊更好吃。",
+        "grammar": "看到 than 必用比較級。delicious 為多音節單字，前方加 more。",
+        "vocab": "delicious [dɪˈlɪʃəs] (adj.) 美味地"
+      }
+    },
+    {
+      "q": "Mt. Everest is ______ mountain in the world.",
+      "options": [
+        "the highest",
+        "higher",
+        "highest",
+        "the most high"
+      ],
+      "correctAnswer": "the highest",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "聖母峰是世界上最高的山。",
+        "grammar": "最高級前面必須加 the，單音節字尾加 -est。",
+        "vocab": "mountain [ˈmaʊntn] (n.) 山"
+      }
+    },
+    {
+      "q": "Of the two boys, Kevin is ______.",
+      "options": [
+        "the taller",
+        "tallest",
+        "taller",
+        "the tallest"
+      ],
+      "correctAnswer": "the taller",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這兩個男孩中，凱文是較高的那個。",
+        "grammar": "兩者比較且指明是「其中之一」時，結構為 the + 比較級 + of the two。",
+        "vocab": "tall [tɔːl] (adj.) 高的"
+      }
+    },
+    {
+      "q": "Playing sports is ______ than playing video games.",
+      "options": [
+        "more interesting",
+        "interesting",
+        "most interesting",
+        "interestinger"
+      ],
+      "correctAnswer": "more interesting",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "運動比玩電動有趣多了。",
+        "grammar": "看到 than 用比較級。多音節單字 interesting 前方加 more。",
+        "vocab": "interesting [ˈɪntrəstɪŋ] (adj.) 有趣的"
+      }
+    },
+    {
+      "q": "Yesterday was ______ day of this summer.",
+      "options": [
+        "the hottest",
+        "hotter",
+        "the most hot",
+        "hottest"
+      ],
+      "correctAnswer": "the hottest",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "昨天是今年夏天最熱的一天。",
+        "grammar": "最高級前面加 the。hot 字尾重複加 -est。",
+        "vocab": "summer [ˈsʌmər] (n.) 夏天"
+      }
+    },
+    {
+      "q": "A: Who is ______, Judy or Mary? <br>B: Judy is.",
+      "options": [
+        "prettier",
+        "the prettiest",
+        "more pretty",
+        "prettyer"
+      ],
+      "correctAnswer": "prettier",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: Judy 和 Mary 誰比較漂亮？<br>B: Judy 是。",
+        "grammar": "兩者之間的詢問使用比較級。y 結尾去 y 加 -ier。",
+        "vocab": "pretty [ˈprɪti] (adj.) 漂亮的"
+      }
+    },
+    {
+      "q": "Health is ______ than money.",
+      "options": [
+        "more important",
+        "importanter",
+        "the most important",
+        "most important"
+      ],
+      "correctAnswer": "more important",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "健康比金錢更重要。",
+        "grammar": "看到 than 用比較級。important 是多音節，加 more。",
+        "vocab": "important [ɪmˈpɔːrtnt] (adj.) 重要的"
+      }
+    },
+    {
+      "q": "This is ______ book I have ever read.",
+      "options": [
+        "the best",
+        "better",
+        "the most good",
+        "best"
+      ],
+      "correctAnswer": "the best",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這是我讀過最好看的一本書。",
+        "grammar": "最高級前面加 the。good 的最高級是不規則變化 best。",
+        "vocab": "read [riːd] (v.) 閱讀"
+      }
+    },
+    {
+      "q": "Of the two cars, the red one is ______.",
+      "options": [
+        "the more expensive",
+        "most expensive",
+        "more expensive",
+        "the expensiver"
+      ],
+      "correctAnswer": "the more expensive",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這兩部車中，紅色的那部較貴。",
+        "grammar": "the + 比較級 + of the two。expensive 是多音節，比較級加 more。",
+        "vocab": "expensive [ɪkˈspensɪv] (adj.) 昂貴的"
+      }
+    },
+    {
+      "q": "English is ______ for me than Math.",
+      "options": [
+        "easier",
+        "more easy",
+        "easiest",
+        "the easiest"
+      ],
+      "correctAnswer": "easier",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "英文對我來說比數學簡單。",
+        "grammar": "看到 than 用比較級。easy 去 y 加 -ier。",
+        "vocab": "easy [ˈiːzi] (adj.) 容易的"
+      }
+    },
+    {
+      "q": "Winter is ______ season of the year.",
+      "options": [
+        "the coldest",
+        "colder",
+        "coldest",
+        "the most cold"
+      ],
+      "correctAnswer": "the coldest",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "冬天是一年中最冷的季節。",
+        "grammar": "範圍是一年，用最高級 the + -est。",
+        "vocab": "season [ˈsiːzn] (n.) 季節"
+      }
+    },
+    {
+      "q": "He runs ______ than anyone else in class.",
+      "options": [
+        "faster",
+        "fastest",
+        "the fastest",
+        "more fast"
+      ],
+      "correctAnswer": "faster",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他跑得比班上任何人都快。",
+        "grammar": "看到 than 用比較級。fast 的比較級是 faster。",
+        "vocab": "anyone else (phr.) 其他任何人"
+      }
+    },
+    {
+      "q": "The blue whale is ______ animal in the world.",
+      "options": [
+        "the largest",
+        "larger",
+        "the most large",
+        "largest"
+      ],
+      "correctAnswer": "the largest",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "藍鯨是世界上最大的動物。",
+        "grammar": "範圍是全世界，用最高級 the + -est。",
+        "vocab": "whale [weɪl] (n.) 鯨魚"
+      }
+    },
+    {
+      "q": "Your idea is ______ than mine.",
+      "options": [
+        "better",
+        "gooder",
+        "the best",
+        "more good"
+      ],
+      "correctAnswer": "better",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你的主意比我的好。",
+        "grammar": "than 用比較級。good 的比較級是不規則變化 better。",
+        "vocab": "idea [aɪˈdiə] (n.) 主意"
+      }
+    },
+    {
+      "q": "This is ______ way to solve the problem.",
+      "options": [
+        "the most difficult",
+        "difficulter",
+        "the difficulter",
+        "more difficult"
+      ],
+      "correctAnswer": "the most difficult",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這是解決這個問題最難的方法。",
+        "grammar": "最高級 the + most + 多音節形容詞。",
+        "vocab": "solve [sɑːlv] (v.) 解決"
+      }
+    }
+  ]
+}

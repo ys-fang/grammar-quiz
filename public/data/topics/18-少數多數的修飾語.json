@@ -1,0 +1,166 @@
+{
+  "topicId": "18-少數多數的修飾語",
+  "currentTopic": "Few_Little_Quantifiers_10Q",
+  "questions": [
+    {
+      "q": "I have ______ friends, so I often feel lonely.",
+      "options": [
+        "few",
+        "a few",
+        "little",
+        "a little"
+      ],
+      "correctAnswer": "few",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我幾乎沒有朋友，所以我經常感到孤獨。",
+        "grammar": "friends 是可數名詞。由 lonely 可知語氣為否定，強調「幾乎沒有」，故用 few。",
+        "vocab": "lonely [ˈloʊnli] (adj.) 孤獨的"
+      }
+    },
+    {
+      "q": "Hurry up! There is ______ time left before the train leaves.",
+      "options": [
+        "little",
+        "a little",
+        "few",
+        "a few"
+      ],
+      "correctAnswer": "little",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "快點！火車開走前幾乎沒時間了。",
+        "grammar": "time 是不可數名詞。由 Hurry up 可知強調「不夠用/幾乎沒了」，故用 little。",
+        "vocab": "hurry up (v.phr.) 快一點"
+      }
+    },
+    {
+      "q": "Don't worry. I still have ______ money in my pocket.",
+      "options": [
+        "a little",
+        "little",
+        "a few",
+        "few"
+      ],
+      "correctAnswer": "a little",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別擔心。我口袋裡還有一點錢。",
+        "grammar": "money 是不可數名詞。由 Don't worry 可知語氣肯定，強調「還有/夠用」，故用 a little。",
+        "vocab": "pocket [ˈpɑːkɪt] (n.) 口袋"
+      }
+    },
+    {
+      "q": "She is lucky. She has ______ good friends to help her.",
+      "options": [
+        "a few",
+        "few",
+        "a little",
+        "little"
+      ],
+      "correctAnswer": "a few",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她很幸運。她有幾個好朋友可以幫助她。",
+        "grammar": "friends 是可數名詞。語氣肯定，強調「有一些」，故用 a few。",
+        "vocab": "lucky [ˈlʌki] (adj.) 幸運的"
+      }
+    },
+    {
+      "q": "There is ______ water in the bottle. It's almost empty.",
+      "options": [
+        "little",
+        "a little",
+        "few",
+        "a few"
+      ],
+      "correctAnswer": "little",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "瓶子裡幾乎沒水了。它快空了。",
+        "grammar": "water 是不可數名詞。強調「幾乎沒有」，故用 little。",
+        "vocab": "almost [ˈɔːlmoʊst] (adv.) 幾乎"
+      }
+    },
+    {
+      "q": "He knows ______ about the plan, so he can't tell us anything.",
+      "options": [
+        "little",
+        "a little",
+        "few",
+        "a few"
+      ],
+      "correctAnswer": "little",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他對這個計畫幾乎一無所知，所以他無法告訴我們任何事。",
+        "grammar": "know 知識/了解是抽象不可數。強調「幾乎不知」，故用 little。",
+        "vocab": "plan [plæn] (n.) 計畫"
+      }
+    },
+    {
+      "q": "I need ______ minutes to finish this report.",
+      "options": [
+        "a few",
+        "few",
+        "a little",
+        "little"
+      ],
+      "correctAnswer": "a few",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我需要幾分鐘的時間來完成這份報告。",
+        "grammar": "minutes 是可數名詞。強調「需要一些」，語氣肯定，故用 a few。",
+        "vocab": "report [rɪˈpɔːrt] (n.) 報告"
+      }
+    },
+    {
+      "q": "Very ______ people attended the meeting due to the heavy rain.",
+      "options": [
+        "few",
+        "a few",
+        "little",
+        "a little"
+      ],
+      "correctAnswer": "few",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "因為大雨，很少人參加會議。",
+        "grammar": "people 是可數名詞。強調「人數很少」，帶有否定意味，且前面常加 Very 修飾，故用 few。",
+        "vocab": "attend [əˈtend] (v.) 出席"
+      }
+    },
+    {
+      "q": "Can you add ______ sugar to my coffee? It's too bitter.",
+      "options": [
+        "a little",
+        "little",
+        "a few",
+        "few"
+      ],
+      "correctAnswer": "a little",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你能幫我的咖啡加點糖嗎？太苦了。",
+        "grammar": "sugar 是不可數名詞。語氣肯定，要求「加一些」，故用 a little。",
+        "vocab": "bitter [ˈbɪtər] (adj.) 苦的"
+      }
+    },
+    {
+      "q": "Wait for me! I have ______ things to do before leaving.",
+      "options": [
+        "a few",
+        "few",
+        "a little",
+        "little"
+      ],
+      "correctAnswer": "a few",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "等等我！我離開前還有幾件事要做。",
+        "grammar": "things 是可數名詞。語氣肯定，強調「還有一些」，故用 a few。",
+        "vocab": "wait for (v.phr.) 等待"
+      }
+    }
+  ]
+}

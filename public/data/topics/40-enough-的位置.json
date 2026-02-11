@@ -1,0 +1,166 @@
+{
+  "topicId": "40-enough-的位置",
+  "currentTopic": "Enough_Position_10Q",
+  "questions": [
+    {
+      "q": "Is the coffee ________? I can't drink it yet.",
+      "options": [
+        "hot enough",
+        "enough hot",
+        "hotly enough",
+        "enough hotly"
+      ],
+      "correctAnswer": "hot enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這咖啡夠熱嗎？我還不能喝。",
+        "grammar": "hot 是形容詞，enough 必須放在形容詞後面。",
+        "vocab": "coffee [ˈkɔːfi] (n.) 咖啡"
+      }
+    },
+    {
+      "q": "We don't have ________ to make a cake.",
+      "options": [
+        "enough flour",
+        "flour enough",
+        "enough flours",
+        "flours enough"
+      ],
+      "correctAnswer": "enough flour",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們沒有足夠的麵粉來做蛋糕。",
+        "grammar": "flour 是名詞，enough 通常放在名詞前面。",
+        "vocab": "flour [ˈflaʊər] (n.) 麵粉"
+      }
+    },
+    {
+      "q": "He is ________ to reach the top shelf.",
+      "options": [
+        "tall enough",
+        "enough tall",
+        "taller enough",
+        "enough taller"
+      ],
+      "correctAnswer": "tall enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他夠高，可以夠到頂層架子。",
+        "grammar": "tall 是形容詞，enough 置於其後。",
+        "vocab": "shelf [ʃelf] (n.) 架子"
+      }
+    },
+    {
+      "q": "Do you have ________ to finish the project?",
+      "options": [
+        "enough time",
+        "time enough",
+        "enough times",
+        "times enough"
+      ],
+      "correctAnswer": "enough time",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有足夠的時間完成這個計畫嗎？",
+        "grammar": "time 是名詞，enough 放在前面。",
+        "vocab": "project [ˈprɑːdʒekt] (n.) 計畫"
+      }
+    },
+    {
+      "q": "The boy didn't run ________ to catch the bus.",
+      "options": [
+        "fast enough",
+        "enough fast",
+        "fastly enough",
+        "enough fastly"
+      ],
+      "correctAnswer": "fast enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那男孩跑得不夠快，沒趕上公車。",
+        "grammar": "fast 在此為副詞，enough 置於副詞之後。",
+        "vocab": "catch [kætʃ] (v.) 趕上/捕捉"
+      }
+    },
+    {
+      "q": "There aren't ________ for all the guests.",
+      "options": [
+        "enough chairs",
+        "chairs enough",
+        "enough chair",
+        "chair enough"
+      ],
+      "correctAnswer": "enough chairs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "沒有足夠的椅子給所有客人。",
+        "grammar": "chairs 是名詞，enough 放在前面。",
+        "vocab": "guest [ɡest] (n.) 客人"
+      }
+    },
+    {
+      "q": "I'm not ________ to go to that concert alone.",
+      "options": [
+        "old enough",
+        "enough old",
+        "older enough",
+        "enough older"
+      ],
+      "correctAnswer": "old enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的年紀還不夠大，不能單獨去那場音樂會。",
+        "grammar": "old 是形容詞，enough 置於其後。",
+        "vocab": "alone [əˈloʊn] (adv.) 單獨地"
+      }
+    },
+    {
+      "q": "She has ________ to buy a new car.",
+      "options": [
+        "enough money",
+        "money enough",
+        "enough moneys",
+        "moneys enough"
+      ],
+      "correctAnswer": "enough money",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她有足夠的錢買新車。",
+        "grammar": "money 是名詞，enough 放在前面。",
+        "vocab": "money [ˈmʌni] (n.) 金錢"
+      }
+    },
+    {
+      "q": "The room is ________ for ten people.",
+      "options": [
+        "large enough",
+        "enough large",
+        "largely enough",
+        "enough largely"
+      ],
+      "correctAnswer": "large enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這個房間夠大，可以容納十個人。",
+        "grammar": "large 是形容詞，enough 置於其後。",
+        "vocab": "large [lɑːrdʒ] (adj.) 大的"
+      }
+    },
+    {
+      "q": "Are the instructions ________ for you to follow?",
+      "options": [
+        "clear enough",
+        "enough clear",
+        "clearly enough",
+        "enough clearly"
+      ],
+      "correctAnswer": "clear enough",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這些說明對你來說夠清楚嗎？",
+        "grammar": "clear 是形容詞，enough 置於其後。",
+        "vocab": "instruction [ɪnˈstrʌkʃn] (n.) 說明/指令"
+      }
+    }
+  ]
+}

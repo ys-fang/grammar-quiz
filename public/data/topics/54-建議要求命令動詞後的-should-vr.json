@@ -1,0 +1,246 @@
+{
+  "topicId": "54-建議要求命令動詞後的-should-vr",
+  "currentTopic": "Subjunctive_Mood_15Q",
+  "questions": [
+    {
+      "q": "The doctor suggested that he ________ smoking immediately.",
+      "options": [
+        "quit",
+        "quits",
+        "quitted",
+        "to quit"
+      ],
+      "correctAnswer": "quit",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "醫生建議他立即戒菸。",
+        "grammar": "Suggest 後的 that 子句應使用 (should) + 原形動詞，即使主詞是 he。",
+        "vocab": "quit [kwɪt] (v.) 停止/戒掉"
+      }
+    },
+    {
+      "q": "The boss ordered that the report ________ finished by Friday.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "been"
+      ],
+      "correctAnswer": "be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老闆命令這份報告必須在週五前完成。",
+        "grammar": "Order 後接虛擬語氣，且為被動語態，應使用 (should) be + p.p.。",
+        "vocab": "report [rɪˈpɔːrt] (n.) 報告"
+      }
+    },
+    {
+      "q": "We insist that she ________ with us to the party.",
+      "options": [
+        "come",
+        "comes",
+        "came",
+        "coming"
+      ],
+      "correctAnswer": "come",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們堅持她必須和我們一起去派對。",
+        "grammar": "Insist 引導的子句使用原形動詞 come。",
+        "vocab": "insist [ɪnˈsɪst] (v.) 堅持"
+      }
+    },
+    {
+      "q": "The law requires that every driver ________ a seat belt.",
+      "options": [
+        "wear",
+        "wears",
+        "wore",
+        "to wear"
+      ],
+      "correctAnswer": "wear",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "法律規定每位駕駛都必須繫安全帶。",
+        "grammar": "Require 表示要求，that 子句使用原形動詞 wear。",
+        "vocab": "require [rɪˈkwaɪər] (v.) 要求"
+      }
+    },
+    {
+      "q": "I recommend that you ________ late for the meeting.",
+      "options": [
+        "not be",
+        "don't be",
+        "aren't",
+        "not being"
+      ],
+      "correctAnswer": "not be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我建議你會議不要遲到。",
+        "grammar": "虛擬語氣的否定型是直接在原形動詞前加 not，不可用 don't。",
+        "vocab": "recommend [ˌrekəˈmend] (v.) 推薦/建議"
+      }
+    },
+    {
+      "q": "They requested that the music ________ turned down.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "were"
+      ],
+      "correctAnswer": "be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們要求把音樂關小聲點。",
+        "grammar": "Request 後接被動虛擬語氣，使用 (should) be + p.p.。",
+        "vocab": "request [rɪˈkwest] (v.) 要求/請求"
+      }
+    },
+    {
+      "q": "The teacher asked that Peter ________ the classroom after school.",
+      "options": [
+        "clean",
+        "cleans",
+        "cleaned",
+        "to clean"
+      ],
+      "correctAnswer": "clean",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師要求 Peter 放學後打掃教室。",
+        "grammar": "Ask (要求) 的子句中使用原形動詞 clean。",
+        "vocab": "clean [kliːn] (v.) 打掃"
+      }
+    },
+    {
+      "q": "It is essential that everyone ________ on time for the exam.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "are"
+      ],
+      "correctAnswer": "be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每個人考試準時是非常重要的。",
+        "grammar": "形容詞 essential (必要的) 也會觸發虛擬語氣，使用原形 be。",
+        "vocab": "essential [ɪˈsenʃl] (adj.) 必要的/不可或缺的"
+      }
+    },
+    {
+      "q": "He demanded that the money ________ returned to him.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "were"
+      ],
+      "correctAnswer": "be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他要求把錢還給他。",
+        "grammar": "Demand 後接被動型虛擬語氣，選 be。",
+        "vocab": "demand [dɪˈmænd] (v.) 強烈要求"
+      }
+    },
+    {
+      "q": "The coach advised that we ________ hard every day.",
+      "options": [
+        "practice",
+        "practices",
+        "practiced",
+        "to practice"
+      ],
+      "correctAnswer": "practice",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "教練建議我們每天努力練習。",
+        "grammar": "Advise 後的子句使用原形動詞 practice。",
+        "vocab": "coach [koʊtʃ] (n.) 教練"
+      }
+    },
+    {
+      "q": "She commanded that the prisoner ________ released.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "were"
+      ],
+      "correctAnswer": "be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她下令釋放囚犯。",
+        "grammar": "Command 後接被動虛擬語氣，選 be。",
+        "vocab": "command [kəˈmænd] (v.) 命令"
+      }
+    },
+    {
+      "q": "I suggest that she ________ a professional for help.",
+      "options": [
+        "ask",
+        "asks",
+        "asked",
+        "asking"
+      ],
+      "correctAnswer": "ask",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我建議她向專業人士求助。",
+        "grammar": "Suggest 子句使用原形動詞 ask。",
+        "vocab": "professional [prəˈfeʃənl] (n.) 專業人士"
+      }
+    },
+    {
+      "q": "The principal insisted that no student ________ the campus during lunch.",
+      "options": [
+        "leave",
+        "leaves",
+        "left",
+        "to leave"
+      ],
+      "correctAnswer": "leave",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "校長堅持學生在午餐期間不得離開校園。",
+        "grammar": "Insist 子句使用原形動詞 leave。",
+        "vocab": "campus [ˈkæmpəs] (n.) 校園"
+      }
+    },
+    {
+      "q": "My father required that I ________ my room every weekend.",
+      "options": [
+        "tidy",
+        "tidies",
+        "tidied",
+        "tidying"
+      ],
+      "correctAnswer": "tidy",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "父親要求我每個週末都要整理房間。",
+        "grammar": "Require 子句使用原形動詞 tidy。",
+        "vocab": "tidy [ˈtaɪdi] (v.) 整理"
+      }
+    },
+    {
+      "q": "We recommend that the project ________ cancelled.",
+      "options": [
+        "not be",
+        "don't be",
+        "isn't",
+        "won't be"
+      ],
+      "correctAnswer": "not be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們建議這項計畫不要被取消。",
+        "grammar": "否定被動型虛擬語氣：not + be + p.p.。",
+        "vocab": "cancelled [ˈkænseld] (v.) 取消"
+      }
+    }
+  ]
+}

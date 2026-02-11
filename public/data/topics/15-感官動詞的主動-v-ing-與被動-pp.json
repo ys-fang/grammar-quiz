@@ -1,0 +1,246 @@
+{
+  "topicId": "15-感官動詞的主動-v-ing-與被動-pp",
+  "currentTopic": "Ed_Ing_Adjectives_15Q",
+  "questions": [
+    {
+      "q": "The long lecture was very ______. Most students fell asleep.",
+      "options": [
+        "boring",
+        "bored",
+        "bore",
+        "bores"
+      ],
+      "correctAnswer": "boring",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那場漫長的演講非常無聊。大多數學生都睡著了。",
+        "grammar": "修飾事物（演講）的特質，使用 -ing 形容詞。",
+        "vocab": "lecture [ˈlektʃər] (n.) 演講/課"
+      }
+    },
+    {
+      "q": "I am ______ in learning more about space travel.",
+      "options": [
+        "interested",
+        "interesting",
+        "interest",
+        "interests"
+      ],
+      "correctAnswer": "interested",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我對學習更多關於太空旅行的知識感興趣。",
+        "grammar": "修飾人（I）的內心感受，使用 -ed 形容詞。",
+        "vocab": "space travel (n.) 太空旅行"
+      }
+    },
+    {
+      "q": "Winning the game was an ______ experience for the team.",
+      "options": [
+        "exciting",
+        "excited",
+        "excite",
+        "excites"
+      ],
+      "correctAnswer": "exciting",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "贏得比賽對球隊來說是一次令人興奮的經驗。",
+        "grammar": "修飾事物（經驗）令人產生的感覺，使用 -ing 形容詞。",
+        "vocab": "experience [ɪkˈspɪriəns] (n.) 經驗"
+      }
+    },
+    {
+      "q": "After working for 12 hours, the man felt very ______.",
+      "options": [
+        "tired",
+        "tiring",
+        "tire",
+        "tires"
+      ],
+      "correctAnswer": "tired",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "工作12小時後，那個人感到非常疲倦。",
+        "grammar": "修飾人（man）的生理/心理感受，使用 -ed 形容詞。",
+        "vocab": "felt [felt] (v.) feel的過去式"
+      }
+    },
+    {
+      "q": "The news of the earthquake was ______ to everyone.",
+      "options": [
+        "shocking",
+        "shocked",
+        "shock",
+        "shocks"
+      ],
+      "correctAnswer": "shocking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "地震的消息令每個人感到震驚。",
+        "grammar": "修飾事物（消息）帶來的影響，使用 -ing 形容詞。",
+        "vocab": "earthquake [ˈɜːrθkweɪk] (n.) 地震"
+      }
+    },
+    {
+      "q": "Mom was ______ because I didn't clean my room.",
+      "options": [
+        "disappointed",
+        "disappointing",
+        "disappoint",
+        "disappoints"
+      ],
+      "correctAnswer": "disappointed",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "媽媽很失望，因為我沒有打掃房間。",
+        "grammar": "修飾人（媽媽）的情緒感受，使用 -ed 形容詞。",
+        "vocab": "disappointed [ˌdɪsəˈpɔɪntɪd] (adj.) 感到失望的"
+      }
+    },
+    {
+      "q": "The map was very ______, and we got lost in the woods.",
+      "options": [
+        "confusing",
+        "confused",
+        "confuse",
+        "confuses"
+      ],
+      "correctAnswer": "confusing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "地圖非常令人困惑，我們在森林裡迷路了。",
+        "grammar": "修飾事物（地圖）的性質，使用 -ing 形容詞。",
+        "vocab": "confusing [kənˈfjuːzɪŋ] (adj.) 令人困惑的"
+      }
+    },
+    {
+      "q": "He was ______ to see his old friend at the airport.",
+      "options": [
+        "surprised",
+        "surprising",
+        "surprise",
+        "surprises"
+      ],
+      "correctAnswer": "surprised",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他在機場看到老朋友感到很驚訝。",
+        "grammar": "修飾人（He）的驚訝感受，使用 -ed 形容詞。",
+        "vocab": "airport [ˈerpɔːrt] (n.) 機場"
+      }
+    },
+    {
+      "q": "The spider in the bathroom was ______.",
+      "options": [
+        "frightening",
+        "frightened",
+        "frighten",
+        "frightens"
+      ],
+      "correctAnswer": "frightening",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "浴室裡的蜘蛛很嚇人。",
+        "grammar": "修飾事物（蜘蛛）令人產生的恐懼感，使用 -ing 形容詞。",
+        "vocab": "frightening [ˈfraɪtnɪŋ] (adj.) 令人害怕的"
+      }
+    },
+    {
+      "q": "I was ______ when I forgot my speech on stage.",
+      "options": [
+        "embarrassed",
+        "embarrassing",
+        "embarrass",
+        "embarrasses"
+      ],
+      "correctAnswer": "embarrassed",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "當我在台上忘記演講詞時，我感到很尷尬。",
+        "grammar": "修飾人（I）的尷尬感受，使用 -ed 形容詞。",
+        "vocab": "stage [steɪdʒ] (n.) 舞台"
+      }
+    },
+    {
+      "q": "The ghost story was so ______ that the kids couldn't sleep.",
+      "options": [
+        "scary",
+        "scared",
+        "scaring",
+        "scares"
+      ],
+      "correctAnswer": "scary",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "鬼故事太嚇人了，孩子們睡不著。",
+        "grammar": "scary 本身就是形容詞。但在 -ed/-ing 體系中，令人害怕的故事是 frightening 或 scary。",
+        "vocab": "ghost story (n.) 鬼故事"
+      }
+    },
+    {
+      "q": "Are you ______ about the result of the test?",
+      "options": [
+        "worried",
+        "worrying",
+        "worry",
+        "worries"
+      ],
+      "correctAnswer": "worried",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你擔心考試的結果嗎？",
+        "grammar": "修飾人（you）的擔憂感受，使用 -ed 形容詞。",
+        "vocab": "result [rɪˈzʌlt] (n.) 結果"
+      }
+    },
+    {
+      "q": "The teacher's explanation was ______, so we finally understood.",
+      "options": [
+        "satisfying",
+        "satisfied",
+        "satisfy",
+        "satisfies"
+      ],
+      "correctAnswer": "satisfying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師的解釋令人滿意，所以我們終於理解了。",
+        "grammar": "修飾事物（解釋）的性質，使用 -ing 形容詞。",
+        "vocab": "explanation [ˌekspləˈneɪʃn] (n.) 解釋"
+      }
+    },
+    {
+      "q": "The long hike was ______, but the view was worth it.",
+      "options": [
+        "tiring",
+        "tired",
+        "tire",
+        "tires"
+      ],
+      "correctAnswer": "tiring",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "漫長的健行令人疲累，但風景很值得。",
+        "grammar": "修飾事物（健行）令人產生的感覺，使用 -ing 形容詞。",
+        "vocab": "worth [wɜːrθ] (adj.) 值得的"
+      }
+    },
+    {
+      "q": "The cat was ______ by the loud noise outside.",
+      "options": [
+        "frightened",
+        "frightening",
+        "frighten",
+        "frightens"
+      ],
+      "correctAnswer": "frightened",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "貓被外面巨大的噪音嚇到了。",
+        "grammar": "修飾人/動物（貓）受到驚嚇的感受，使用 -ed 形容詞。",
+        "vocab": "noise [nɔɪz] (n.) 噪音"
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "topicId": "07-時態一致性",
+  "currentTopic": "English_Tenses_Consistency",
+  "questions": [
+    {
+      "q": "Last night, I ______ my homework when the phone rang.",
+      "options": [
+        "did",
+        "was doing",
+        "have done",
+        "do"
+      ],
+      "correctAnswer": "was doing",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "昨晚當電話響起時，我正在寫作業。",
+        "grammar": "過去進行式 (was/were + V-ing) 用於描述過去某個特定時刻正在進行的動作。",
+        "vocab": "homework [ˈhomˌwɝk] (n.) 作業",
+        "restore": "I was doing my homework (long action) + phone rang (short action)."
+      }
+    },
+    {
+      "q": "If it ______ tomorrow, we will stay at home.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained",
+        "is raining"
+      ],
+      "correctAnswer": "rains",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果明天下雨，我們就會待在家裡。",
+        "grammar": "在條件句中，以「現在簡單式」代替「未來式」。",
+        "vocab": "stay [ste] (v.) 停留",
+        "restore": "If it rains (Present) ..., we will stay (Future) ..."
+      }
+    },
+    {
+      "q": "He told me that he ______ his keys the day before.",
+      "options": [
+        "loses",
+        "has lost",
+        "had lost",
+        "lost"
+      ],
+      "correctAnswer": "had lost",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "他告訴我他前一天弄丟了鑰匙。",
+        "grammar": "過去完成式 (had + V-p.p.) 用於描述「過去的過去」。",
+        "vocab": "lose [luz] (v.) 遺失",
+        "restore": "He told me (Past) ... he had lost (Past Perfect) ..."
+      }
+    },
+    {
+      "q": "I have lived in Taipei since I ______ ten years old.",
+      "options": [
+        "am",
+        "was",
+        "have been",
+        "were"
+      ],
+      "correctAnswer": "was",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "自從我十歲起，我就一直住在台北。",
+        "grammar": "since 引導的子句通常使用過去簡單式，表示動作的起點。",
+        "vocab": "since [sɪns] (conj.) 自從",
+        "restore": "I have lived (Present Perfect) since I was (Past) ..."
+      }
+    },
+    {
+      "q": "Look! The students ______ basketball on the court.",
+      "options": [
+        "play",
+        "played",
+        "are playing",
+        "will play"
+      ],
+      "correctAnswer": "are playing",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "看！學生們正在球場上打籃球。",
+        "grammar": "Look! 或 Listen! 是現在進行式的訊號字。",
+        "vocab": "court [kort] (n.) 球場",
+        "restore": "They are playing (Right now)."
+      }
+    },
+    {
+      "q": "My sister ______ her room every Saturday.",
+      "options": [
+        "clean",
+        "cleans",
+        "is cleaning",
+        "cleaned"
+      ],
+      "correctAnswer": "cleans",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我姊姊每個星期六都會打掃房間。",
+        "grammar": "表「習慣」或「事實」使用現在簡單式，主詞為單數加 s。",
+        "vocab": "clean [klin] (v.) 打掃",
+        "restore": "Every Saturday (Habit) -> cleans."
+      }
+    },
+    {
+      "q": "The train ______ when we reached the station.",
+      "options": [
+        "already left",
+        "had already left",
+        "has already left",
+        "leaves"
+      ],
+      "correctAnswer": "had already left",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "當我們到達車站時，火車已經開走了。",
+        "grammar": "過去完成式表示在過去某個時間點之前已完成的動作。",
+        "vocab": "reach [ritʃ] (v.) 到達",
+        "restore": "Train had left -> We reached (later)."
+      }
+    },
+    {
+      "q": "Did you see what ______ just now?",
+      "options": [
+        "happens",
+        "happened",
+        "is happening",
+        "has happened"
+      ],
+      "correctAnswer": "happened",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你看到剛才發生了什麼事嗎？",
+        "grammar": "just now (剛才) 是過去式的明顯指標。",
+        "vocab": "happen [ˈhæpən] (v.) 發生",
+        "restore": "What happened (Past) just now."
+      }
+    },
+    {
+      "q": "Wait a minute! I ______ my umbrella.",
+      "options": [
+        "forget",
+        "forgot",
+        "have forgotten",
+        "am forgetting"
+      ],
+      "correctAnswer": "have forgotten",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "等一下！我忘記帶雨傘了（現在正沒帶）。",
+        "grammar": "現在完成式可用於表示過去發生的動作對現在造成的影響。",
+        "vocab": "umbrella [ʌmˈbrɛlə] (n.) 雨傘",
+        "restore": "I have forgotten (And I don't have it now)."
+      }
+    },
+    {
+      "q": "By the time he arrives, we ______ the work.",
+      "options": [
+        "finish",
+        "finished",
+        "will have finished",
+        "have finished"
+      ],
+      "correctAnswer": "will have finished",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "到他抵達的時候，我們應該已經完成工作了。",
+        "grammar": "未來完成式 (will have + V-p.p.) 表示未來某時間點前將完成的事。",
+        "vocab": "arrive [əˈraɪv] (v.) 抵達",
+        "restore": "By the time (Future) ..., we will have finished ..."
+      }
+    },
+    {
+      "q": "Yesterday, Mom ______ me to buy some eggs.",
+      "options": [
+        "asks",
+        "asked",
+        "is asking",
+        "has asked"
+      ],
+      "correctAnswer": "asked",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "昨天，媽媽叫我去買一些蛋。",
+        "grammar": "Yesterday 是明確的過去時間點。",
+        "vocab": "ask [æsk] (v.) 要求/詢問",
+        "restore": "Yesterday -> asked."
+      }
+    },
+    {
+      "q": "She ______ English for five years before she moved to USA.",
+      "options": [
+        "has studied",
+        "studies",
+        "had studied",
+        "is studying"
+      ],
+      "correctAnswer": "had studied",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "在她搬到美國之前，她已經學了五年的英文。",
+        "grammar": "描述在過去某個動作之前持續了一段時間的狀態，用過去完成式。",
+        "vocab": "study [ˈstʌdi] (v.) 學習",
+        "restore": "Had studied (5 years) -> moved to USA."
+      }
+    },
+    {
+      "q": "Water ______ at 100°C.",
+      "options": [
+        "boil",
+        "boils",
+        "is boiling",
+        "boiled"
+      ],
+      "correctAnswer": "boils",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "水在攝氏100度時會沸騰。",
+        "grammar": "不變的科學事實永遠使用現在簡單式。",
+        "vocab": "boil [bɔɪl] (v.) 沸騰",
+        "restore": "Scientific fact -> boils."
+      }
+    },
+    {
+      "q": "I ______ any movies lately.",
+      "options": [
+        "don't watch",
+        "didn't watch",
+        "haven't watched",
+        "won't watch"
+      ],
+      "correctAnswer": "haven't watched",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我最近都沒看任何電影。",
+        "grammar": "lately (最近) 通常與現在完成式連用。",
+        "vocab": "movie [ˈmuvi] (n.) 電影",
+        "restore": "Lately -> haven't watched."
+      }
+    },
+    {
+      "q": "We ______ to the zoo if it is sunny this Sunday.",
+      "options": [
+        "go",
+        "went",
+        "will go",
+        "have gone"
+      ],
+      "correctAnswer": "will go",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "如果這週日天氣晴朗，我們就會去動物園。",
+        "grammar": "主要子句應使用未來式，if 子句用現在式代替未來。",
+        "vocab": "zoo [zu] (n.) 動物園",
+        "restore": "If it is (Present), we will go (Future)."
+      }
+    }
+  ]
+}

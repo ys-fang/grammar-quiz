@@ -1,0 +1,166 @@
+{
+  "topicId": "37-情態助動詞的推測-must-cant-may",
+  "currentTopic": "Modal_Verbs_Speculation_10Q",
+  "questions": [
+    {
+      "q": "He just finished a three-course dinner. He ______ be hungry now.",
+      "options": [
+        "can't",
+        "must",
+        "may",
+        "could"
+      ],
+      "correctAnswer": "can't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他剛吃完三道菜的晚餐，他現在不可能會餓。",
+        "grammar": "根據背景事實，吃飽了推測『不可能』餓，選 can't。",
+        "vocab": "three-course (adj.) 三道菜的"
+      }
+    },
+    {
+      "q": "The lights are still on in his office. He ______ be working late.",
+      "options": [
+        "must",
+        "can't",
+        "may",
+        "should"
+      ],
+      "correctAnswer": "must",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "辦公室的燈還亮著，他一定在加班。",
+        "grammar": "燈亮著是強烈證據，推測『一定是』，選 must。",
+        "vocab": "working late (v.phr.) 加班"
+      }
+    },
+    {
+      "q": "I'm not sure where she is. She ______ be at the library.",
+      "options": [
+        "may",
+        "must",
+        "can't",
+        "should"
+      ],
+      "correctAnswer": "may",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不確定她在哪裡。她可能在圖書館。",
+        "grammar": "I'm not sure 代表語氣不確定，選 may 作為弱推測。",
+        "vocab": "sure [ʃʊr] (adj.) 確定的"
+      }
+    },
+    {
+      "q": "You haven't eaten anything all day. You ______ be starving.",
+      "options": [
+        "must",
+        "can't",
+        "might",
+        "could"
+      ],
+      "correctAnswer": "must",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你整天都沒吃東西。你一定餓壞了。",
+        "grammar": "整天沒吃是強烈證據，推測『一定』，選 must。",
+        "vocab": "starving [ˈstɑːrvɪŋ] (adj.) 極餓的"
+      }
+    },
+    {
+      "q": "That man ______ be the famous singer. He is much shorter than the person on TV.",
+      "options": [
+        "can't",
+        "must",
+        "may",
+        "might"
+      ],
+      "correctAnswer": "can't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個人不可能是不出名的歌手。他比電視上的人矮得多。",
+        "grammar": "特徵不符是反面證據，推測『不可能』，選 can't。",
+        "vocab": "famous [ˈfeɪməs] (adj.) 有名的"
+      }
+    },
+    {
+      "q": "It's starting to get cloudy. It ______ rain later tonight.",
+      "options": [
+        "may",
+        "must",
+        "can't",
+        "should"
+      ],
+      "correctAnswer": "may",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "開始變天了，今晚晚點可能會下雨。",
+        "grammar": "變天不代表一定下雨，屬於語氣普通的推測，選 may。",
+        "vocab": "cloudy [ˈklaʊdi] (adj.) 多雲的"
+      }
+    },
+    {
+      "q": "A: Who is knocking at the door? <br>B: It ______ be Jason. He said he would visit us around this time.",
+      "options": [
+        "must",
+        "can't",
+        "might",
+        "could"
+      ],
+      "correctAnswer": "must",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 誰在敲門？ B: 一定是 Jason。他說他這時間會來拜訪。",
+        "grammar": "約好的時間點有人敲門，推測強度高，選 must。",
+        "vocab": "knock [nɑːk] (v.) 敲門"
+      }
+    },
+    {
+      "q": "She ______ be very happy. She just won the first prize in the lottery.",
+      "options": [
+        "must",
+        "can't",
+        "may",
+        "might"
+      ],
+      "correctAnswer": "must",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她一定很開心，她剛中了樂透頭獎。",
+        "grammar": "中大獎推測『一定是』開心，選 must。",
+        "vocab": "lottery [ˈlɑːtəri] (n.) 樂透"
+      }
+    },
+    {
+      "q": "They ______ be at home. Their car is not in the garage.",
+      "options": [
+        "can't",
+        "must",
+        "may",
+        "could"
+      ],
+      "correctAnswer": "can't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們不可能在家，他們的車不在車庫裡。",
+        "grammar": "車不在是證據，推測『不可能』在家，選 can't。",
+        "vocab": "garage [ɡəˈrɑːʒ] (n.) 車庫"
+      }
+    },
+    {
+      "q": "If you study hard, you ______ get a good grade, but I can't guarantee it.",
+      "options": [
+        "might",
+        "must",
+        "can't",
+        "shall"
+      ],
+      "correctAnswer": "might",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果你努力讀書，你可能會得到好成績，但我不能保證。",
+        "grammar": "I can't guarantee 強調極度不確定，選 might 表示弱推測。",
+        "vocab": "guarantee [ˌɡærənˈtiː] (v.) 保證"
+      }
+    }
+  ]
+}

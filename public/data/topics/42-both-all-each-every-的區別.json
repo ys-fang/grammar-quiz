@@ -1,0 +1,246 @@
+{
+  "topicId": "42-both-all-each-every-的區別",
+  "currentTopic": "Both_All_Each_Every_15Q",
+  "questions": [
+    {
+      "q": "I have two brothers, and ______ of them are taller than me.",
+      "options": [
+        "both",
+        "all",
+        "each",
+        "every"
+      ],
+      "correctAnswer": "both",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有兩個兄弟，他們兩個人都比我高。",
+        "grammar": "指兩個人且動詞是複數 (are)，使用 both。",
+        "vocab": "taller [ˈtɔːlər] (adj.) 較高的"
+      }
+    },
+    {
+      "q": "______ student in this class has to wear a uniform.",
+      "options": [
+        "Every",
+        "All",
+        "Both",
+        "Each of"
+      ],
+      "correctAnswer": "Every",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這班上的每個學生都必須穿制服。",
+        "grammar": "後面接單數名詞 student 與單數動詞 has，且班級通常大於 2 人，使用 Every。",
+        "vocab": "uniform [ˈjuːnɪfɔːrm] (n.) 制服"
+      }
+    },
+    {
+      "q": "The teacher gave ______ of the students a small gift.",
+      "options": [
+        "each",
+        "every",
+        "all",
+        "both"
+      ],
+      "correctAnswer": "each",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師給了每個學生一份小禮物。",
+        "grammar": "of the students 後方接單數動作概念，且 each 可以單獨作代名詞或接 of，every 則不行。",
+        "vocab": "gift [ɡɪft] (n.) 禮物"
+      }
+    },
+    {
+      "q": "______ the players on the team were very tired after the game.",
+      "options": [
+        "All",
+        "Both",
+        "Each",
+        "Every"
+      ],
+      "correctAnswer": "All",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "隊上所有的球員在比賽後都很累。",
+        "grammar": "動詞是複數 (were)，且指稱團隊全體，使用 All。",
+        "vocab": "tired [ˈtaɪərd] (adj.) 疲累的"
+      }
+    },
+    {
+      "q": "You have two choices, but ______ is difficult.",
+      "options": [
+        "each",
+        "all",
+        "both",
+        "every"
+      ],
+      "correctAnswer": "each",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有兩個選擇，但每一個都很困難。",
+        "grammar": "指兩者中的每一個，且後接單數動詞 is，使用 each。",
+        "vocab": "choice [tʃɔɪs] (n.) 選擇"
+      }
+    },
+    {
+      "q": "I have read ______ book on this shelf.",
+      "options": [
+        "every",
+        "all",
+        "both",
+        "each of"
+      ],
+      "correctAnswer": "every",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這書架上的每一本書我都看過了。",
+        "grammar": "後面接單數名詞 book，表達「全部中的每一本」概念，使用 every。",
+        "vocab": "shelf [ʃelf] (n.) 書架"
+      }
+    },
+    {
+      "q": "______ of my parents are doctors.",
+      "options": [
+        "Both",
+        "All",
+        "Each",
+        "Every"
+      ],
+      "correctAnswer": "Both",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的父母雙方都是醫生。",
+        "grammar": "父母剛好兩位，動詞是複數 are，使用 Both。",
+        "vocab": "doctor [ˈdɑːktər] (n.) 醫生"
+      }
+    },
+    {
+      "q": "______ children love to play in the park.",
+      "options": [
+        "All",
+        "Every",
+        "Each",
+        "Both"
+      ],
+      "correctAnswer": "All",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "所有的孩子都喜歡在公園玩。",
+        "grammar": "children 是複數名詞，動詞 love 也是複數型，選 All。",
+        "vocab": "park [pɑːrk] (n.) 公園"
+      }
+    },
+    {
+      "q": "There are four windows, and ______ one is broken.",
+      "options": [
+        "each",
+        "both",
+        "all",
+        "every of"
+      ],
+      "correctAnswer": "each",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "有四扇窗戶，每一扇都破了。",
+        "grammar": "強調四個當中的「每一個」，後面接單數，使用 each。",
+        "vocab": "broken [ˈbroʊkən] (adj.) 壞掉的"
+      }
+    },
+    {
+      "q": "______ of the three candidates is suitable for the job.",
+      "options": [
+        "Each",
+        "Every",
+        "Both",
+        "All"
+      ],
+      "correctAnswer": "Each",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這三位候選人中，每一位都適合這份工作。",
+        "grammar": "指三個人當中的「每一個」，且動詞是單數 is，選 Each。",
+        "vocab": "candidate [ˈkændɪdeɪt] (n.) 候選人"
+      }
+    },
+    {
+      "q": "He goes to the gym ______ day.",
+      "options": [
+        "every",
+        "all",
+        "each of",
+        "both"
+      ],
+      "correctAnswer": "every",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他每天都去健身房。",
+        "grammar": "Every day 是固定用法，指週而復始的每一天。",
+        "vocab": "gym [dʒɪm] (n.) 健身房"
+      }
+    },
+    {
+      "q": "______ the water in the glass was spilled.",
+      "options": [
+        "All",
+        "Each",
+        "Every",
+        "Both"
+      ],
+      "correctAnswer": "All",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "杯子裡所有的水都灑出來了。",
+        "grammar": "不可數名詞 water 只能搭配 All，不可搭配 each 或 every。",
+        "vocab": "spilled [spɪld] (adj.) 溢出的"
+      }
+    },
+    {
+      "q": "She can write with ______ hands.",
+      "options": [
+        "both",
+        "all",
+        "each",
+        "every"
+      ],
+      "correctAnswer": "both",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她可以用雙手寫字。",
+        "grammar": "手只有兩隻，名詞 hands 是複數，使用 both。",
+        "vocab": "write [raɪt] (v.) 寫字"
+      }
+    },
+    {
+      "q": "______ of us has a different opinion.",
+      "options": [
+        "Each",
+        "Every",
+        "All",
+        "Both"
+      ],
+      "correctAnswer": "Each",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們每個人都有不同的意見。",
+        "grammar": "後接單數動詞 has，且 Every 不能接 of，故選 Each。",
+        "vocab": "opinion [əˈpɪnjən] (n.) 意見"
+      }
+    },
+    {
+      "q": "I want to visit ______ country in the world.",
+      "options": [
+        "every",
+        "all",
+        "both",
+        "each of"
+      ],
+      "correctAnswer": "every",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我想造訪世界上的每個國家。",
+        "grammar": "指全世界所有國家中的每一個，後接單數 country，用 every。",
+        "vocab": "world [wɜːrld] (n.) 世界"
+      }
+    }
+  ]
+}

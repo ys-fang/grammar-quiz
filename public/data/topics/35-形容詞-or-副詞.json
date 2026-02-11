@@ -1,0 +1,246 @@
+{
+  "topicId": "35-形容詞-or-副詞",
+  "currentTopic": "Linking_Action_Verbs_15Q",
+  "questions": [
+    {
+      "q": "The soup smells ______. I can't wait to try it!",
+      "options": [
+        "delicious",
+        "deliciously",
+        "delicately",
+        "delicacy"
+      ],
+      "correctAnswer": "delicious",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這湯聞起來很美味。我等不及要嚐嚐了！",
+        "grammar": "smells 在此為連綴動詞，用來形容『湯』的狀態，後接形容詞。",
+        "vocab": "delicious [dɪˈlɪʃəs] (adj.) 美味的"
+      }
+    },
+    {
+      "q": "He looked at the broken vase ______.",
+      "options": [
+        "sadly",
+        "sad",
+        "sadness",
+        "sadden"
+      ],
+      "correctAnswer": "sadly",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他傷心地看著那個破碎的花瓶。",
+        "grammar": "looked at 是動作動詞，修飾『看』這個動作的方式，需用副詞。",
+        "vocab": "vase [veɪs] (n.) 花瓶"
+      }
+    },
+    {
+      "q": "The music sounds ______; please turn it down.",
+      "options": [
+        "terrible",
+        "terribly",
+        "terror",
+        "terrific"
+      ],
+      "correctAnswer": "terrible",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這音樂聽起來很糟糕；請把它關小聲點。",
+        "grammar": "sounds 為連綴動詞，形容『音樂』給人的感覺，後接形容詞。",
+        "vocab": "terrible [ˈterəbl] (adj.) 糟糕的"
+      }
+    },
+    {
+      "q": "She felt ______ when she failed the exam.",
+      "options": [
+        "bad",
+        "badly",
+        "worse",
+        "worst"
+      ],
+      "correctAnswer": "bad",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "當她考試不及格時，她感覺很難過。",
+        "grammar": "felt (feel) 在此描述內心感受，為連綴動詞，後接形容詞 bad。",
+        "vocab": "fail [feɪl] (v.) 失敗/不及格"
+      }
+    },
+    {
+      "q": "The chef tasted the sauce ______ before serving it.",
+      "options": [
+        "carefully",
+        "careful",
+        "care",
+        "caring"
+      ],
+      "correctAnswer": "carefully",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "廚師在端上醬汁前仔細地品嚐了一下。",
+        "grammar": "tasted 後面接了受格 sauce，代表這是一個『品嚐』的動作，修飾動作需用副詞。",
+        "vocab": "sauce [sɔːs] (n.) 醬汁"
+      }
+    },
+    {
+      "q": "Your idea sounds ______ to me.",
+      "options": [
+        "great",
+        "greatly",
+        "greatness",
+        "goodly"
+      ],
+      "correctAnswer": "great",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你的主意聽起來很棒。",
+        "grammar": "sounds 為連綴動詞，後接形容詞修飾主詞 idea。",
+        "vocab": "idea [aɪˈdiə] (n.) 主意"
+      }
+    },
+    {
+      "q": "The cat looked ______ at the mouse.",
+      "options": [
+        "hungrily",
+        "hungry",
+        "hunger",
+        "hungered"
+      ],
+      "correctAnswer": "hungrily",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那隻貓飢腸轆轆地盯著老鼠看。",
+        "grammar": "looked at 為動作動詞，修飾『盯著看』的方式，需用副詞。",
+        "vocab": "mouse [maʊs] (n.) 老鼠"
+      }
+    },
+    {
+      "q": "This silk dress feels very ______.",
+      "options": [
+        "soft",
+        "softly",
+        "softness",
+        "soften"
+      ],
+      "correctAnswer": "soft",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這件絲綢洋裝摸起來非常柔軟。",
+        "grammar": "feels 為連綴動詞，形容『洋裝』的質地，後接形容詞。",
+        "vocab": "silk [sɪlk] (n.) 絲綢"
+      }
+    },
+    {
+      "q": "The teacher looked ______ at the noisy students.",
+      "options": [
+        "angrily",
+        "angry",
+        "anger",
+        "angryly"
+      ],
+      "correctAnswer": "angrily",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師生氣地看著那些吵鬧的學生。",
+        "grammar": "looked at 為動作動詞，修飾『看』的行為，選用副詞。",
+        "vocab": "noisy [ˈnɔɪzi] (adj.) 吵鬧的"
+      }
+    },
+    {
+      "q": "The cookies taste ______; I want another one.",
+      "options": [
+        "sweet",
+        "sweetly",
+        "sweetness",
+        "sweeter"
+      ],
+      "correctAnswer": "sweet",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這些餅乾嚐起來很甜；我還想要一個。",
+        "grammar": "taste 為連綴動詞，形容『餅乾』的味道特質，後接形容詞。",
+        "vocab": "cookie [ˈkʊki] (n.) 餅乾"
+      }
+    },
+    {
+      "q": "The little girl smiled ______ at her mother.",
+      "options": [
+        "happily",
+        "happy",
+        "happiness",
+        "happier"
+      ],
+      "correctAnswer": "happily",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小女孩對著媽媽開心地微笑。",
+        "grammar": "smiled 是動作動詞，修飾微笑的方式，選用副詞。",
+        "vocab": "smile [smaɪl] (v.) 微笑"
+      }
+    },
+    {
+      "q": "Don't look so ______! Everything will be fine.",
+      "options": [
+        "worried",
+        "worriedly",
+        "worry",
+        "worrying"
+      ],
+      "correctAnswer": "worried",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別看起來那麼擔心！一切都會沒事的。",
+        "grammar": "look 在此描述外觀狀態，為連綴動詞，後接形容詞 (分詞當形容詞)。",
+        "vocab": "worried [ˈwɜːrid] (adj.) 擔心的"
+      }
+    },
+    {
+      "q": "The dog smelled the garbage ______.",
+      "options": [
+        "curiously",
+        "curious",
+        "curiosity",
+        "curiouser"
+      ],
+      "correctAnswer": "curiously",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那隻狗好奇地聞了聞垃圾。",
+        "grammar": "smelled 後有受格 garbage，代表『聞』這個動作，需副詞修飾。",
+        "vocab": "garbage [ˈɡɑːrbɪdʒ] (n.) 垃圾"
+      }
+    },
+    {
+      "q": "His voice sounded ______ on the phone.",
+      "options": [
+        "different",
+        "differently",
+        "difference",
+        "differ"
+      ],
+      "correctAnswer": "different",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他的聲音在電話裡聽起來不太一樣。",
+        "grammar": "sounded 為連綴動詞，形容『聲音』的特徵，後接形容詞。",
+        "vocab": "different [ˈdɪfrənt] (adj.) 不同的"
+      }
+    },
+    {
+      "q": "I can feel the cold wind ______ on my face.",
+      "options": [
+        "strongly",
+        "strong",
+        "strength",
+        "stronger"
+      ],
+      "correctAnswer": "strongly",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我可以感覺到強風有力地吹在臉上。",
+        "grammar": "在此 feel 做感官動詞用法，修飾感覺到的『強度』方式，選用副詞。",
+        "vocab": "strongly [ˈstrɔːŋli] (adv.) 強力地"
+      }
+    }
+  ]
+}

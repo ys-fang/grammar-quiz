@@ -1,0 +1,246 @@
+{
+  "topicId": "53-所有的看-see-watch-look-read",
+  "currentTopic": "English_See_Watch_Look_Read_15Q",
+  "questions": [
+    {
+      "q": "Please ________ the map to find our way back.",
+      "options": [
+        "look at",
+        "see",
+        "watch",
+        "read"
+      ],
+      "correctAnswer": "look at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請看地圖找回家的路。",
+        "grammar": "有意識地注視靜態物體，使用 look at。",
+        "vocab": "map [mæp] (n.) 地圖"
+      }
+    },
+    {
+      "q": "I ________ a movie with my friends last night.",
+      "options": [
+        "watched",
+        "saw",
+        "looked at",
+        "read"
+      ],
+      "correctAnswer": "watched",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我昨晚和朋友一起看了一部電影。",
+        "grammar": "觀賞表演或變動的事物，使用 watch。",
+        "vocab": "movie [ˈmuːvi] (n.) 電影"
+      }
+    },
+    {
+      "q": "Can you ________ that tall building over there?",
+      "options": [
+        "see",
+        "watch",
+        "look at",
+        "read"
+      ],
+      "correctAnswer": "see",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你看得見那邊那棟高樓嗎？",
+        "grammar": "指能力上的「看見」，無意識地接收影像，使用 see。",
+        "vocab": "building [ˈbɪldɪŋ] (n.) 建築"
+      }
+    },
+    {
+      "q": "My father is ________ a newspaper in the living room.",
+      "options": [
+        "reading",
+        "watching",
+        "seeing",
+        "looking"
+      ],
+      "correctAnswer": "reading",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父親正在客廳看報紙。",
+        "grammar": "看文字內容，使用 read。",
+        "vocab": "newspaper [ˈnuːzpeɪpər] (n.) 報紙"
+      }
+    },
+    {
+      "q": "________! The sun is rising.",
+      "options": [
+        "Look",
+        "Watch",
+        "See",
+        "Read"
+      ],
+      "correctAnswer": "Look",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "看！太陽升起來了。",
+        "grammar": "提醒某人注意某事，單獨使用 Look。",
+        "vocab": "rising [ˈraɪzɪŋ] (v.) 升起"
+      }
+    },
+    {
+      "q": "We like to ________ the birds in the garden.",
+      "options": [
+        "watch",
+        "see",
+        "look",
+        "read"
+      ],
+      "correctAnswer": "watch",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們喜歡觀察花園裡的鳥。",
+        "grammar": "注視正在活動、變化的生物，使用 watch。",
+        "vocab": "garden [ˈɡɑːrdn] (n.) 花園"
+      }
+    },
+    {
+      "q": "I can't ________ anything without my glasses.",
+      "options": [
+        "see",
+        "watch",
+        "look at",
+        "read"
+      ],
+      "correctAnswer": "see",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "沒戴眼鏡我什麼都看不見。",
+        "grammar": "指視力、知覺上的看見，用 see。",
+        "vocab": "glasses [ˈɡlæsɪz] (n.) 眼鏡"
+      }
+    },
+    {
+      "q": "He spent the whole afternoon ________ a book.",
+      "options": [
+        "reading",
+        "watching",
+        "seeing",
+        "looking at"
+      ],
+      "correctAnswer": "reading",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他花了一整個下午看書。",
+        "grammar": "看書本內容，使用 read。",
+        "vocab": "novel [ˈnɑːvl] (n.) 小說"
+      }
+    },
+    {
+      "q": "Don't ________ the sun directly; it's bad for your eyes.",
+      "options": [
+        "look at",
+        "watch",
+        "see",
+        "read"
+      ],
+      "correctAnswer": "look at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不要直視太陽；對眼睛不好。",
+        "grammar": "有目的地注視某個目標，用 look at。",
+        "vocab": "directly [dəˈrektli] (adv.) 直接地"
+      }
+    },
+    {
+      "q": "I ________ a doctor because I felt sick.",
+      "options": [
+        "saw",
+        "watched",
+        "looked at",
+        "read"
+      ],
+      "correctAnswer": "saw",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我去看醫生，因為我感到不舒服。",
+        "grammar": "see a doctor 是固定用法，指看病、就診。",
+        "vocab": "sick [sɪk] (adj.) 生病的"
+      }
+    },
+    {
+      "q": "They are ________ a football game on TV.",
+      "options": [
+        "watching",
+        "seeing",
+        "looking at",
+        "reading"
+      ],
+      "correctAnswer": "watching",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們正在看電視上的足球比賽。",
+        "grammar": "看電視、球賽、變動的事物，使用 watch。",
+        "vocab": "football [ˈfʊtbɔːl] (n.) 足球"
+      }
+    },
+    {
+      "q": "He ________ the clock and realized he was late.",
+      "options": [
+        "looked at",
+        "watched",
+        "saw",
+        "read"
+      ],
+      "correctAnswer": "looked at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他看了一下時鐘，意識到他遲到了。",
+        "grammar": "轉頭去看某個特定物體（時鐘），用 look at。",
+        "vocab": "realized [ˈriːəlaɪzd] (v.) 意識到"
+      }
+    },
+    {
+      "q": "Did you ________ the total price on the receipt?",
+      "options": [
+        "read",
+        "see",
+        "watch",
+        "look"
+      ],
+      "correctAnswer": "read",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有看到收據上的總價嗎？",
+        "grammar": "獲取文字或數字訊息，應使用 read。",
+        "vocab": "receipt [rɪˈsiːt] (n.) 收據"
+      }
+    },
+    {
+      "q": "I ________ someone waving to us from across the street.",
+      "options": [
+        "saw",
+        "watched",
+        "looked at",
+        "read"
+      ],
+      "correctAnswer": "saw",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我看到對街有人正向我們揮手。",
+        "grammar": "無意中「看見」某個畫面，用 see。",
+        "vocab": "waving [ˈweɪvɪŋ] (v.) 揮手"
+      }
+    },
+    {
+      "q": "Stop ________ me! It makes me nervous.",
+      "options": [
+        "watching",
+        "seeing",
+        "looking",
+        "reading"
+      ],
+      "correctAnswer": "watching",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別再盯著我看！這讓我好緊張。",
+        "grammar": "長時間、持續地盯著某人看（監視感），用 watch。",
+        "vocab": "nervous [ˈnɜːrvəs] (adj.) 緊張的"
+      }
+    }
+  ]
+}

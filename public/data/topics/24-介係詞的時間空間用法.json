@@ -1,0 +1,246 @@
+{
+  "topicId": "24-介係詞的時間空間用法",
+  "currentTopic": "Prepositions_In_On_At_15Q",
+  "questions": [
+    {
+      "q": "My brother was born ______ 2005.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我弟弟出生於 2005 年。",
+        "grammar": "用於「年份」等長時段，介係詞使用 in。",
+        "vocab": "born [bɔːrn] (v.) 出生"
+      }
+    },
+    {
+      "q": "The meeting will start exactly ______ 9:00 AM.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "correctAnswer": "at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "會議將於上午 9 點準時開始。",
+        "grammar": "用於「具體時刻」，介係詞使用 at。",
+        "vocab": "exactly [ɪɡˈzæktli] (adv.) 準確地"
+      }
+    },
+    {
+      "q": "We usually go to the beach ______ summer.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們通常在夏天去海邊。",
+        "grammar": "用於「季節」，介係詞使用 in。",
+        "vocab": "beach [biːtʃ] (n.) 海灘"
+      }
+    },
+    {
+      "q": "The party is ______ Saturday night.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "by"
+      ],
+      "correctAnswer": "on",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "派對是在星期六晚上。",
+        "grammar": "用於「星期」或特定的日子，介係詞使用 on。",
+        "vocab": "Saturday [ˈsætərdeɪ] (n.) 星期六"
+      }
+    },
+    {
+      "q": "I'll see you ______ Valentine's Day.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "to"
+      ],
+      "correctAnswer": "on",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "情人節那天見。",
+        "grammar": "用於「特定節日/日子」，介係詞使用 on。",
+        "vocab": "Valentine's Day (n.) 情人節"
+      }
+    },
+    {
+      "q": "He lives ______ a big city ______ Japan.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "to"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他住在日本的一個大城市。",
+        "grammar": "用於城市、國家等「大範圍」，介係詞使用 in。",
+        "vocab": "Japan [dʒəˈpæn] (n.) 日本"
+      }
+    },
+    {
+      "q": "There is a beautiful picture ______ the wall.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "under"
+      ],
+      "correctAnswer": "on",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "牆上有一張漂亮的畫。",
+        "grammar": "用於「平面表面」，介係詞使用 on。",
+        "vocab": "wall [wɔːl] (n.) 牆壁"
+      }
+    },
+    {
+      "q": "I'll wait for you ______ the bus stop.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "correctAnswer": "at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我會在公車站等你。",
+        "grammar": "用於「精確的地點/目標點」，介係詞使用 at。",
+        "vocab": "bus stop (n.) 公車站"
+      }
+    },
+    {
+      "q": "My office is ______ the third floor of this building.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "correctAnswer": "on",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的辦公室在三樓。",
+        "grammar": "用於「樓層」，介係詞使用 on。",
+        "vocab": "floor [flɔːr] (n.) 樓層"
+      }
+    },
+    {
+      "q": "They usually have dinner ______ 7 o'clock.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "correctAnswer": "at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們通常在 7 點吃晚餐。",
+        "grammar": "用於「具體時刻」，介係詞使用 at。",
+        "vocab": "dinner [ˈdɪnər] (n.) 晚餐"
+      }
+    },
+    {
+      "q": "I always feel energetic ______ the morning.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我在早上總是感到精力充沛。",
+        "grammar": "固定用法：in the morning/afternoon/evening。",
+        "vocab": "energetic [ˌenərˈdʒetɪk] (adj.) 精力充沛的"
+      }
+    },
+    {
+      "q": "He is staying ______ No. 50, Oxford Street.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "by"
+      ],
+      "correctAnswer": "at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他住在牛津街 50 號。",
+        "grammar": "用於「具體地址（有門牌號碼）」，介係詞使用 at。",
+        "vocab": "address [ˈædres] (n.) 地址"
+      }
+    },
+    {
+      "q": "My birthday is ______ June 10th.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "correctAnswer": "on",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的生日在 6 月 10 日。",
+        "grammar": "用於「具體日期」，介係詞使用 on。",
+        "vocab": "June [dʒuːn] (n.) 六月"
+      }
+    },
+    {
+      "q": "There are many fish ______ the river.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "河裡有很多魚。",
+        "grammar": "用於「密閉空間/內部範圍」，介係詞使用 in。",
+        "vocab": "fish [fɪʃ] (n.) 魚"
+      }
+    },
+    {
+      "q": "Please sign your name ______ the bottom of the page.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "to"
+      ],
+      "correctAnswer": "at",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請在頁面底部簽名。",
+        "grammar": "用於「精確的位置（如頂端、底端）」，介係詞使用 at。",
+        "vocab": "bottom [ˈbɑːtəm] (n.) 底部"
+      }
+    }
+  ]
+}

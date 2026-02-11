@@ -1,0 +1,246 @@
+{
+  "topicId": "12-形容詞子句-關係代名詞",
+  "currentTopic": "Relative_Pronouns_Pro",
+  "questions": [
+    {
+      "q": "The boy ______ is standing by the gate is my brother.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "× (可省略)"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "站在大門口的那個男孩是我弟弟。",
+        "grammar": "先行詞是『人』，關代後接動詞 is，為主格，不可省略。",
+        "vocab": "gate [ɡeɪt] (n.) 大門"
+      }
+    },
+    {
+      "q": "This is the computer ______ my father bought for me.",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "what"
+      ],
+      "correctAnswer": "which",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "這是我父親買給我的電腦。",
+        "grammar": "先行詞是『物』，後接 S+V，為受格。可用 which/that 或省略。",
+        "vocab": "bought [bɔːt] (v.) buy 的過去式"
+      }
+    },
+    {
+      "q": "The teacher ______ we like most will leave next month.",
+      "options": [
+        "who only",
+        "which",
+        "Both who and whom",
+        "what"
+      ],
+      "correctAnswer": "Both who and whom",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我們最喜歡的那位老師下個月要離開了。",
+        "grammar": "先行詞是『人』，後接 S+V 為受格。口語常用 who，正式用 whom，兩者皆可。",
+        "vocab": "leave [liːv] (v.) 離開"
+      }
+    },
+    {
+      "q": "I know the girl ______ dog was lost yesterday.",
+      "options": [
+        "who",
+        "that",
+        "whose",
+        "whom"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我認識昨天丟了狗的那個女孩。",
+        "grammar": "這裡指『女孩的』狗，所有格關係代名詞需用 whose。",
+        "vocab": "lost [lɔːst] (adj.) 遺失的"
+      }
+    },
+    {
+      "q": "He is the best player ______ I have ever seen.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "what"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "他是我看過最好的球員。",
+        "grammar": "先行詞有最高級 (the best) 修飾時，慣用法優先使用 that。",
+        "vocab": "player [ˈpleɪər] (n.) 球員"
+      }
+    },
+    {
+      "q": "The letter ______ you wrote is on the table.",
+      "options": [
+        "who",
+        "whom",
+        "which / that",
+        "what"
+      ],
+      "correctAnswer": "which / that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "你寫的那封信在桌子上。",
+        "grammar": "先行詞是物，受格關代可用 which 或 that，亦可省略。",
+        "vocab": "table [ˈteɪbl] (n.) 桌子"
+      }
+    },
+    {
+      "q": "Everything ______ she told us was a lie.",
+      "options": [
+        "which",
+        "who",
+        "that",
+        "what"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "她告訴我們的一切都是謊言。",
+        "grammar": "先行詞是不定代名詞 Everything，慣用法優先使用 that。",
+        "vocab": "lie [laɪ] (n.) 謊言"
+      }
+    },
+    {
+      "q": "Look at the man and the dog ______ are running in the park.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whom"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "看看正在公園奔跑的那個人和那隻狗。",
+        "grammar": "先行詞同時包含『人+動物』時，關代必須使用 that。",
+        "vocab": "park [pɑːrk] (n.) 公園"
+      }
+    },
+    {
+      "q": "The man ______ I saw at the store is a doctor.",
+      "options": [
+        "whom / who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctAnswer": "whom / who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我在商店看見的那個男人是醫生。",
+        "grammar": "先行詞是人，後接 S+V 為受格，可用 who/whom/that 或省略。",
+        "vocab": "store [stɔːr] (n.) 商店"
+      }
+    },
+    {
+      "q": "This is the same watch ______ I lost last week.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whom"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "這跟我上週弄丟的那支手錶一模一樣。",
+        "grammar": "先行詞有 the same 修飾時，慣用法優先使用 that。",
+        "vocab": "watch [wɑːtʃ] (n.) 手錶"
+      }
+    },
+    {
+      "q": "I don't like movies ______ have sad endings.",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "× (可省略)"
+      ],
+      "correctAnswer": "which",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我不喜歡悲劇結尾的電影。",
+        "grammar": "先行詞是物，後接動詞 have，為主格，不可省略。可用 which/that。",
+        "vocab": "ending [ˈendɪŋ] (n.) 結局"
+      }
+    },
+    {
+      "q": "The student ______ works hard will get good grades.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "× (可省略)"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "努力學習的學生會得到好成績。",
+        "grammar": "先行詞是人，後接動詞 works，為主格不可省略。",
+        "vocab": "grade [ɡreɪd] (n.) 成績"
+      }
+    },
+    {
+      "q": "The cake ______ Mom made for my birthday was yummy.",
+      "options": [
+        "who",
+        "whom",
+        "that / which",
+        "what"
+      ],
+      "correctAnswer": "that / which",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "媽媽為我生日做的蛋糕很好吃。",
+        "grammar": "先行詞是物，受格關代可省略，或用 that/which。",
+        "vocab": "yummy [ˈjʌmi] (adj.) 好吃的"
+      }
+    },
+    {
+      "q": "The person ______ you are waiting for is late.",
+      "options": [
+        "whom / who",
+        "which",
+        "whose",
+        "what"
+      ],
+      "correctAnswer": "whom / who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你正在等的那個人遲到了。",
+        "grammar": "先行詞是人，受格關代（wait for 的受格），可用 who/whom/that 或省略。",
+        "vocab": "late [leɪt] (adj.) 遲到的"
+      }
+    },
+    {
+      "q": "Who is the person ______ is talking to Mr. Wang?",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whom"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "正在跟王先生說話的那個人是誰？",
+        "grammar": "當主要句子是 Who 開頭的問句時，為了避免重複，關代優先使用 that。",
+        "vocab": "talk [tɔːk] (v.) 說話"
+      }
+    }
+  ]
+}

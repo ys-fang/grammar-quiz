@@ -1,0 +1,166 @@
+{
+  "topicId": "51-介係詞在-之後-in-vs-after",
+  "currentTopic": "In_vs_After_Time_10Q",
+  "questions": [
+    {
+      "q": "The train will arrive ________ ten minutes.",
+      "options": [
+        "in",
+        "after",
+        "at",
+        "on"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "火車將在十分鐘後抵達。",
+        "grammar": "未來式 (will arrive) 搭配『一段時間』，表示從現在起經過多久，應選 in。",
+        "vocab": "arrive [əˈraɪv] (v.) 抵達"
+      }
+    },
+    {
+      "q": "He went to bed ________ he finished his work.",
+      "options": [
+        "after",
+        "in",
+        "within",
+        "at"
+      ],
+      "correctAnswer": "after",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他在完成工作後上床睡覺。",
+        "grammar": "這是一個過去式的動作，且後方接的是一個事件子句，選 after。",
+        "vocab": "finished [ˈfɪnɪʃt] (v.) 完成"
+      }
+    },
+    {
+      "q": "I'll be ready ________ five minutes. Please wait for me.",
+      "options": [
+        "in",
+        "after",
+        "by",
+        "at"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我五分鐘後就會準備好。請等我一下。",
+        "grammar": "未來式 (I'll be) 搭配時間長度，表示『...之後』用 in。",
+        "vocab": "ready [ˈredi] (adj.) 準備好的"
+      }
+    },
+    {
+      "q": "We had dinner ________ the movie ended.",
+      "options": [
+        "after",
+        "in",
+        "during",
+        "since"
+      ],
+      "correctAnswer": "after",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "電影結束後我們吃了晚餐。",
+        "grammar": "過去發生的事件之後，使用 after。",
+        "vocab": "ended [ˈendɪd] (v.) 結束"
+      }
+    },
+    {
+      "q": "My father will come back from Japan ________ a week.",
+      "options": [
+        "in",
+        "after",
+        "at",
+        "within"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父親一週後會從日本回來。",
+        "grammar": "未來式搭配一段時間，in 代表『在那之後』。",
+        "vocab": "Japan [dʒəˈpæn] (n.) 日本"
+      }
+    },
+    {
+      "q": "The patient died ________ three days of illness.",
+      "options": [
+        "after",
+        "in",
+        "at",
+        "during"
+      ],
+      "correctAnswer": "after",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "病人在生病三天後去世了。",
+        "grammar": "過去式的描述 (died)，表示在一段特定時間過後，用 after。",
+        "vocab": "illness [ˈɪlnəs] (n.) 疾病"
+      }
+    },
+    {
+      "q": "Don't worry. The doctor will see you ________ a moment.",
+      "options": [
+        "in",
+        "after",
+        "on",
+        "behind"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別擔心。醫生等一下（一會兒之後）就會看診。",
+        "grammar": "In a moment 是固定用法，指『待會兒、不久後』，用於未來式。",
+        "vocab": "moment [ˈmoʊmənt] (n.) 瞬間/片刻"
+      }
+    },
+    {
+      "q": "They got married ________ three years of dating.",
+      "options": [
+        "after",
+        "in",
+        "since",
+        "at"
+      ],
+      "correctAnswer": "after",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們在交往三年後結婚了。",
+        "grammar": "描述過去發生的事實，一段時間之後用 after。",
+        "vocab": "dating [ˈdeɪtɪŋ] (n.) 交往"
+      }
+    },
+    {
+      "q": "The meeting will start ________ half an hour.",
+      "options": [
+        "in",
+        "after",
+        "at",
+        "by"
+      ],
+      "correctAnswer": "in",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "會議將在半小時後開始。",
+        "grammar": "未來式 will start，指從現在起半小時後，選 in。",
+        "vocab": "meeting [ˈmiːtɪŋ] (n.) 會議"
+      }
+    },
+    {
+      "q": "________ lunch, we went for a walk in the park.",
+      "options": [
+        "After",
+        "In",
+        "At",
+        "Since"
+      ],
+      "correctAnswer": "After",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "午餐後，我們去公園散步。",
+        "grammar": "描述過去的行程，在特定事件（lunch）後用 After。",
+        "vocab": "walk [wɔːk] (n.) 散步"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "topicId": "09-授與動詞-givesendbuy-與介係詞",
+  "currentTopic": "Dative_Verbs_To_For",
+  "questions": [
+    {
+      "q": "Could you please give this letter ______ Mr. White?",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請把這封信交給懷特先生好嗎？",
+        "grammar": "give 代表物品的『轉移』，指向某人，介係詞用 to。",
+        "vocab": "letter [ˈletər] (n.) 信件"
+      }
+    },
+    {
+      "q": "My mother bought a new bicycle ______ me.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我媽媽買了一輛新腳踏車給我。",
+        "grammar": "buy 代表『為了某人而買』，具受益性質，用 for。",
+        "vocab": "bicycle [ˈbaɪsɪkl] (n.) 腳踏車"
+      }
+    },
+    {
+      "q": "He wrote a long email ______ his girlfriend.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他寫了一封長郵件給他的女朋友。",
+        "grammar": "write 是訊息的傳遞方向，用 to。",
+        "vocab": "girlfriend [ˈɡɜːrlfrend] (n.) 女朋友"
+      }
+    },
+    {
+      "q": "Can you cook dinner ______ the kids tonight?",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你今晚能幫孩子們煮晚餐嗎？",
+        "grammar": "cook 是『代勞、準備』的服務，用 for。",
+        "vocab": "tonight [təˈnaɪt] (adv.) 今晚"
+      }
+    },
+    {
+      "q": "Please show your passport ______ the officer.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請向官員出示您的護照。",
+        "grammar": "show 是將視線或物品指向對方，用 to。",
+        "vocab": "passport [ˈpæspɔːrt] (n.) 護照"
+      }
+    },
+    {
+      "q": "I'll make some fresh coffee ______ everyone.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我會為大家煮些新鮮咖啡。",
+        "grammar": "make 是『親手製作、準備』，用 for。",
+        "vocab": "fresh [freʃ] (adj.) 新鮮的"
+      }
+    },
+    {
+      "q": "Send this package ______ the customer immediately.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "立即將這件包裹寄給客戶。",
+        "grammar": "send 是物品的位移方向，用 to。",
+        "vocab": "immediately [ɪˈmiːdiətli] (adv.) 立即地"
+      }
+    },
+    {
+      "q": "Wait! I need to get some medicine ______ my grandma.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "等等！我得幫我奶奶拿些藥。",
+        "grammar": "get 這裡指『去取得某物來給予某人』，用 for。",
+        "vocab": "medicine [ˈmedsn] (n.) 藥物"
+      }
+    },
+    {
+      "q": "He lent his favorite book ______ his classmate.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他把最喜歡的書借給了同學。",
+        "grammar": "lend 是物品從主體移向客體，用 to。",
+        "vocab": "classmate [ˈklæsmeɪt] (n.) 同學"
+      }
+    },
+    {
+      "q": "She saved a piece of cake ______ her brother.",
+      "options": [
+        "to",
+        "for"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "她為弟弟留了一塊蛋糕。",
+        "grammar": "save 是『為了某人的利益而保留』，用 for。",
+        "vocab": "piece [piːs] (n.) 一塊"
+      }
+    }
+  ]
+}

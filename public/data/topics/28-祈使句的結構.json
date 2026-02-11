@@ -1,0 +1,166 @@
+{
+  "topicId": "28-祈使句的結構",
+  "currentTopic": "Imperative_Sentences_10Q",
+  "questions": [
+    {
+      "q": "________ quiet! The baby is sleeping in the next room.",
+      "options": [
+        "Be",
+        "Is",
+        "Are",
+        "Being"
+      ],
+      "correctAnswer": "Be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "安靜點！寶寶正在隔壁房間睡覺。",
+        "grammar": "祈使句後接形容詞 quiet 時，需使用 be 動詞的原形 Be。",
+        "vocab": "quiet [ˈkwaɪət] (adj.) 安靜的"
+      }
+    },
+    {
+      "q": "________ your homework before you watch TV, Peter.",
+      "options": [
+        "Do",
+        "Does",
+        "Doing",
+        "Did"
+      ],
+      "correctAnswer": "Do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "彼得，看電視前先做你的功課。",
+        "grammar": "祈使句直接以原形動詞開頭，不論對象是誰，動詞都不加 s。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "________ run in the hallway! It's very dangerous.",
+      "options": [
+        "Don't",
+        "Doesn't",
+        "Not",
+        "No"
+      ],
+      "correctAnswer": "Don't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不要在走廊奔跑！那非常危險。",
+        "grammar": "否定祈使句固定以 Don't 開頭，後接原形動詞。",
+        "vocab": "hallway [ˈhɔːlweɪ] (n.) 走廊"
+      }
+    },
+    {
+      "q": "Please ________ the door when you leave the office.",
+      "options": [
+        "close",
+        "closes",
+        "closing",
+        "closed"
+      ],
+      "correctAnswer": "close",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "離開辦公室時請關門。",
+        "grammar": "即使加上 Please 增加禮貌，後方仍需維持原形動詞用法。",
+        "vocab": "close [kloʊz] (v.) 關閉"
+      }
+    },
+    {
+      "q": "________ careful when you cross the busy street.",
+      "options": [
+        "Be",
+        "Is",
+        "Are",
+        "Being"
+      ],
+      "correctAnswer": "Be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "過馬路時要小心。",
+        "grammar": "形容詞 careful 需搭配 be 動詞，祈使句使用其原形 Be。",
+        "vocab": "careful [ˈkerfl] (adj.) 小心的"
+      }
+    },
+    {
+      "q": "________ talk so loudly. People are reading here.",
+      "options": [
+        "Don't",
+        "Not",
+        "Doesn't",
+        "No"
+      ],
+      "correctAnswer": "Don't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別說話這麼大聲。人們正在這裡閱讀。",
+        "grammar": "否定祈使句固定用法為 Don't + 原形動詞。",
+        "vocab": "loudly [ˈlaʊdli] (adv.) 大聲地"
+      }
+    },
+    {
+      "q": "________ kind to others, and they will be kind to you.",
+      "options": [
+        "Be",
+        "Am",
+        "Are",
+        "Is"
+      ],
+      "correctAnswer": "Be",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "善待他人，他人也會善待你。",
+        "grammar": "祈使句 Be + 形容詞，用於建議某種行為態度。",
+        "vocab": "kind [kaɪnd] (adj.) 仁慈的"
+      }
+    },
+    {
+      "q": "________ forget to bring your umbrella. It's going to rain.",
+      "options": [
+        "Don't",
+        "Doesn't",
+        "Not",
+        "No"
+      ],
+      "correctAnswer": "Don't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別忘了帶傘。快要下雨了。",
+        "grammar": "否定祈使句 Don't + 原形動詞 forget。",
+        "vocab": "forget [fərˈɡet] (v.) 忘記"
+      }
+    },
+    {
+      "q": "________ to what the teacher is saying.",
+      "options": [
+        "Listen",
+        "Listens",
+        "Listening",
+        "Listened"
+      ],
+      "correctAnswer": "Listen",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "聽老師在說什麼。",
+        "grammar": "肯定祈使句直接使用原形動詞 Listen 開頭。",
+        "vocab": "listen [ˈlɪsn] (v.) 聽"
+      }
+    },
+    {
+      "q": "Let's ________ a break and have some water.",
+      "options": [
+        "take",
+        "takes",
+        "taking",
+        "to take"
+      ],
+      "correctAnswer": "take",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們休息一下喝點水吧。",
+        "grammar": "Let's 為 Let us 的縮寫，其後也必須接原形動詞。",
+        "vocab": "break [breɪk] (n.) 休息"
+      }
+    }
+  ]
+}

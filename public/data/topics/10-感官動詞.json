@@ -1,0 +1,166 @@
+{
+  "topicId": "10-感官動詞",
+  "currentTopic": "Perception_Verbs_Advanced",
+  "questions": [
+    {
+      "q": "I saw a little boy ______ the street alone just now.",
+      "options": [
+        "crossing",
+        "crossed",
+        "to cross",
+        "crosses"
+      ],
+      "correctAnswer": "crossing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我剛才看見一個小男孩獨自橫穿馬路。",
+        "grammar": "感官動詞 saw + 受詞 + V-ing，強調動作『正在進行』或目擊當下的瞬間。",
+        "vocab": "alone [əˈloʊn] (adv.) 獨自地"
+      }
+    },
+    {
+      "q": "Did you hear someone ______ for help in the park?",
+      "options": [
+        "crying",
+        "to cry",
+        "cried",
+        "cries"
+      ],
+      "correctAnswer": "crying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有聽到有人在公園裡呼救嗎？",
+        "grammar": "hear + 受詞 + V-ing，表示聽到某事正在發生。",
+        "vocab": "cry [kraɪ] (v.) 哭泣/呼喊"
+      }
+    },
+    {
+      "q": "We watched the sun ______ over the horizon this morning.",
+      "options": [
+        "to rise",
+        "rise",
+        "rose",
+        "rises"
+      ],
+      "correctAnswer": "rise",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "今天早上我們看著太陽從地平線升起。",
+        "grammar": "watch + 受詞 + 原形動詞 (V)，強調看完整個過程。",
+        "vocab": "horizon [həˈraɪzn] (n.) 地平線"
+      }
+    },
+    {
+      "q": "I felt the house ______ slightly during the earthquake.",
+      "options": [
+        "shook",
+        "shaken",
+        "shake",
+        "to shake"
+      ],
+      "correctAnswer": "shake",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "地震時我感覺到房子在輕微搖晃。",
+        "grammar": "feel + 受詞 + V/V-ing 皆可。這裡強調感受到的動作性質。",
+        "vocab": "slightly [ˈslaɪtli] (adv.) 稍微地"
+      }
+    },
+    {
+      "q": "Listen! Can't you hear the birds ______ in the trees?",
+      "options": [
+        "sung",
+        "singing",
+        "to sing",
+        "sang"
+      ],
+      "correctAnswer": "singing",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "聽！你沒聽到鳥兒在樹上唱歌嗎？",
+        "grammar": "強調『正在進行』的聲音，使用 V-ing 較佳。",
+        "vocab": "listen [ˈlɪsn] (v.) 傾聽"
+      }
+    },
+    {
+      "q": "They noticed a stranger ______ into the building.",
+      "options": [
+        "enter",
+        "entered",
+        "to enter",
+        "enters"
+      ],
+      "correctAnswer": "enter",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們注意到一名陌生人進入了建築物。",
+        "grammar": "notice + 受詞 + V/V-ing。這裡指看到進入的這個行為。",
+        "vocab": "stranger [ˈstreɪndʒər] (n.) 陌生人"
+      }
+    },
+    {
+      "q": "She smelled something ______ in the kitchen.",
+      "options": [
+        "burns",
+        "to burn",
+        "burning",
+        "burned"
+      ],
+      "correctAnswer": "burning",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "她聞到廚房裡有東西燒焦的味道。",
+        "grammar": "smell + 受詞 + V-ing，聞到某動作正在發出的氣味。",
+        "vocab": "burn [bɜːrn] (v.) 燃燒"
+      }
+    },
+    {
+      "q": "I saw him ______ the book and leave the room.",
+      "options": [
+        "closing",
+        "closed",
+        "close",
+        "to close"
+      ],
+      "correctAnswer": "close",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我看見他關上書並離開房間。",
+        "grammar": "看到『一連串動作』的完成，使用原形動詞 V。",
+        "vocab": "leave [liːv] (v.) 離開"
+      }
+    },
+    {
+      "q": "The teacher caught the student ______ in the exam.",
+      "options": [
+        "cheat",
+        "cheated",
+        "cheating",
+        "to cheat"
+      ],
+      "correctAnswer": "cheating",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "老師抓到學生在考試中作弊。",
+        "grammar": "catch (捕捉/撞見) 某人正在做某事，慣用 V-ing。",
+        "vocab": "cheat [tʃiːt] (v.) 作弊"
+      }
+    },
+    {
+      "q": "He watched his father ______ the car yesterday.",
+      "options": [
+        "fix",
+        "fixing",
+        "fixed",
+        "to fix"
+      ],
+      "correctAnswer": "fix",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他昨天看著他父親修理汽車。",
+        "grammar": "watch 可接原形 V 表示全程目擊。",
+        "vocab": "fix [fɪks] (v.) 修理"
+      }
+    }
+  ]
+}

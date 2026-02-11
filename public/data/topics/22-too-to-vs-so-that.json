@@ -1,0 +1,166 @@
+{
+  "topicId": "22-too-to-vs-so-that",
+  "currentTopic": "Too_To_So_That_10Q",
+  "questions": [
+    {
+      "q": "The box is ______ heavy for the little boy to lift.",
+      "options": [
+        "too",
+        "so",
+        "very",
+        "enough"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這箱子太重了，這小男孩搬不動。",
+        "grammar": "後接 to + 原形動詞且帶有否定意義，使用 too...to 結構。",
+        "vocab": "heavy [ˈhevi] (adj.) 重的"
+      }
+    },
+    {
+      "q": "He was ______ tired that he fell asleep on the sofa.",
+      "options": [
+        "so",
+        "too",
+        "very",
+        "quite"
+      ],
+      "correctAnswer": "so",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他太累了，以至於他在沙發上睡著了。",
+        "grammar": "後接 that 子句，描述「如此...以至於...」，使用 so...that 結構。",
+        "vocab": "asleep [əˈsliːp] (adj.) 睡著的"
+      }
+    },
+    {
+      "q": "The tea is too hot ______.",
+      "options": [
+        "to drink",
+        "to drink it",
+        "that I can't drink",
+        "drinking"
+      ],
+      "correctAnswer": "to drink",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這茶太燙了，不能喝。",
+        "grammar": "too...to 結構中，若受格與主詞相同，不可再寫出 it。",
+        "vocab": "hot [hɑːt] (adj.) 燙的/熱的"
+      }
+    },
+    {
+      "q": "The puzzle is so difficult ______ I can't solve it.",
+      "options": [
+        "that",
+        "to",
+        "for",
+        "which"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這拼圖太難了，以至於我無法解決它。",
+        "grammar": "so...that 結構引導完整的結果子句。",
+        "vocab": "solve [sɑːlv] (v.) 解決/解開"
+      }
+    },
+    {
+      "q": "She is ______ young to drive a car.",
+      "options": [
+        "too",
+        "so",
+        "very",
+        "not"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她年紀太小了，還不能開車。",
+        "grammar": "too...to 表示「太...而不能」，隱含否定。",
+        "vocab": "drive [draɪv] (v.) 駕駛"
+      }
+    },
+    {
+      "q": "The room was so dark ______ we couldn't see anything.",
+      "options": [
+        "that",
+        "too",
+        "so",
+        "for"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "房間太暗了，以至於我們什麼都看不見。",
+        "grammar": "so...that 後接過去式否定子句 couldn't。",
+        "vocab": "dark [dɑːrk] (adj.) 暗的"
+      }
+    },
+    {
+      "q": "This shirt is ______ small for me to wear.",
+      "options": [
+        "too",
+        "so",
+        "enough",
+        "such"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這件襯衫對我來說太小了，穿不下。",
+        "grammar": "too + adj + for sb + to V 是常見變化型。",
+        "vocab": "wear [wer] (v.) 穿著"
+      }
+    },
+    {
+      "q": "The news was ______ good to be true.",
+      "options": [
+        "too",
+        "so",
+        "very",
+        "really"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這消息好到讓人不敢置信。",
+        "grammar": "too good to be true 是固定用法，指好得不像真的。",
+        "vocab": "true [truː] (adj.) 真實的"
+      }
+    },
+    {
+      "q": "He spoke so fast ______ nobody could understand him.",
+      "options": [
+        "that",
+        "to",
+        "for",
+        "enough"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他說話太快了，以至於沒人能聽懂他。",
+        "grammar": "so...that 修飾副詞 (fast)，引導結果子句。",
+        "vocab": "fast [fæst] (adv.) 快速地"
+      }
+    },
+    {
+      "q": "I am ______ busy to go out with you tonight.",
+      "options": [
+        "too",
+        "so",
+        "very",
+        "much"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我太忙了，今晚不能跟你出去。",
+        "grammar": "too...to 結構，主詞為 I，強調「太忙而不能」。",
+        "vocab": "busy [ˈbɪzi] (adj.) 忙碌的"
+      }
+    }
+  ]
+}

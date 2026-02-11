@@ -1,0 +1,166 @@
+{
+  "topicId": "27-v-ing-當主詞",
+  "currentTopic": "Gerund_As_Subject_10Q",
+  "questions": [
+    {
+      "q": "Playing video games ______ a lot of fun for many teenagers.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "玩電子遊戲對許多青少年來說很有趣。",
+        "grammar": "當動名詞 (Playing) 當主詞時，視為『一件事情』，動詞要用單數 is，不可被複數的 games 干擾。",
+        "vocab": "teenager [ˈtiːneɪdʒər] (n.) 青少年"
+      }
+    },
+    {
+      "q": "Eating fresh vegetables every day ______ you stay healthy.",
+      "options": [
+        "helps",
+        "help",
+        "helping",
+        "to help"
+      ],
+      "correctAnswer": "helps",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每天吃新鮮蔬菜幫助你保持健康。",
+        "grammar": "主詞是『吃 (Eating)』這個動作，視為單數，動詞需加 s。",
+        "vocab": "vegetable [ˈvedʒtəbl] (n.) 蔬菜"
+      }
+    },
+    {
+      "q": "______ foreign languages requires a lot of constant practice.",
+      "options": [
+        "Learning",
+        "Learn",
+        "Learned",
+        "To learning"
+      ],
+      "correctAnswer": "Learning",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "學習外語需要大量的持續練習。",
+        "grammar": "requires 是單數動詞，說明主詞必須是單數名詞或動名詞。Learning 代表學習這件事。",
+        "vocab": "foreign [ˈfɔːrən] (adj.) 外國的"
+      }
+    },
+    {
+      "q": "Collecting old stamps ______ my grandfather's favorite hobby.",
+      "options": [
+        "was",
+        "were",
+        "be",
+        "been"
+      ],
+      "correctAnswer": "was",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "收集舊郵件是我祖父最喜歡的嗜好。",
+        "grammar": "雖然 stamps 是複數，但主詞是『收集 (Collecting)』，故動詞用單數 was。",
+        "vocab": "hobby [ˈhɑːbi] (n.) 嗜好"
+      }
+    },
+    {
+      "q": "Watching horror movies ______ scary for little children.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "看恐怖片對小孩子來說很嚇人。",
+        "grammar": "主詞是觀看 (Watching) 這個行為，視為單數主詞。",
+        "vocab": "horror movie (n.phr.) 恐怖片"
+      }
+    },
+    {
+      "q": "Taking pictures of animals ______ Jason's biggest passion.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "拍攝動物的照片是 Jason 最大的熱情。",
+        "grammar": "『拍照 (Taking)』是主詞，無視受格 animals，動詞選 is。",
+        "vocab": "passion [ˈpæʃn] (n.) 熱情"
+      }
+    },
+    {
+      "q": "Doing house chores ______ me feel tired after school.",
+      "options": [
+        "makes",
+        "make",
+        "making",
+        "to make"
+      ],
+      "correctAnswer": "makes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "放學後做家事讓我感到疲倦。",
+        "grammar": "主詞是『做 (Doing)』家事這件事，動詞應使用單數型態 makes。",
+        "vocab": "chore [tʃɔːr] (n.) 家務"
+      }
+    },
+    {
+      "q": "Drinking eight glasses of water every day ______ your skin.",
+      "options": [
+        "helps",
+        "help",
+        "helping",
+        "to help"
+      ],
+      "correctAnswer": "helps",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每天喝八杯水對你的皮膚有幫助。",
+        "grammar": "即使有『八杯水』，但主詞是『喝 (Drinking)』，動詞用單數 helps。",
+        "vocab": "skin [skɪn] (n.) 皮膚"
+      }
+    },
+    {
+      "q": "Solving complex math problems ______ a lot of thinking.",
+      "options": [
+        "needs",
+        "need",
+        "needing",
+        "to need"
+      ],
+      "correctAnswer": "needs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "解決複雜的數學問題需要大量的思考。",
+        "grammar": "主詞是解決 (Solving) 這個行為，而非問題本身，故動詞加 s。",
+        "vocab": "complex [kəmˈpleks] (adj.) 複雜的"
+      }
+    },
+    {
+      "q": "Walking dogs in the park ______ my daily routine.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "being"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在公園溜狗是我的日常例行公事。",
+        "grammar": "遛狗 (Walking dogs) 被視為一項活動，主詞 Walking 為單數。",
+        "vocab": "routine [ruːˈtiːn] (n.) 例行公事"
+      }
+    }
+  ]
+}

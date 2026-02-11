@@ -1,0 +1,246 @@
+{
+  "topicId": "01-不定詞與v-ing",
+  "currentTopic": "ToV_vs_Ving_Mastery",
+  "questions": [
+    {
+      "q": "He promised _______ me back as soon as possible.",
+      "options": [
+        "calling",
+        "to call",
+        "call",
+        "called"
+      ],
+      "correctAnswer": "to call",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他承諾會盡快回電給我。",
+        "grammar": "promise 後接 to V 表示未來的承諾。",
+        "restore": "He promised: 'I will call you back.'"
+      }
+    },
+    {
+      "q": "Avoid _______ heavy meals before going to bed.",
+      "options": [
+        "eating",
+        "to eat",
+        "eat",
+        "eaten"
+      ],
+      "correctAnswer": "eating",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "避免在睡前吃大餐。",
+        "grammar": "avoid 習慣接 V-ing 作為受詞。",
+        "restore": "Do not eat heavy meals before bed."
+      }
+    },
+    {
+      "q": "I clearly remember _______ the door before I left.",
+      "options": [
+        "locking",
+        "to lock",
+        "lock",
+        "locked"
+      ],
+      "correctAnswer": "locking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我清楚記得離開前有鎖門。",
+        "grammar": "remember + V-ing 表示「記得做過某事」。",
+        "restore": "I locked the door, and I have the memory of it."
+      }
+    },
+    {
+      "q": "The manager decided _______ the meeting to next Monday.",
+      "options": [
+        "postponing",
+        "to postpone",
+        "postpone",
+        "postponed"
+      ],
+      "correctAnswer": "to postpone",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "經理決定將會議推遲到下週一。",
+        "grammar": "decide 後接 to V 表示未來的決定。",
+        "restore": "The manager made a decision: 'I will postpone...'"
+      }
+    },
+    {
+      "q": "She practiced _______ the piano for three hours every day.",
+      "options": [
+        "playing",
+        "to play",
+        "play",
+        "played"
+      ],
+      "correctAnswer": "playing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她每天練習彈鋼琴三小時。",
+        "grammar": "practice 之後接 V-ing 表示重複性的練習動作。",
+        "restore": "She performed the action of playing."
+      }
+    },
+    {
+      "q": "I look forward to _______ you at the conference.",
+      "options": [
+        "seeing",
+        "to see",
+        "see",
+        "saw"
+      ],
+      "correctAnswer": "seeing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我很期待在會議上見到你。",
+        "grammar": "look forward to 中的 to 是介係詞，後接 V-ing。",
+        "restore": "I am anticipating the act of seeing you."
+      }
+    },
+    {
+      "q": "It's no use _______ about the past.",
+      "options": [
+        "crying",
+        "to cry",
+        "cry",
+        "cried"
+      ],
+      "correctAnswer": "crying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "對過去的事哭泣是沒用的。",
+        "grammar": "固定句型：It is no use + V-ing。",
+        "restore": "Crying about the past is useless."
+      }
+    },
+    {
+      "q": "The doctor advised him _______ smoking immediately.",
+      "options": [
+        "quitting",
+        "to quit",
+        "quit",
+        "quitted"
+      ],
+      "correctAnswer": "to quit",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "醫生建議他立即戒菸。",
+        "grammar": "advise + 受詞 + to V 格式。",
+        "restore": "The doctor said: 'You should quit smoking.'"
+      }
+    },
+    {
+      "q": "He suggested _______ a taxi to the airport.",
+      "options": [
+        "taking",
+        "to take",
+        "take",
+        "taken"
+      ],
+      "correctAnswer": "taking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他建議搭計程車去機場。",
+        "grammar": "suggest 之後接 V-ing 作為受詞。",
+        "restore": "He suggested that we should take a taxi."
+      }
+    },
+    {
+      "q": "I can't help _______ how much she has changed.",
+      "options": [
+        "noticing",
+        "to notice",
+        "notice",
+        "noticed"
+      ],
+      "correctAnswer": "noticing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不禁注意到她變了多少。",
+        "grammar": "固定用法：can't help + V-ing（忍不住...）。",
+        "restore": "I cannot stop myself from noticing."
+      }
+    },
+    {
+      "q": "Don't forget _______ the plants while I'm away.",
+      "options": [
+        "watering",
+        "to water",
+        "water",
+        "watered"
+      ],
+      "correctAnswer": "to water",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我不在時別忘了要澆花。",
+        "grammar": "forget + to V 表示「忘記要做的事」。",
+        "restore": "Please remember to water the plants."
+      }
+    },
+    {
+      "q": "It began _______ heavily just after we arrived.",
+      "options": [
+        "raining",
+        "to rain",
+        "Both are correct",
+        "rain"
+      ],
+      "correctAnswer": "Both are correct",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我們到達後不久就開始下大雨了。",
+        "grammar": "begin 之後接 to V 或 V-ing 意義通常相同。",
+        "restore": "It started to rain / raining."
+      }
+    },
+    {
+      "q": "We hope _______ the project by the end of this month.",
+      "options": [
+        "finishing",
+        "to finish",
+        "finish",
+        "finished"
+      ],
+      "correctAnswer": "to finish",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我們希望月底前完成這項專案。",
+        "grammar": "hope 後接 to V 表示未來的目標。",
+        "restore": "We hope that we will finish..."
+      }
+    },
+    {
+      "q": "She stopped _______ because her throat was sore.",
+      "options": [
+        "singing",
+        "to sing",
+        "sing",
+        "sang"
+      ],
+      "correctAnswer": "singing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她因為喉嚨痛停止了唱歌。",
+        "grammar": "stop + V-ing 是「停止正在做的動作」。",
+        "restore": "She was singing, but she stopped."
+      }
+    },
+    {
+      "q": "I enjoy _______ long walks in the forest.",
+      "options": [
+        "taking",
+        "to take",
+        "take",
+        "taken"
+      ],
+      "correctAnswer": "taking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我享受在森林裡散步。",
+        "grammar": "enjoy 後接 V-ing 表喜好。",
+        "restore": "I like the activity of taking walks."
+      }
+    }
+  ]
+}

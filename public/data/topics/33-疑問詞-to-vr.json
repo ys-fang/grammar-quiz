@@ -1,0 +1,246 @@
+{
+  "topicId": "33-疑問詞-to-vr",
+  "currentTopic": "QuestionWords_ToV_15Q",
+  "questions": [
+    {
+      "q": "I don't know ________ to do to solve this difficult problem.",
+      "options": [
+        "what",
+        "how",
+        "where",
+        "why"
+      ],
+      "correctAnswer": "what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不知道該做什麼來解決這個困難的問題。",
+        "grammar": "do 後方缺少受格內容，故選 what to do (做什麼)。",
+        "vocab": "solve [sɑːlv] (v.) 解決"
+      }
+    },
+    {
+      "q": "Can you show me ________ to use this new coffee machine?",
+      "options": [
+        "how",
+        "what",
+        "where",
+        "whether"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你能教我如何使用這台新的咖啡機嗎？",
+        "grammar": "詢問「方式、方法」，使用 how to V (如何做)。",
+        "vocab": "machine [məˈʃiːn] (n.) 機器"
+      }
+    },
+    {
+      "q": "They haven't decided ________ to go for their summer vacation.",
+      "options": [
+        "where",
+        "when",
+        "what",
+        "how"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們還沒決定暑假要去哪裡。",
+        "grammar": "引導「地點」概念，使用 where to go (去哪裡)。",
+        "vocab": "vacation [veɪˈkeɪʃn] (n.) 假期"
+      }
+    },
+    {
+      "q": "Please tell me ________ to start the race. I'm ready.",
+      "options": [
+        "when",
+        "where",
+        "whether",
+        "what"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請告訴我何時開始比賽。我準備好了。",
+        "grammar": "詢問「時間點」，使用 when to start (何時開始)。",
+        "vocab": "race [reɪs] (n.) 比賽"
+      }
+    },
+    {
+      "q": "I'm not sure ________ to accept the job offer or not.",
+      "options": [
+        "whether",
+        "if",
+        "what",
+        "why"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不確定是否要接受這份工作邀約。",
+        "grammar": "表達「是否」且後接 to V 時，只能用 whether，不可用 if。",
+        "vocab": "offer [ˈɔːfər] (n.) 邀約/提供"
+      }
+    },
+    {
+      "q": "He asked the waiter ________ to order from the menu.",
+      "options": [
+        "what",
+        "how",
+        "where",
+        "when"
+      ],
+      "correctAnswer": "what",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他問服務生該點菜單上的什麼。",
+        "grammar": "order 需要受格內容，故選 what to order (點什麼)。",
+        "vocab": "menu [ˈmenjuː] (n.) 菜單"
+      }
+    },
+    {
+      "q": "She forgot ________ to park her car in this big mall.",
+      "options": [
+        "where",
+        "when",
+        "what",
+        "whether"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她忘記要把車停在這個大商場的哪裡了。",
+        "grammar": "詢問「位置」，使用 where to park (在哪停車)。",
+        "vocab": "park [pɑːrk] (v.) 停車"
+      }
+    },
+    {
+      "q": "Do you know ________ to fix a broken computer?",
+      "options": [
+        "how",
+        "what",
+        "where",
+        "why"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你知道要如何修好壞體電腦嗎？",
+        "grammar": "詢問「技術、方法」，使用 how to fix (如何修)。",
+        "vocab": "fix [fɪks] (v.) 修理"
+      }
+    },
+    {
+      "q": "The sign tells us ________ to turn right at the corner.",
+      "options": [
+        "when",
+        "what",
+        "whether",
+        "why"
+      ],
+      "correctAnswer": "when",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "標誌告訴我們何時該在轉角右轉。",
+        "grammar": "指示動作發生的「時機」，使用 when to turn (何時轉彎)。",
+        "vocab": "corner [ˈkɔːrnər] (n.) 轉角"
+      }
+    },
+    {
+      "q": "We are still thinking about ________ to invite to the party.",
+      "options": [
+        "who",
+        "what",
+        "how",
+        "where"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們還在考慮要邀請誰來參加派對。",
+        "grammar": "invite 後方缺少人稱受格，使用 who to V (邀請誰)。",
+        "vocab": "invite [ɪnˈvaɪt] (v.) 邀請"
+      }
+    },
+    {
+      "q": "I'm not sure ________ to buy this shirt. It looks a bit expensive.",
+      "options": [
+        "whether",
+        "where",
+        "what",
+        "how"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不確定是否要買這件襯衫。它看起來有點貴。",
+        "grammar": "表達「是否」要做某事的決定，使用 whether to V。",
+        "vocab": "expensive [ɪkˈspensɪv] (adj.) 昂貴的"
+      }
+    },
+    {
+      "q": "Could you tell me ________ to send this email to?",
+      "options": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你能告訴我這封郵件要寄給誰嗎？",
+        "grammar": "to 後方接人稱對象，故選 who (whom) to send...to。",
+        "vocab": "email [ˈiːmeɪl] (n.) 電子郵件"
+      }
+    },
+    {
+      "q": "My little brother is learning ________ to tie his shoelaces.",
+      "options": [
+        "how",
+        "what",
+        "when",
+        "where"
+      ],
+      "correctAnswer": "how",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我小弟正在學習如何繫鞋帶。",
+        "grammar": "學習「技巧或方法」，使用 how to V。",
+        "vocab": "shoelace [ˈʃuːleɪs] (n.) 鞋帶"
+      }
+    },
+    {
+      "q": "The traveler didn't know ________ to take the train or the bus.",
+      "options": [
+        "whether",
+        "where",
+        "how",
+        "what"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "旅客不知道該搭火車還是巴士。",
+        "grammar": "在兩個選項中做抉擇（是否/哪一個），使用 whether to V。",
+        "vocab": "traveler [ˈtrævələr] (n.) 旅客"
+      }
+    },
+    {
+      "q": "We need to find out ________ to meet for the group project.",
+      "options": [
+        "where",
+        "what",
+        "how",
+        "whether"
+      ],
+      "correctAnswer": "where",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們需要找出要在哪裡見面討論小組計畫。",
+        "grammar": "meet 需要討論會合的「地點」，使用 where to meet。",
+        "vocab": "project [ˈprɑːdʒekt] (n.) 計畫/專案"
+      }
+    }
+  ]
+}

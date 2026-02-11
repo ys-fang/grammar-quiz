@@ -1,0 +1,246 @@
+{
+  "topicId": "34-虛主詞與虛受格-it-的進階用法",
+  "currentTopic": "Dummy_Subject_Object_15Q",
+  "questions": [
+    {
+      "q": "______ is dangerous for children to play with fire.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "There"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小孩玩火是危險的。",
+        "grammar": "前方需虛主詞 It 引導後方真正的內容 to play with fire。",
+        "vocab": "dangerous [ˈdeɪndʒərəs] (adj.) 危險的"
+      }
+    },
+    {
+      "q": "I find ______ hard to finish all the work in one day.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "its"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我發現一天內完成所有工作很困難。",
+        "grammar": "虛受格 it 用於 find + adj + to V 的結構中。",
+        "vocab": "finish [ˈfɪnɪʃ] (v.) 完成"
+      }
+    },
+    {
+      "q": "It is very polite ______ you to say thank you.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "to"
+      ],
+      "correctAnswer": "of",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你說謝謝真有禮貌。",
+        "grammar": "polite 是形容「人的特質」，故介係詞用 of。",
+        "vocab": "polite [pəˈlaɪt] (adj.) 有禮貌的"
+      }
+    },
+    {
+      "q": "Does ______ take much time to learn how to drive?",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "which"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "學習開車需要花很多時間嗎？",
+        "grammar": "It takes time to V... 是虛主詞 It 的固定用法。",
+        "vocab": "drive [draɪv] (v.) 駕駛"
+      }
+    },
+    {
+      "q": "We think ______ important that everyone follows the rules.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "them"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們認為每個人都遵守規則很重要。",
+        "grammar": "虛受格 it 引導後方的 that 子句。",
+        "vocab": "important [ɪmˈpɔːrtnt] (adj.) 重要的"
+      }
+    },
+    {
+      "q": "______ is no use crying over spilled milk.",
+      "options": [
+        "It",
+        "There",
+        "This",
+        "That"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "覆水難收（後悔也沒用）。",
+        "grammar": "It is no use + V-ing 是固定句型，It 是虛主詞。",
+        "vocab": "spilled [spɪld] (adj.) 溢出的"
+      }
+    },
+    {
+      "q": "The boss made ______ clear that he wanted the report today.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "which"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老闆明確表示他今天就要這份報告。",
+        "grammar": "make it clear that... 是虛受格的常見用法。",
+        "vocab": "clear [klɪr] (adj.) 明確的"
+      }
+    },
+    {
+      "q": "It is necessary ______ you to bring your passport.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "to"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你有必要帶上護照。",
+        "grammar": "necessary 形容的是「事情」，故用介係詞 for。",
+        "vocab": "passport [ˈpæspɔːrt] (n.) 護照"
+      }
+    },
+    {
+      "q": "She considers ______ her duty to help the poor.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "which"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她認為幫助窮人是她的責任。",
+        "grammar": "consider + it + N + to V，it 為虛受格。",
+        "vocab": "duty [ˈduːti] (n.) 責任/義務"
+      }
+    },
+    {
+      "q": "______ is a pity that you missed such a great concert.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "What"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "可惜你錯過了這麼棒的音樂會。",
+        "grammar": "It is a pity that...，It 指代後方的整件事。",
+        "vocab": "pity [ˈpɪti] (n.) 遺憾/可惜"
+      }
+    },
+    {
+      "q": "I feel ______ my responsibility to protect the environment.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "what"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我覺得保護環境是我的責任。",
+        "grammar": "feel + it + N + to V，it 是虛受格。",
+        "vocab": "protect [prəˈtekt] (v.) 保護"
+      }
+    },
+    {
+      "q": "Was ______ brave of him to save the drowning boy?",
+      "options": [
+        "it",
+        "this",
+        "he",
+        "that"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他救起溺水男孩很勇敢嗎？",
+        "grammar": "brave 形容人，結構為 It is adj of 人 to V。",
+        "vocab": "brave [breɪv] (adj.) 勇敢的"
+      }
+    },
+    {
+      "q": "I find ______ interesting that cats like boxes so much.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "its"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我發現貓這麼喜歡盒子挺有趣的。",
+        "grammar": "find it interesting that...，it 引導名詞子句。",
+        "vocab": "interesting [ˈɪntrəstɪŋ] (adj.) 有趣的"
+      }
+    },
+    {
+      "q": "______ is true that the sun rises in the east.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "Which"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "太陽從東邊升起是真的。",
+        "grammar": "It is true that...，It 指代後方的事實。",
+        "vocab": "true [truː] (adj.) 真實的"
+      }
+    },
+    {
+      "q": "You must find ______ easy to speak English since you lived in USA.",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "which"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "自從你住過美國後，你一定覺得說英文很容易。",
+        "grammar": "find it + adj + to V，使用虛受格 it。",
+        "vocab": "easy [ˈiːzi] (adj.) 容易的"
+      }
+    }
+  ]
+}

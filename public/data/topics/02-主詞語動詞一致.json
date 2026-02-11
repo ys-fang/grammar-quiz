@@ -1,0 +1,156 @@
+{
+  "topicId": "02-主詞語動詞一致",
+  "currentTopic": "SubjectVerb_Mastery",
+  "questions": [
+    {
+      "q": "Each of the students _______ a different assignment.",
+      "options": [
+        "has",
+        "have",
+        "having",
+        "are having"
+      ],
+      "correctAnswer": "has",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每個學生都有不同的作業。",
+        "grammar": "Each of + 複數名詞，主詞核心是 Each，視為單數。"
+      }
+    },
+    {
+      "q": "Either the teacher or the students _______ the classroom.",
+      "options": [
+        "is cleaning",
+        "are cleaning",
+        "cleans",
+        "has cleaned"
+      ],
+      "correctAnswer": "are cleaning",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "不是老師就是學生們在打掃教室。",
+        "grammar": "Either A or B 結構，動詞隨靠近的主詞（students）變化。"
+      }
+    },
+    {
+      "q": "A number of cars _______ parked on the street.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "was"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "街上停了許多車子。",
+        "grammar": "A number of 表示「許多」，接複數動詞；The number of 則接單數。"
+      }
+    },
+    {
+      "q": "Mathematics _______ my favorite subject in school.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "were"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "數學是我在學校最喜歡的科目。",
+        "grammar": "學科名稱如 Mathematics、Physics 雖然有 s 結尾，仍視為單數。"
+      }
+    },
+    {
+      "q": "Not only the apple but also the grapes _______ delicious.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "has been"
+      ],
+      "correctAnswer": "are",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "不僅蘋果，連葡萄也很好吃。",
+        "grammar": "Not only A but also B，動詞隨靠近的主詞（grapes）變化。"
+      }
+    },
+    {
+      "q": "The news about the accident _______ very shocking.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "been"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "關於那場意外的消息非常令人震驚。",
+        "grammar": "News 是不可數名詞，恆用單數動詞。"
+      }
+    },
+    {
+      "q": "Ten kilometers _______ a long distance to walk.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "were"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "十公里是段很長的步行距離。",
+        "grammar": "時間、金錢、距離、重量等度量衡視為「一個整體」，用單數。"
+      }
+    },
+    {
+      "q": "Everyone in the room _______ waiting for the speaker.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "房間裡的每個人都在等待演講者。",
+        "grammar": "不定代名詞 Everyone、Someone、Nobody 等恆用單數動詞。"
+      }
+    },
+    {
+      "q": "The manager, along with his employees, _______ at the meeting.",
+      "options": [
+        "is",
+        "are",
+        "be",
+        "were"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "經理連同他的員工都在會議上。",
+        "grammar": "主詞由 along with/as well as 引導時，動詞隨第一個主詞（manager）變化。"
+      }
+    },
+    {
+      "q": "Neither of the plans _______ perfect for the project.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "be"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "兩項計畫對於這項專案都不完美。",
+        "grammar": "Neither of + 複數名詞，意為「兩者皆非」，主詞核心為 Neither，視為單數。"
+      }
+    }
+  ]
+}

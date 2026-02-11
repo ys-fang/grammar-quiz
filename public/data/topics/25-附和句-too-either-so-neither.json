@@ -1,0 +1,166 @@
+{
+  "topicId": "25-附和句-too-either-so-neither",
+  "currentTopic": "Agreement_Sentences_10Q",
+  "questions": [
+    {
+      "q": "A: I am very tired after the long walk. <br>B: ________.",
+      "options": [
+        "So am I",
+        "So do I",
+        "Neither am I",
+        "I am, either"
+      ],
+      "correctAnswer": "So am I",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 走了長路後我好累。<br>B: 我也是。",
+        "grammar": "前句是 be 動詞肯定句，肯定附和用 So + be 動詞 + 主詞。",
+        "vocab": "tired [ˈtaɪərd] (adj.) 疲累的"
+      }
+    },
+    {
+      "q": "A: My sister doesn't like watching horror movies. <br>B: ________.",
+      "options": [
+        "Neither does mine",
+        "Neither mine does",
+        "Mine doesn't, too",
+        "So does mine"
+      ],
+      "correctAnswer": "Neither does mine",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我妹妹不喜歡看恐怖片。<br>B: 我的（妹妹）也是。",
+        "grammar": "前句是一般動詞否定句 (doesn't)，否定附和用 Neither + 助動詞 (does) + 主詞。",
+        "vocab": "horror movie (n.phr.) 恐怖片"
+      }
+    },
+    {
+      "q": "A: Jason can speak three languages fluently. <br>B: ________.",
+      "options": [
+        "So can his brother",
+        "So does his brother",
+        "Neither can his brother",
+        "His brother can, either"
+      ],
+      "correctAnswer": "So can his brother",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: Jason 能流利地說三種語言。<br>B: 他哥哥也可以。",
+        "grammar": "前句有助動詞 can，肯定附和維持用 can 並放在 So 後面。",
+        "vocab": "fluently [ˈfluːəntli] (adv.) 流利地"
+      }
+    },
+    {
+      "q": "A: We didn't see the news this morning. <br>B: We ________.",
+      "options": [
+        "didn't, either",
+        "didn't, too",
+        "did, either",
+        "neither did"
+      ],
+      "correctAnswer": "didn't, either",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我們今天早上沒看新聞。<br>B: 我們也沒看。",
+        "grammar": "前句是否定句，且要求放在句尾附和，格式為 主詞 + 助動詞否定 + either。",
+        "vocab": "news [nuːz] (n.) 新聞"
+      }
+    },
+    {
+      "q": "A: They have already finished their lunch. <br>B: ________.",
+      "options": [
+        "So have we",
+        "So do we",
+        "Neither have we",
+        "We have, either"
+      ],
+      "correctAnswer": "So have we",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他們已經吃完午餐了。<br>B: 我們也是。",
+        "grammar": "前句是現在完成式 (have finished)，助動詞為 have，肯定附和用 So + have + 主詞。",
+        "vocab": "already [ɔːlˈredi] (adv.) 已經"
+      }
+    },
+    {
+      "q": "A: I'm not going to the party tonight. <br>B: ________.",
+      "options": [
+        "Neither am I",
+        "Neither I am",
+        "I'm not, too",
+        "So am I"
+      ],
+      "correctAnswer": "Neither am I",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我今晚不去派對。<br>B: 我也不去。",
+        "grammar": "前句是 be 動詞否定句，否定附和用 Neither + be 動詞 + 主詞。",
+        "vocab": "tonight [təˈnaɪt] (adv.) 今晚"
+      }
+    },
+    {
+      "q": "A: My parents work in a big hospital. <br>B: My parents ________.",
+      "options": [
+        "do, too",
+        "are, too",
+        "do, either",
+        "so do"
+      ],
+      "correctAnswer": "do, too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我父母在大醫院工作。<br>B: 我父母也是。",
+        "grammar": "前句是一般動詞肯定句，句尾附和用 主詞 + 助動詞 (do/does) + too。",
+        "vocab": "hospital [ˈhɑːspɪtl] (n.) 醫院"
+      }
+    },
+    {
+      "q": "A: You shouldn't play phone games for too long. <br>B: ________.",
+      "options": [
+        "Neither should you",
+        "Neither you should",
+        "So should you",
+        "You shouldn't, too"
+      ],
+      "correctAnswer": "Neither should you",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你不應該玩手機遊戲太久。<br>B: 你也不應該。",
+        "grammar": "前句有助動詞 shouldn't，否定附和用 Neither + 助動詞 (should) + 主詞。",
+        "vocab": "should [ʃʊd] (aux.) 應該"
+      }
+    },
+    {
+      "q": "A: He arrived at school late yesterday. <br>B: ________.",
+      "options": [
+        "So did I",
+        "So was I",
+        "Neither did I",
+        "I did, either"
+      ],
+      "correctAnswer": "So did I",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 他昨天上學遲到了。<br>B: 我也是。",
+        "grammar": "前句是一般動詞過去式 (arrived)，肯定附和用 So + did + 主詞。",
+        "vocab": "arrived [əˈraɪvd] (v.) 到達"
+      }
+    },
+    {
+      "q": "A: I haven't seen that movie yet. <br>B: ________.",
+      "options": [
+        "Neither have I",
+        "Neither I have",
+        "I haven't, too",
+        "So have I"
+      ],
+      "correctAnswer": "Neither have I",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我還沒看過那部電影。<br>B: 我也還沒。",
+        "grammar": "前句是現在完成式否定 (haven't)，否定附和用 Neither + have + 主詞。",
+        "vocab": "yet [jet] (adv.) 尚未"
+      }
+    }
+  ]
+}

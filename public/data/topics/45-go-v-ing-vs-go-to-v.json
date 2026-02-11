@@ -1,0 +1,166 @@
+{
+  "topicId": "45-go-v-ing-vs-go-to-v",
+  "currentTopic": "Go_Ving_Vs_Go_To_V_10Q",
+  "questions": [
+    {
+      "q": "It's a beautiful day. Let's ________ in the river.",
+      "options": [
+        "go swimming",
+        "go to swim",
+        "go swim",
+        "go to swimming"
+      ],
+      "correctAnswer": "go swimming",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "天氣很好。我們去河裡游泳吧。",
+        "grammar": "描述『休閒活動』，使用 Go + V-ing。",
+        "vocab": "river [ˈrɪvər] (n.) 河流"
+      }
+    },
+    {
+      "q": "I need to ________ the post office ________ some stamps.",
+      "options": [
+        "go to / to buy",
+        "go / buying",
+        "go to / buying",
+        "go / to buy"
+      ],
+      "correctAnswer": "go to / to buy",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我需要去郵政局買一些郵票。",
+        "grammar": "去某個地點執行『特定目的』，使用 go to a place to V。",
+        "vocab": "stamp [stæmp] (n.) 郵票"
+      }
+    },
+    {
+      "q": "Every weekend, my father and I ________ in the mountains.",
+      "options": [
+        "go hiking",
+        "go to hike",
+        "go to hiking",
+        "go hike"
+      ],
+      "correctAnswer": "go hiking",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "每個週末，我和我父親都去山裡健行。",
+        "grammar": "描述規律性的『戶外運動』，使用 Go + V-ing。",
+        "vocab": "hiking [ˈhaɪkɪŋ] (n.) 健行"
+      }
+    },
+    {
+      "q": "She ________ the kitchen ________ some water.",
+      "options": [
+        "went to / to get",
+        "went / getting",
+        "went to / getting",
+        "go to / get"
+      ],
+      "correctAnswer": "went to / to get",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她去廚房拿一些水。",
+        "grammar": "去某處（廚房）是為了執行某事（拿水），使用 Go to + V。",
+        "vocab": "kitchen [ˈkɪtʃɪn] (n.) 廚房"
+      }
+    },
+    {
+      "q": "Would you like to ________ with me this afternoon? I need new shoes.",
+      "options": [
+        "go shopping",
+        "go to shop",
+        "go to shopping",
+        "go shop"
+      ],
+      "correctAnswer": "go shopping",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你今天下午想跟我去逛街嗎？我需要新鞋子。",
+        "grammar": "描述『購物活動』，固定用法為 go shopping。",
+        "vocab": "afternoon [ˌæftərˈnuːn] (n.) 下午"
+      }
+    },
+    {
+      "q": "My grandfather ________ every morning to stay healthy.",
+      "options": [
+        "goes jogging",
+        "goes to jog",
+        "go jogging",
+        "go to jog"
+      ],
+      "correctAnswer": "goes jogging",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我祖父每天早上都去慢跑以保持健康。",
+        "grammar": "描述日常的『運動習慣』，使用 Go + V-ing。",
+        "vocab": "jogging [ˈdʒɑːɡɪŋ] (n.) 慢跑"
+      }
+    },
+    {
+      "q": "They ________ the park ________ their dog.",
+      "options": [
+        "went to / to walk",
+        "went / walking",
+        "go to / walking",
+        "went / to walk"
+      ],
+      "correctAnswer": "went to / to walk",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們去公園遛狗。",
+        "grammar": "去特定地點執行特定任務，使用 Go to + V。",
+        "vocab": "walk the dog (v.phr.) 遛狗"
+      }
+    },
+    {
+      "q": "During the winter, many people ________ in the mountains.",
+      "options": [
+        "go skiing",
+        "go to ski",
+        "go to skiing",
+        "go ski"
+      ],
+      "correctAnswer": "go skiing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "冬天時，許多人去山裡滑雪。",
+        "grammar": "描述季節性的『運動活動』，使用 Go + V-ing。",
+        "vocab": "skiing [ˈskiːɪŋ] (n.) 滑雪"
+      }
+    },
+    {
+      "q": "I'll ________ the bank ________ some money.",
+      "options": [
+        "go to / to withdraw",
+        "go / withdrawing",
+        "go to / withdrawing",
+        "go / to withdraw"
+      ],
+      "correctAnswer": "go to / to withdraw",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我會去銀行領一些錢。",
+        "grammar": "去某處執行具體計畫，使用 Go to + V。",
+        "vocab": "withdraw [wɪðˈdrɔː] (v.) 提領(存款)"
+      }
+    },
+    {
+      "q": "They often ________ in the lake during their summer vacation.",
+      "options": [
+        "go fishing",
+        "go to fish",
+        "go to fishing",
+        "go fish"
+      ],
+      "correctAnswer": "go fishing",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們暑假期間經常在湖裡釣魚。",
+        "grammar": "描述『休閒嗜好』，使用 Go + V-ing。",
+        "vocab": "vacation [veɪˈkeɪʃn] (n.) 假期"
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "topicId": "48-所有的也-too-also-as-well",
+  "currentTopic": "English_Also_Too_AsWell_10Q",
+  "questions": [
+    {
+      "q": "A: I am hungry. <br>B: I am hungry, ________.",
+      "options": [
+        "too",
+        "also",
+        "either",
+        "so"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我餓了。 B: 我也餓了。",
+        "grammar": "放在句尾且前面有逗號，最標準的用法是 too。",
+        "vocab": "hungry [ˈhʌŋɡri] (adj.) 飢餓的"
+      }
+    },
+    {
+      "q": "A: She speaks English. <br>B: She ________ speaks Japanese.",
+      "options": [
+        "also",
+        "too",
+        "as well",
+        "either"
+      ],
+      "correctAnswer": "also",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 她說英文。 B: 她也說日文。",
+        "grammar": "位於一般動詞 speaks 之前，應使用 also。",
+        "vocab": "speaks [spiːks] (v.) 說(語言)"
+      }
+    },
+    {
+      "q": "We visited the museum and the park ________.",
+      "options": [
+        "as well",
+        "also",
+        "either",
+        "but"
+      ],
+      "correctAnswer": "as well",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們參觀了博物館，也去了公園。",
+        "grammar": "位於句尾且不加逗號，as well 是非常道地的選擇。",
+        "vocab": "museum [mjuˈziːəm] (n.) 博物館"
+      }
+    },
+    {
+      "q": "My father is a teacher. My mother is ________ a teacher.",
+      "options": [
+        "also",
+        "too",
+        "as well",
+        "either"
+      ],
+      "correctAnswer": "also",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父親是老師。我母親也是老師。",
+        "grammar": "位於 be 動詞 is 之後，應使用 also。",
+        "vocab": "teacher [ˈtiːtʃər] (n.) 教師"
+      }
+    },
+    {
+      "q": "A: I don't like onions. <br>B: I don't like them, ________.",
+      "options": [
+        "either",
+        "too",
+        "also",
+        "as well"
+      ],
+      "correctAnswer": "either",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我不喜歡洋蔥。 B: 我也不喜歡。",
+        "grammar": "在否定句中表示「也（不）」，句尾必須使用 either。",
+        "vocab": "onion [ˈʌnjən] (n.) 洋蔥"
+      }
+    },
+    {
+      "q": "They invited Tom, and they invited Mary ________.",
+      "options": [
+        "too",
+        "also",
+        "either",
+        "as"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們邀請了 Tom，也邀請了 Mary。",
+        "grammar": "句尾且選項中 as well 不完整時，too 是最正確的答案。",
+        "vocab": "invited [ɪnˈvaɪtɪd] (v.) 邀請"
+      }
+    },
+    {
+      "q": "He can play the piano, and he can ________ play the guitar.",
+      "options": [
+        "also",
+        "too",
+        "as well",
+        "either"
+      ],
+      "correctAnswer": "also",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他會彈鋼琴，也會彈吉他。",
+        "grammar": "位於助動詞 can 與一般動詞 play 之間，選 also。",
+        "vocab": "guitar [ɡɪˈtɑːr] (n.) 吉他"
+      }
+    },
+    {
+      "q": "I have a dog, and I have a cat ________.",
+      "options": [
+        "as well",
+        "also",
+        "either",
+        "too,"
+      ],
+      "correctAnswer": "as well",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有一隻狗，也有一隻貓。",
+        "grammar": "句尾且無逗號，as well 適合此結構。",
+        "vocab": "cat [kæt] (n.) 貓"
+      }
+    },
+    {
+      "q": "A: Nice to meet you. <br>B: Nice to meet you, ________.",
+      "options": [
+        "too",
+        "also",
+        "either",
+        "as well"
+      ],
+      "correctAnswer": "too",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 很高興見到你。 B: 我也很高興見到你。",
+        "grammar": "社交回應中最常見的句尾用法為 too。",
+        "vocab": "meet [miːt] (v.) 遇見"
+      }
+    },
+    {
+      "q": "I'm tired, and I'm ________ thirsty.",
+      "options": [
+        "also",
+        "too",
+        "either",
+        "as well"
+      ],
+      "correctAnswer": "also",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我很累，我也很渴。",
+        "grammar": "be 動詞之後，使用 also 修飾狀態。",
+        "vocab": "thirsty [ˈθɜːrsti] (adj.) 口渴的"
+      }
+    }
+  ]
+}

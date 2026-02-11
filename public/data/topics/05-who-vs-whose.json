@@ -1,0 +1,136 @@
+{
+  "topicId": "05-who-vs-whose",
+  "currentTopic": "Who_Whose_Mastery",
+  "questions": [
+    {
+      "q": "I have a friend <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> father is a famous actor.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我有一個朋友，他的父親是位著名演員。",
+        "grammar": "whose 是所有格。空格後有名詞 father，表示「朋友的」。"
+      }
+    },
+    {
+      "q": "The girl <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> is wearing a red dress is my cousin.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "穿著紅洋裝的那個女孩是我堂妹。",
+        "grammar": "who 是主格。空格後直接接動詞 is wearing，應選 who。"
+      }
+    },
+    {
+      "q": "Do you know the boy <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> bicycle was stolen?",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你認識那個腳踏車被偷的男孩嗎？",
+        "grammar": "表示「男孩的」。bicycle 是名詞，前方需用所有格 whose。"
+      }
+    },
+    {
+      "q": "The woman <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> lives next door is very friendly.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "住在隔壁的那位女士非常友善。",
+        "grammar": "空格後接動詞 lives，擔任子句主詞，應選 who。"
+      }
+    },
+    {
+      "q": "This is the student <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> grades are always excellent.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "這就是那位成績總是非常優異的學生。",
+        "grammar": "表示「學生的」。grades 是名詞，應選 whose。"
+      }
+    },
+    {
+      "q": "The man <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> helped me yesterday is a doctor.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "昨天幫助我的那個人是位醫生。",
+        "grammar": "空格後接動詞 helped，擔任主格，應選 who。"
+      }
+    },
+    {
+      "q": "A person <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> makes no mistakes makes nothing.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "一個不犯錯的人往往一事無成。",
+        "grammar": "空格後接動詞 makes，先行詞為人，應選 who。"
+      }
+    },
+    {
+      "q": "The dog <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> tail is wagging is very happy.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "那隻正在搖尾巴的狗很開心。",
+        "grammar": "表示「狗的」。whose 也可用於動物或無生物。"
+      }
+    },
+    {
+      "q": "I met a traveler <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> story was quite incredible.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "whose",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我遇到一位旅人，他的故事非常不可思議。",
+        "grammar": "表示「旅人的」。story 是名詞，應選 whose。"
+      }
+    },
+    {
+      "q": "People <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> exercise regularly tend to live longer.",
+      "options": [
+        "who",
+        "whose"
+      ],
+      "correctAnswer": "who",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "定期運動的人往往活得更久。",
+        "grammar": "空格後接動詞 exercise，應選主格 who。"
+      }
+    }
+  ]
+}

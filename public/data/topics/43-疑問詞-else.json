@@ -1,0 +1,166 @@
+{
+  "topicId": "43-疑問詞-else",
+  "currentTopic": "QuestionWords_Else_10Q",
+  "questions": [
+    {
+      "q": "A: I have some bread and milk. <br>B: ________ do you want for breakfast?",
+      "options": [
+        "What else",
+        "Who else",
+        "Where else",
+        "How else"
+      ],
+      "correctAnswer": "What else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我有一些麵包和牛奶。 B: 你早餐還想要什麼？",
+        "grammar": "詢問除了麵包牛奶外『其他的東西』，選 What else。",
+        "vocab": "breakfast [ˈbrekfəst] (n.) 早餐"
+      }
+    },
+    {
+      "q": "A: Tom is coming to the party. <br>B: ________ did you invite?",
+      "options": [
+        "Who else",
+        "What else",
+        "Where else",
+        "When else"
+      ],
+      "correctAnswer": "Who else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: Tom 會來參加派對。 B: 你還邀請了誰？",
+        "grammar": "詢問除了 Tom 之外『其他的人』，選 Who else。",
+        "vocab": "invite [ɪnˈvaɪt] (v.) 邀請"
+      }
+    },
+    {
+      "q": "A: We can go to the library. <br>B: ________ can we go? It's closed today.",
+      "options": [
+        "Where else",
+        "Who else",
+        "What else",
+        "How else"
+      ],
+      "correctAnswer": "Where else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我們可以去圖書館。 B: 我們還能去哪裡？今天沒開。",
+        "grammar": "詢問除了圖書館之外『其他的地方』，選 Where else。",
+        "vocab": "closed [kloʊzd] (adj.) 關閉的"
+      }
+    },
+    {
+      "q": "A: I tried to fix it with a hammer. <br>B: ________ can you fix it if that doesn't work?",
+      "options": [
+        "How else",
+        "Who else",
+        "What else",
+        "Where else"
+      ],
+      "correctAnswer": "How else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我試著用錘子修好它。 B: 如果那沒用，你還能怎麼修？",
+        "grammar": "詢問除了用錘子外『其他的方法』，選 How else。",
+        "vocab": "hammer [ˈhæmər] (n.) 錘子"
+      }
+    },
+    {
+      "q": "A: I've finished my homework. <br>B: ________ did you do this afternoon?",
+      "options": [
+        "What else",
+        "Where else",
+        "Who else",
+        "When else"
+      ],
+      "correctAnswer": "What else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我做完功課了。 B: 你今天下午還做了什麼？",
+        "grammar": "詢問功課之外做的『其他事情』，選 What else。",
+        "vocab": "afternoon [ˌæftərˈnuːn] (n.) 下午"
+      }
+    },
+    {
+      "q": "A: Only Mary knows the secret. <br>B: ________ was there when it happened?",
+      "options": [
+        "Who else",
+        "What else",
+        "Where else",
+        "How else"
+      ],
+      "correctAnswer": "Who else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 只有瑪麗知道這個秘密。 B: 事情發生時還有誰在那裡？",
+        "grammar": "詢問除了瑪麗以外『其他的人』，選 Who else。",
+        "vocab": "secret [ˈsiːkrət] (n.) 秘密"
+      }
+    },
+    {
+      "q": "A: We've checked the kitchen. <br>B: ________ should we look for the keys?",
+      "options": [
+        "Where else",
+        "What else",
+        "Who else",
+        "How else"
+      ],
+      "correctAnswer": "Where else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我們檢查過廚房了。 B: 我們還應該去哪裡找鑰匙？",
+        "grammar": "詢問廚房以外『其他的地方』，選 Where else。",
+        "vocab": "kitchen [ˈkɪtʃɪn] (n.) 廚房"
+      }
+    },
+    {
+      "q": "A: You can pay by credit card. <br>B: ________ can I pay? I don't have a card.",
+      "options": [
+        "How else",
+        "What else",
+        "Who else",
+        "Where else"
+      ],
+      "correctAnswer": "How else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你可以用信用卡付費。 B: 我還能怎麼付？我沒有卡。",
+        "grammar": "詢問除了信用卡以外『其他的支付方式』，選 How else。",
+        "vocab": "credit card (n.phr.) 信用卡"
+      }
+    },
+    {
+      "q": "A: I've told Jason about the plan. <br>B: ________ needs to know?",
+      "options": [
+        "Who else",
+        "What else",
+        "How else",
+        "When else"
+      ],
+      "correctAnswer": "Who else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我已經告訴 Jason 計畫了。 B: 還有誰需要知道？",
+        "grammar": "詢問除了 Jason 以外『其他的人』，選 Who else。",
+        "vocab": "plan [plæn] (n.) 計畫"
+      }
+    },
+    {
+      "q": "A: I've packed my clothes and shoes. <br>B: ________ do you need to put in the suitcase?",
+      "options": [
+        "What else",
+        "Where else",
+        "Who else",
+        "How else"
+      ],
+      "correctAnswer": "What else",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 我已經裝好衣服和鞋子了。 B: 你還需要把什麼放進行李箱？",
+        "grammar": "詢問衣鞋以外『其他的東西』，選 What else。",
+        "vocab": "suitcase [ˈsuːtkeɪs] (n.) 行李箱"
+      }
+    }
+  ]
+}

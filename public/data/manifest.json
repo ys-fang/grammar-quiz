@@ -1,0 +1,305 @@
+{
+  "gasUrl": "https://script.google.com/macros/s/AKfycbxh2sJTNMfWYvmr622mIXjp81EVy7OGizUDoAct20aWpv7upbEicdAEAlXDCaG6_jgT/exec",
+  "categories": [
+    {
+      "categoryTitle": "時態與動詞變化",
+      "topics": [
+        {
+          "name": "現在完成式 vs. 過去式",
+          "slug": "現在完成式-vs-過去式",
+          "topicId": "06-現在完成式-vs-過去式"
+        },
+        {
+          "name": "時態一致性",
+          "slug": "時態一致性",
+          "topicId": "07-時態一致性"
+        },
+        {
+          "name": "三單動詞變換",
+          "slug": "三單動詞變換",
+          "topicId": "08-三單動詞變換"
+        },
+        {
+          "name": "used to 的用法",
+          "slug": "used-to-的用法",
+          "topicId": "26-used-to-的用法"
+        },
+        {
+          "name": "lie vs. lay",
+          "slug": "lie-vs-lay",
+          "topicId": "52-lie-vs-lay"
+        },
+        {
+          "name": "Do / Does / Did 的強調用法",
+          "slug": "do-does-did-的強調用法",
+          "topicId": "49-do-does-did-的強調用法"
+        },
+        {
+          "name": "情態助動詞的推測",
+          "slug": "情態助動詞的推測-must-cant-may",
+          "topicId": "37-情態助動詞的推測-must-cant-may"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "核心動詞用法",
+      "topics": [
+        {
+          "name": "to Vr. 與 V-ing",
+          "slug": "不定詞與v-ing",
+          "topicId": "01-不定詞與v-ing"
+        },
+        {
+          "name": "授與動詞 Give/Send/Buy",
+          "slug": "授與動詞-givesendbuy-與介係詞",
+          "topicId": "09-授與動詞-givesendbuy-與介係詞"
+        },
+        {
+          "name": "感官動詞 (基礎)",
+          "slug": "感官動詞",
+          "topicId": "10-感官動詞"
+        },
+        {
+          "name": "感官動詞 (主動V-ing/被動PP)",
+          "slug": "感官動詞的主動-v-ing-與被動-pp",
+          "topicId": "15-感官動詞的主動-v-ing-與被動-pp"
+        },
+        {
+          "name": "使役動詞 Let/Help/Make",
+          "slug": "let-help-make-的差異",
+          "topicId": "44-let-help-make-的差異"
+        },
+        {
+          "name": "感官動詞與使役動詞綜合",
+          "slug": "感官動詞與使役動詞",
+          "topicId": "19-感官動詞與使役動詞"
+        },
+        {
+          "name": "Stop/Forget/Remember 用法",
+          "slug": "stop-forget-remember-to-v-vs-v-ing",
+          "topicId": "46-stop-forget-remember-to-v-vs-v-ing"
+        },
+        {
+          "name": "Go + V-ing vs. Go to + V",
+          "slug": "go-v-ing-vs-go-to-v",
+          "topicId": "45-go-v-ing-vs-go-to-v"
+        },
+        {
+          "name": "「建議/要求/命令」後 (should) + Vr.",
+          "slug": "建議要求命令動詞後的-should-vr",
+          "topicId": "54-建議要求命令動詞後的-should-vr"
+        },
+        {
+          "name": "花費動詞：人 vs. 物",
+          "slug": "花費動詞主詞是人還是物",
+          "topicId": "21-花費動詞主詞是人還是物"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "句型結構與子句",
+      "topics": [
+        {
+          "name": "間接問句 (名詞子句)",
+          "slug": "間接問句-名詞子句",
+          "topicId": "11-間接問句-名詞子句"
+        },
+        {
+          "name": "形容詞子句 (關係代名詞)",
+          "slug": "形容詞子句-關係代名詞",
+          "topicId": "12-形容詞子句-關係代名詞"
+        },
+        {
+          "name": "關係副詞",
+          "slug": "關係副詞",
+          "topicId": "04-關係副詞"
+        },
+        {
+          "name": "who vs whose 關係代名詞",
+          "slug": "who-vs-whose",
+          "topicId": "05-who-vs-whose"
+        },
+        {
+          "name": "If / Whether 引導的條件句",
+          "slug": "if-whether-引導的條件句",
+          "topicId": "13-if-whether-引導的條件句"
+        },
+        {
+          "name": "So / Neither 的倒裝句",
+          "slug": "so-neither-的倒裝句",
+          "topicId": "14-so-neither-的倒裝句"
+        },
+        {
+          "name": "附和句 (Too/Either/So/Neither)",
+          "slug": "附和句-too-either-so-neither",
+          "topicId": "25-附和句-too-either-so-neither"
+        },
+        {
+          "name": "祈使句的結構",
+          "slug": "祈使句的結構",
+          "topicId": "28-祈使句的結構"
+        },
+        {
+          "name": "驚嘆句結構 (What vs. How)",
+          "slug": "驚嘆句結構-what-vs-how",
+          "topicId": "41-驚嘆句結構-what-vs-how"
+        },
+        {
+          "name": "否定的疑問句",
+          "slug": "否定的疑問句-dont-you",
+          "topicId": "47-否定的疑問句-dont-you"
+        },
+        {
+          "name": "No matter... (無論...) 讓步子句",
+          "slug": "no-matter-無論-的讓步子句",
+          "topicId": "55-no-matter-無論-的讓步子句"
+        },
+        {
+          "name": "分詞句型 (While/After + V-ing)",
+          "slug": "分詞句型-whilebeforeafter-v-ing",
+          "topicId": "32-分詞句型-whilebeforeafter-v-ing"
+        },
+        {
+          "name": "疑問詞 + to Vr.",
+          "slug": "疑問詞-to-vr",
+          "topicId": "33-疑問詞-to-vr"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "名詞、代名詞與修飾語",
+      "topics": [
+        {
+          "name": "主詞與動詞一致 (01)",
+          "slug": "主詞語動詞一致",
+          "topicId": "02-主詞語動詞一致"
+        },
+        {
+          "name": "主詞與動詞一致 (02)",
+          "slug": "主詞語動詞一致-02",
+          "topicId": "03-主詞語動詞一致-02"
+        },
+        {
+          "name": "可數與不可數名詞",
+          "slug": "可數與不可數名詞",
+          "topicId": "16-可數與不可數名詞"
+        },
+        {
+          "name": "虛主詞 It 的用法",
+          "slug": "虛主詞-it-的用法",
+          "topicId": "17-虛主詞-it-的用法"
+        },
+        {
+          "name": "虛主詞與虛受格 It 進階",
+          "slug": "虛主詞與虛受格-it-的進階用法",
+          "topicId": "34-虛主詞與虛受格-it-的進階用法"
+        },
+        {
+          "name": "少數 / 多數的修飾語",
+          "slug": "少數多數的修飾語",
+          "topicId": "18-少數多數的修飾語"
+        },
+        {
+          "name": "反身代名詞",
+          "slug": "反身代名詞",
+          "topicId": "20-反身代名詞"
+        },
+        {
+          "name": "所有格代名詞",
+          "slug": "所有格代名詞",
+          "topicId": "31-所有格代名詞"
+        },
+        {
+          "name": "集合名詞 (people, family...)",
+          "slug": "集合名詞-people-family-class-team-police",
+          "topicId": "39-集合名詞"
+        },
+        {
+          "name": "Both / All / Each / Every",
+          "slug": "both-all-each-every-的區別",
+          "topicId": "42-both-all-each-every-的區別"
+        },
+        {
+          "name": "Other / Another / Others / The others",
+          "slug": "other-another-others-the-others",
+          "topicId": "50-other-another-others-the-others"
+        },
+        {
+          "name": "V-ing 當主詞",
+          "slug": "v-ing-當主詞",
+          "topicId": "27-v-ing-當主詞"
+        }
+      ]
+    },
+    {
+      "categoryTitle": "連接詞、介係詞與綜合重點",
+      "topics": [
+        {
+          "name": "比較級 vs. 最高級",
+          "slug": "比較級-vs-最高級",
+          "topicId": "23-比較級-vs-最高級"
+        },
+        {
+          "name": "too...to vs so... that",
+          "slug": "too-to-vs-so-that",
+          "topicId": "22-too-to-vs-so-that"
+        },
+        {
+          "name": "介係詞的時間 / 空間用法",
+          "slug": "介係詞的時間空間用法",
+          "topicId": "24-介係詞的時間空間用法"
+        },
+        {
+          "name": "介係詞「在...之後」 (In vs. After)",
+          "slug": "介係詞在-之後-in-vs-after",
+          "topicId": "51-介係詞在-之後-in-vs-after"
+        },
+        {
+          "name": "although, but, because, so",
+          "slug": "although-but-because-so",
+          "topicId": "29-although-but-because-so"
+        },
+        {
+          "name": "連接詞與副詞區別: however/therefore",
+          "slug": "連接詞與副詞的區別-however-vs-therefore",
+          "topicId": "38-連接詞與副詞的區別"
+        },
+        {
+          "name": "形容詞 or 副詞辨析",
+          "slug": "形容詞-or-副詞",
+          "topicId": "35-形容詞-or-副詞"
+        },
+        {
+          "name": "頻率副詞 (always, never...)",
+          "slug": "頻率副詞-always-usually-often-sometimes-seldom-never",
+          "topicId": "30-頻率副詞"
+        },
+        {
+          "name": "Enough 的位置",
+          "slug": "enough-的位置-形容詞-vs-名詞",
+          "topicId": "40-enough-的位置"
+        },
+        {
+          "name": "數詞的單位 (hundred, million...)",
+          "slug": "數詞的單位-ten-hundred-thousand-million-billion",
+          "topicId": "36-數詞的單位"
+        },
+        {
+          "name": "所有的「也」 (too/also/as well)",
+          "slug": "所有的也-too-also-as-well",
+          "topicId": "48-所有的也-too-also-as-well"
+        },
+        {
+          "name": "所有的「看」 (See/Watch/Look/Read)",
+          "slug": "所有的看-see-watch-look-read",
+          "topicId": "53-所有的看-see-watch-look-read"
+        },
+        {
+          "name": "疑問詞 + else",
+          "slug": "疑問詞-else",
+          "topicId": "43-疑問詞-else"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "topicId": "52-lie-vs-lay",
+  "currentTopic": "Lie_Lay_Logic_10Q",
+  "questions": [
+    {
+      "q": "Please ________ the baby in the crib carefully.",
+      "options": [
+        "lay",
+        "lie",
+        "laid",
+        "lain"
+      ],
+      "correctAnswer": "lay",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "請小心地把寶寶放在嬰兒床裡。",
+        "grammar": "這是一個祈使句，且空格後有受格 the baby，故使用『放置』的現在式 lay。",
+        "vocab": "crib [krɪb] (n.) 嬰兒床"
+      }
+    },
+    {
+      "q": "I was so tired that I ________ down on the sofa and fell asleep.",
+      "options": [
+        "lay",
+        "laid",
+        "lied",
+        "lied down"
+      ],
+      "correctAnswer": "lay",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我太累了，所以躺在沙發上睡著了。",
+        "grammar": "這句發生在過去 (was/fell)，需用『躺』的過去式。Lie 的過去式是 lay。",
+        "vocab": "asleep [əˈsliːp] (adj.) 睡著的"
+      }
+    },
+    {
+      "q": "He has ________ to me many times; I don't trust him anymore.",
+      "options": [
+        "lied",
+        "lain",
+        "laid",
+        "lay"
+      ],
+      "correctAnswer": "lied",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他對我撒謊很多次了；我不再信任他了。",
+        "grammar": "現在完成式 (has + V3)，句意是『說謊』，Lie (說謊) 的 V3 是 lied。",
+        "vocab": "trust [trʌst] (v.) 信任"
+      }
+    },
+    {
+      "q": "The hen ________ an egg every morning.",
+      "options": [
+        "lays",
+        "lies",
+        "laid",
+        "lain"
+      ],
+      "correctAnswer": "lays",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這隻母雞每天早上都下一顆蛋。",
+        "grammar": "主詞是第三人稱單數，且後有受格 an egg，使用『下蛋』的現在式單數型 lays。",
+        "vocab": "hen [hen] (n.) 母雞"
+      }
+    },
+    {
+      "q": "I saw your keys ________ on the kitchen table.",
+      "options": [
+        "lying",
+        "laying",
+        "lied",
+        "lain"
+      ],
+      "correctAnswer": "lying",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我看到你的鑰匙躺（位於）在廚房桌上。",
+        "grammar": "鑰匙是『位於』該處，沒有受格，使用『躺/位於』的現在分詞 lying。",
+        "vocab": "kitchen [ˈkɪtʃɪn] (n.) 廚房"
+      }
+    },
+    {
+      "q": "Yesterday, I ________ the book on the desk, but now it's gone.",
+      "options": [
+        "laid",
+        "lay",
+        "lied",
+        "lain"
+      ],
+      "correctAnswer": "laid",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "昨天我把書放在桌上，但現在它不見了。",
+        "grammar": "時間是昨天，後有受格 the book，使用『放置』的過去式 laid。",
+        "vocab": "gone [ɡɔːn] (adj.) 不見的/消失的"
+      }
+    },
+    {
+      "q": "The valley ________ between two high mountains.",
+      "options": [
+        "lies",
+        "lays",
+        "laid",
+        "lain"
+      ],
+      "correctAnswer": "lies",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個山谷位於兩座高山之間。",
+        "grammar": "描述地理位置（無受格），主詞單數，使用『位於』的現在式 lies。",
+        "vocab": "valley [ˈvæli] (n.) 山谷"
+      }
+    },
+    {
+      "q": "She has ________ in bed for three days because of the flu.",
+      "options": [
+        "lain",
+        "laid",
+        "lay",
+        "lied"
+      ],
+      "correctAnswer": "lain",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "因為流感，她已經躺在床上三天了。",
+        "grammar": "現在完成式 (has + V3)，意指『躺著』，Lie (躺) 的 V3 是 lain。",
+        "vocab": "flu [fluː] (n.) 流感"
+      }
+    },
+    {
+      "q": "They ________ a trap for the thief last night.",
+      "options": [
+        "laid",
+        "lay",
+        "lied",
+        "lain"
+      ],
+      "correctAnswer": "laid",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們昨晚為那個小偷設下了陷阱。",
+        "grammar": "時間是昨晚，後有受格 a trap，使用『放置/設下』的過去式 laid。",
+        "vocab": "trap [træp] (n.) 陷阱"
+      }
+    },
+    {
+      "q": "Don't ________ to your parents. Honesty is important.",
+      "options": [
+        "lie",
+        "lay",
+        "laid",
+        "lain"
+      ],
+      "correctAnswer": "lie",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不要對父母撒謊。誠實很重要。",
+        "grammar": "祈使句，指『說謊』，使用原形動詞 lie。",
+        "vocab": "honesty [ˈɑːnəsti] (n.) 誠實"
+      }
+    }
+  ]
+}

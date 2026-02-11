@@ -1,0 +1,166 @@
+{
+  "topicId": "41-驚嘆句結構-what-vs-how",
+  "currentTopic": "Exclamatory_What_How_10Q",
+  "questions": [
+    {
+      "q": "________ a beautiful girl she is!",
+      "options": [
+        "What",
+        "How",
+        "So",
+        "Such"
+      ],
+      "correctAnswer": "What",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她是個多麼美麗的女孩啊！",
+        "grammar": "後接『a/an + 形容詞 + 名詞』，使用 What 引導。",
+        "vocab": "beautiful [ˈbjuːtɪfl] (adj.) 美麗的"
+      }
+    },
+    {
+      "q": "________ beautiful the girl is!",
+      "options": [
+        "How",
+        "What",
+        "What a",
+        "Such"
+      ],
+      "correctAnswer": "How",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個女孩多麼美麗啊！",
+        "grammar": "後接『形容詞 + 主詞 + 動詞』，核心為形容詞，使用 How 引導。",
+        "vocab": "beautiful [ˈbjuːtɪfl] (adj.) 美麗的"
+      }
+    },
+    {
+      "q": "________ hot it is today!",
+      "options": [
+        "How",
+        "What",
+        "What a",
+        "So"
+      ],
+      "correctAnswer": "How",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "今天天氣真熱啊！",
+        "grammar": "後方直接接形容詞 hot，使用 How 引導。",
+        "vocab": "hot [hɑːt] (adj.) 熱的"
+      }
+    },
+    {
+      "q": "________ a delicious cake you made!",
+      "options": [
+        "What",
+        "How",
+        "So",
+        "How a"
+      ],
+      "correctAnswer": "What",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你做的蛋糕真好吃！",
+        "grammar": "結構為『a + adj + N』，由 What 引導。",
+        "vocab": "delicious [dɪˈlɪʃəs] (adj.) 美味的"
+      }
+    },
+    {
+      "q": "________ fast he runs!",
+      "options": [
+        "How",
+        "What",
+        "What a",
+        "So"
+      ],
+      "correctAnswer": "How",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他跑得真快！",
+        "grammar": "後接副詞 fast，使用 How 引導。",
+        "vocab": "fast [fæst] (adv.) 快速地"
+      }
+    },
+    {
+      "q": "________ smart students they are!",
+      "options": [
+        "What",
+        "How",
+        "So",
+        "Such a"
+      ],
+      "correctAnswer": "What",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們是多麼聰明的學生啊！",
+        "grammar": "名詞為複數 students，直接接 What。",
+        "vocab": "smart [smɑːrt] (adj.) 聰明的"
+      }
+    },
+    {
+      "q": "________ hard you work!",
+      "options": [
+        "How",
+        "What",
+        "What a",
+        "So"
+      ],
+      "correctAnswer": "How",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你工作得真努力！",
+        "grammar": "強調副詞 hard 的程度，使用 How。",
+        "vocab": "hard [hɑːrd] (adv.) 努力地"
+      }
+    },
+    {
+      "q": "________ strange news it is!",
+      "options": [
+        "What",
+        "How",
+        "What a",
+        "Such"
+      ],
+      "correctAnswer": "What",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這真是個奇怪的消息！",
+        "grammar": "news 是不可數名詞，故不用加 a，直接接 What。",
+        "vocab": "strange [streɪndʒ] (adj.) 奇怪的"
+      }
+    },
+    {
+      "q": "________ well she sings!",
+      "options": [
+        "How",
+        "What",
+        "So",
+        "How a"
+      ],
+      "correctAnswer": "How",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她唱得真好！",
+        "grammar": "後接副詞 well，使用 How 引導。",
+        "vocab": "well [wel] (adv.) 好地"
+      }
+    },
+    {
+      "q": "________ an interesting movie it was!",
+      "options": [
+        "What",
+        "How",
+        "What a",
+        "Such"
+      ],
+      "correctAnswer": "What",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那真是部有趣的電影啊！",
+        "grammar": "結構為『an + adj + N』，使用 What 引導。",
+        "vocab": "interesting [ˈɪntrəstɪŋ] (adj.) 有趣的"
+      }
+    }
+  ]
+}

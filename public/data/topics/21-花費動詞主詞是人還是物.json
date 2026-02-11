@@ -1,0 +1,246 @@
+{
+  "topicId": "21-花費動詞主詞是人還是物",
+  "currentTopic": "Spending_Verbs_15Q",
+  "questions": [
+    {
+      "q": "It ______ me about twenty minutes to walk to the library.",
+      "options": [
+        "takes",
+        "spends",
+        "costs",
+        "pays"
+      ],
+      "correctAnswer": "takes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "走路去圖書館大約花了我二十分鐘。",
+        "grammar": "It 為虛主詞，指代後面的 to walk。花費「時間」且主詞為 It 時，動詞用 take。",
+        "vocab": "library [ˈlaɪbreri] (n.) 圖書館"
+      }
+    },
+    {
+      "q": "My father ______ five hundred dollars for the new shirt.",
+      "options": [
+        "paid",
+        "spent",
+        "cost",
+        "took"
+      ],
+      "correctAnswer": "paid",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父親花了五百元買這件新襯衫。",
+        "grammar": "主詞是「人」，後面有介係詞 for，動詞選用 pay。",
+        "vocab": "shirt [ʃɜːrt] (n.) 襯衫"
+      }
+    },
+    {
+      "q": "How much did this smartphone ______ you?",
+      "options": [
+        "cost",
+        "spend",
+        "pay",
+        "take"
+      ],
+      "correctAnswer": "cost",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這支智慧型手機花了你多少錢？",
+        "grammar": "主詞是「物 (smartphone)」，花費「金錢」，動詞選用 cost。",
+        "vocab": "smartphone [ˈsmɑːrtfoʊn] (n.) 智慧型手機"
+      }
+    },
+    {
+      "q": "She ______ two hours doing her homework every night.",
+      "options": [
+        "spends",
+        "takes",
+        "costs",
+        "pays"
+      ],
+      "correctAnswer": "spends",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她每天晚上花兩小時做作業。",
+        "grammar": "主詞是「人」，花費「時間」，且後面接 V-ing，動詞選用 spend。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "I ______ three thousand dollars on the new bicycle.",
+      "options": [
+        "spent",
+        "cost",
+        "paid",
+        "took"
+      ],
+      "correctAnswer": "spent",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我花了三千元在那台新腳踏車上。",
+        "grammar": "主詞是「人」，介係詞用 on，動詞選用 spend。",
+        "vocab": "bicycle [ˈbaɪsɪkl] (n.) 腳踏車"
+      }
+    },
+    {
+      "q": "It ______ a lot of money to travel around the world.",
+      "options": [
+        "costs",
+        "takes",
+        "spends",
+        "pays"
+      ],
+      "correctAnswer": "costs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "環遊世界要花很多錢。",
+        "grammar": "主詞為 It 時，若花費對象為「金錢」，動詞使用 cost。",
+        "vocab": "around the world (phr.) 環遊世界"
+      }
+    },
+    {
+      "q": "Did you ______ for the dinner yesterday?",
+      "options": [
+        "pay",
+        "spend",
+        "cost",
+        "take"
+      ],
+      "correctAnswer": "pay",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你昨天付了晚餐錢嗎？",
+        "grammar": "主詞是「人」，後面有 for，表示「付款」，用 pay。",
+        "vocab": "dinner [ˈdɪnər] (n.) 晚餐"
+      }
+    },
+    {
+      "q": "The concert tickets ______ us two thousand dollars each.",
+      "options": [
+        "cost",
+        "spent",
+        "paid",
+        "took"
+      ],
+      "correctAnswer": "cost",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "音樂會門票每張花了我們兩千元。",
+        "grammar": "主詞是「物 (tickets)」，花費「金錢」，動詞用 cost。",
+        "vocab": "ticket [ˈtɪkɪt] (n.) 票"
+      }
+    },
+    {
+      "q": "How long does it ______ you to get to the airport?",
+      "options": [
+        "take",
+        "spend",
+        "cost",
+        "pay"
+      ],
+      "correctAnswer": "take",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你到機場需要花多久時間？",
+        "grammar": "It 為主詞，花費「時間」，後接 to V，動詞用 take。",
+        "vocab": "airport [ˈerpɔːrt] (n.) 機場"
+      }
+    },
+    {
+      "q": "He ______ all his free time playing video games.",
+      "options": [
+        "spends",
+        "takes",
+        "costs",
+        "pays"
+      ],
+      "correctAnswer": "spends",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他花所有的空閒時間玩電動。",
+        "grammar": "主詞是「人」，花費「時間」且後接 V-ing，用 spend。",
+        "vocab": "free time (n.phr.) 空閒時間"
+      }
+    },
+    {
+      "q": "You have to ______ for the broken window.",
+      "options": [
+        "pay",
+        "cost",
+        "spend",
+        "take"
+      ],
+      "correctAnswer": "pay",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你必須為打破的窗戶賠償（付款）。",
+        "grammar": "主詞是「人」，後面接 for + 原因/物，用 pay。",
+        "vocab": "broken [ˈbroʊkən] (adj.) 打破的"
+      }
+    },
+    {
+      "q": "The mistake ______ him his job.",
+      "options": [
+        "cost",
+        "spent",
+        "took",
+        "paid"
+      ],
+      "correctAnswer": "cost",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個錯誤讓他丟了工作（代價）。",
+        "grammar": "cost 除了花錢，也可表示付出代價。主詞是物 (mistake)。",
+        "vocab": "mistake [mɪˈsteɪk] (n.) 錯誤"
+      }
+    },
+    {
+      "q": "It ______ me five hours to finish the puzzle.",
+      "options": [
+        "took",
+        "spent",
+        "cost",
+        "paid"
+      ],
+      "correctAnswer": "took",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "完成這個拼圖花了我五個小時。",
+        "grammar": "It 為主詞，花費時間，後接 to V，用 take。",
+        "vocab": "puzzle [ˈpʌzl] (n.) 拼圖"
+      }
+    },
+    {
+      "q": "Don't ______ too much money on clothes.",
+      "options": [
+        "spend",
+        "pay",
+        "cost",
+        "take"
+      ],
+      "correctAnswer": "spend",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不要花太多錢在衣服上。",
+        "grammar": "祈使句主詞視為人 (You)，介係詞用 on，動詞用 spend。",
+        "vocab": "clothes [kloʊðz] (n.) 衣服"
+      }
+    },
+    {
+      "q": "I ______ for the coffee with my credit card.",
+      "options": [
+        "paid",
+        "spent",
+        "cost",
+        "took"
+      ],
+      "correctAnswer": "paid",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我用信用卡付了咖啡錢。",
+        "grammar": "主詞是「人」，後接 for，動詞用 pay。",
+        "vocab": "credit card (n.) 信用卡"
+      }
+    }
+  ]
+}

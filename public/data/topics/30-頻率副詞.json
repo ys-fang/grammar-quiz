@@ -1,0 +1,166 @@
+{
+  "topicId": "30-頻率副詞",
+  "currentTopic": "Frequency_Adverbs_Pos_10Q",
+  "questions": [
+    {
+      "q": "Choose the correct sentence:",
+      "options": [
+        "He always is late for school.",
+        "He is always late for school.",
+        "Always he is late for school.",
+        "He is late always for school."
+      ],
+      "correctAnswer": "He is always late for school.",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他上學總是遲到。",
+        "grammar": "頻率副詞位置在 be 動詞之後。公式：be + 頻率副詞。",
+        "vocab": "late [leɪt] (adj.) 遲到的"
+      }
+    },
+    {
+      "q": "My father ________ coffee in the morning.",
+      "options": [
+        "usually drinks",
+        "drinks usually",
+        "is usually drink",
+        "usually is drink"
+      ],
+      "correctAnswer": "usually drinks",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父親通常在早上喝咖啡。",
+        "grammar": "頻率副詞位置在一般動詞之前。公式：頻率副詞 + 一般動詞。",
+        "vocab": "usually [ˈjuːʒuəli] (adv.) 通常"
+      }
+    },
+    {
+      "q": "They ________ on weekends.",
+      "options": [
+        "go often swimming",
+        "often go swimming",
+        "go swimming often",
+        "are often go swimming"
+      ],
+      "correctAnswer": "often go swimming",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他們常在週末去游泳。",
+        "grammar": "頻率副詞 often 置於一般動詞 go 之前。",
+        "vocab": "often [ˈɔːfn] (adv.) 經常"
+      }
+    },
+    {
+      "q": "I ________ meat because I am a vegetarian.",
+      "options": [
+        "don't never eat",
+        "never eat",
+        "eat never",
+        "am never eat"
+      ],
+      "correctAnswer": "never eat",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我從不吃肉，因為我是素食者。",
+        "grammar": "never 本身就是否定，不可與 don't 連用。位置在一般動詞 eat 之前。",
+        "vocab": "vegetarian [ˌvedʒəˈteriən] (n.) 素食者"
+      }
+    },
+    {
+      "q": "Choose the correct sentence:",
+      "options": [
+        "We always should be kind to others.",
+        "We should be always kind to others.",
+        "We should always be kind to others.",
+        "Always we should be kind to others."
+      ],
+      "correctAnswer": "We should always be kind to others.",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "我們應該總是對他人仁慈。",
+        "grammar": "當句子有助動詞時，頻率副詞放在助動詞與原形動詞之間。",
+        "vocab": "kind [kaɪnd] (adj.) 仁慈的"
+      }
+    },
+    {
+      "q": "Is your brother ________ at home on Sundays?",
+      "options": [
+        "sometimes",
+        "sometimes is",
+        "is sometimes",
+        "does sometimes"
+      ],
+      "correctAnswer": "sometimes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你哥哥週日有時在家嗎？",
+        "grammar": "疑問句中，頻率副詞置於主詞之後、形容詞/地點之前。結構與 be 動詞連動。",
+        "vocab": "sometimes [ˈsʌmtaɪmz] (adv.) 有時候"
+      }
+    },
+    {
+      "q": "I ________ my homework after dinner.",
+      "options": [
+        "seldom do",
+        "do seldom",
+        "don't seldom do",
+        "am seldom do"
+      ],
+      "correctAnswer": "seldom do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我很少在晚餐後做功課。",
+        "grammar": "seldom 是否定意義副詞，置於一般動詞 do 之前。",
+        "vocab": "seldom [ˈseldəm] (adv.) 很少"
+      }
+    },
+    {
+      "q": "She ________ very busy on Mondays.",
+      "options": [
+        "is usually",
+        "usually is",
+        "usually does",
+        "does usually"
+      ],
+      "correctAnswer": "is usually",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她週一通常很忙。",
+        "grammar": "be 動詞之後接頻率副詞。",
+        "vocab": "busy [ˈbɪzi] (adj.) 忙碌的"
+      }
+    },
+    {
+      "q": "The weather ________ hot in this city.",
+      "options": [
+        "is always",
+        "always is",
+        "always does",
+        "does always"
+      ],
+      "correctAnswer": "is always",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這個城市的天氣總是很熱。",
+        "grammar": "be 動詞後接頻率副詞。",
+        "vocab": "weather [ˈweðər] (n.) 天氣"
+      }
+    },
+    {
+      "q": "A: Do you go to the gym? <br>B: No, I ________.",
+      "options": [
+        "never do",
+        "do never",
+        "don't never",
+        "am never"
+      ],
+      "correctAnswer": "never do",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 你去健身房嗎？<br>B: 不，我從不去。",
+        "grammar": "簡答句中，頻率副詞置於助動詞之前。I never do. = I never go to the gym.",
+        "vocab": "gym [dʒɪm] (n.) 健身房"
+      }
+    }
+  ]
+}

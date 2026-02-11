@@ -1,0 +1,246 @@
+{
+  "topicId": "50-other-another-others-the-others",
+  "currentTopic": "Another_Other_Others_15Q",
+  "questions": [
+    {
+      "q": "I have two sisters. One is a teacher, and ________ is a nurse.",
+      "options": [
+        "the other",
+        "another",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "the other",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有兩個姊姊。一個是老師，另一個是護士。",
+        "grammar": "兩者中的『另一個』且範圍固定，使用 the other。",
+        "vocab": "nurse [nɜːrs] (n.) 護士"
+      }
+    },
+    {
+      "q": "This cake is delicious! Can I have ________ piece?",
+      "options": [
+        "another",
+        "the other",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "another",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這蛋糕太好吃了！我可以再吃一塊嗎？",
+        "grammar": "指三者以上中『隨機、額外的另一個』，使用 another。",
+        "vocab": "delicious [dɪˈlɪʃəs] (adj.) 美味的"
+      }
+    },
+    {
+      "q": "Some people like to stay home, while ________ prefer to go out.",
+      "options": [
+        "others",
+        "another",
+        "the other",
+        "the others"
+      ],
+      "correctAnswer": "others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "有些人喜歡待在家，而另一些人則偏好出門。",
+        "grammar": "Some... others... 是固定用法，指『另一些人（範圍不固定）』。",
+        "vocab": "prefer [prɪˈfɜːr] (v.) 偏好"
+      }
+    },
+    {
+      "q": "I have five apples. Two are red, and ________ are green.",
+      "options": [
+        "the others",
+        "others",
+        "another",
+        "the other"
+      ],
+      "correctAnswer": "the others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有五個蘋果。兩個是紅的，其餘全部是綠的。",
+        "grammar": "五個中扣除兩個，剩下的『全部複數』且範圍固定，使用 the others。",
+        "vocab": "green [ɡriːn] (adj.) 綠色的"
+      }
+    },
+    {
+      "q": "You should be kind to ________.",
+      "options": [
+        "others",
+        "another",
+        "the other",
+        "the others"
+      ],
+      "correctAnswer": "others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你應該對他人仁慈。",
+        "grammar": "泛指『其他的人（不特定範圍）』，使用 others。",
+        "vocab": "kind [kaɪnd] (adj.) 仁慈的"
+      }
+    },
+    {
+      "q": "I've lost my pen. I need to buy ________ one.",
+      "options": [
+        "another",
+        "the other",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "another",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我丟了筆。我需要再買一支。",
+        "grammar": "指『再一個、另一個（非特定）』，使用 another。",
+        "vocab": "lose [luːz] (v.) 遺失"
+      }
+    },
+    {
+      "q": "One of my hands is dirty, but ________ is clean.",
+      "options": [
+        "the other",
+        "another",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "the other",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的一隻手是髒的，但另一隻是乾淨的。",
+        "grammar": "人只有兩隻手，指兩者中的『另一個』，用 the other。",
+        "vocab": "dirty [ˈdɜːrti] (adj.) 髒的"
+      }
+    },
+    {
+      "q": "Some students are in the classroom, but ________ are on the playground.",
+      "options": [
+        "the others",
+        "others",
+        "another",
+        "the other"
+      ],
+      "correctAnswer": "the others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "有些學生在教室，其餘（全班剩下的）則在操場。",
+        "grammar": "指特定群體中『剩下的全部』，用 the others。",
+        "vocab": "playground [ˈpleɪɡraʊnd] (n.) 操場"
+      }
+    },
+    {
+      "q": "Do you have ________ questions? If not, we'll stop here.",
+      "options": [
+        "any other",
+        "another",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "any other",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你還有其他問題嗎？如果沒有，我們就到此結束。",
+        "grammar": "other 後面可以接複數名詞 questions，another 只能接單數。",
+        "vocab": "question [ˈkwestʃən] (n.) 問題"
+      }
+    },
+    {
+      "q": "This shirt is too small. Do you have ________ size?",
+      "options": [
+        "another",
+        "the other",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "another",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這件襯衫太小了。你們有另一個尺寸嗎？",
+        "grammar": "指眾多尺寸中的『隨機另一個』，用 another。",
+        "vocab": "size [saɪz] (n.) 尺寸"
+      }
+    },
+    {
+      "q": "I have three dogs. One is white, and ________ are black.",
+      "options": [
+        "the others",
+        "others",
+        "another",
+        "the other"
+      ],
+      "correctAnswer": "the others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有三隻狗。一隻是白的，其餘（兩隻）都是黑的。",
+        "grammar": "三隻中扣除一隻，剩下的『全部複數』，用 the others。",
+        "vocab": "black [blæk] (adj.) 黑色的"
+      }
+    },
+    {
+      "q": "Don't judge ________ by their looks.",
+      "options": [
+        "others",
+        "another",
+        "the other",
+        "the others"
+      ],
+      "correctAnswer": "others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不要以貌取人。",
+        "grammar": "泛指『其他人』，用 others。",
+        "vocab": "judge [dʒʌdʒ] (v.) 評判"
+      }
+    },
+    {
+      "q": "There are two books on the desk. One is mine, and ________ is yours.",
+      "options": [
+        "the other",
+        "another",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "the other",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "桌上有兩本書。一項是我的，另一本是你的。",
+        "grammar": "兩者中的『另一個』，用 the other。",
+        "vocab": "desk [desk] (n.) 書桌"
+      }
+    },
+    {
+      "q": "To some, history is boring, but to ________, it is fascinating.",
+      "options": [
+        "others",
+        "another",
+        "the other",
+        "the others"
+      ],
+      "correctAnswer": "others",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "對某些人來說歷史很無聊，但對另一些人來說，它很迷人。",
+        "grammar": "Some... others... 結構，指不特定範圍的另一群人。",
+        "vocab": "fascinating [ˈfæsɪneɪtɪŋ] (adj.) 迷人的"
+      }
+    },
+    {
+      "q": "Wait ________ ten minutes, and he will be back.",
+      "options": [
+        "another",
+        "the other",
+        "others",
+        "the others"
+      ],
+      "correctAnswer": "another",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "再等十分鐘，他就會回來了。",
+        "grammar": "Another + 數字 + 複數時間單位，是表示『額外再...』的固定用法。",
+        "vocab": "minutes [ˈmɪnɪts] (n.) 分鐘"
+      }
+    }
+  ]
+}

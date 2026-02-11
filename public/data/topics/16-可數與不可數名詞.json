@@ -1,0 +1,246 @@
+{
+  "topicId": "16-可數與不可數名詞",
+  "currentTopic": "Countable_Uncountable_15Q",
+  "questions": [
+    {
+      "q": "I need some ______ to finish my science project.",
+      "options": [
+        "information",
+        "informations",
+        "an information",
+        "a information"
+      ],
+      "correctAnswer": "information",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我需要一些資訊來完成我的科學計畫。",
+        "grammar": "Information 是不可數名詞，不能加 -s 或 a/an。",
+        "vocab": "information [ˌɪnfərˈmeɪʃn] (n.) 資訊"
+      }
+    },
+    {
+      "q": "How ______ money do you have in your wallet?",
+      "options": [
+        "much",
+        "many",
+        "few",
+        "a few"
+      ],
+      "correctAnswer": "much",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你錢包裡有多少錢？",
+        "grammar": "Money 是不可數名詞，詢問數量使用 How much。",
+        "vocab": "wallet [ˈwɔːlɪt] (n.) 錢包"
+      }
+    },
+    {
+      "q": "Can you give me ______ advice on how to learn English?",
+      "options": [
+        "some",
+        "an",
+        "many",
+        "a few"
+      ],
+      "correctAnswer": "some",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你能給我一些關於如何學英文的建議嗎？",
+        "grammar": "Advice 為不可數名詞，可用 some 修飾，不可用 an 或 many。",
+        "vocab": "advice [ədˈvaɪs] (n.) 建議"
+      }
+    },
+    {
+      "q": "I bought three ______ of bread for the party.",
+      "options": [
+        "loaves",
+        "loafs",
+        "breads",
+        "piece"
+      ],
+      "correctAnswer": "loaves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我為派對買了三條麵包。",
+        "grammar": "Bread 不可數，需用量詞 loaf (條)，複數為 loaves。",
+        "vocab": "loaf [loʊf] (n.) 一條(麵包)"
+      }
+    },
+    {
+      "q": "There is too ______ salt in the soup.",
+      "options": [
+        "much",
+        "many",
+        "a lot",
+        "few"
+      ],
+      "correctAnswer": "much",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "湯裡的鹽放太多了。",
+        "grammar": "Salt 是不可數名詞（物質），修飾「多」使用 much。",
+        "vocab": "salt [sɔːlt] (n.) 鹽"
+      }
+    },
+    {
+      "q": "Please buy two ______ of milk on your way home.",
+      "options": [
+        "bottles",
+        "milks",
+        "bottle",
+        "glass"
+      ],
+      "correctAnswer": "bottles",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "回家路上請買兩瓶牛奶。",
+        "grammar": "Milk 不可數，需搭配量詞瓶 (bottle)，複數加 s 於量詞上。",
+        "vocab": "bottle [ˈbɑːtl] (n.) 瓶子"
+      }
+    },
+    {
+      "q": "The ______ in the newspaper is very sad today.",
+      "options": [
+        "news",
+        "new",
+        "newes",
+        "an news"
+      ],
+      "correctAnswer": "news",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "今天報紙上的新聞很令人難過。",
+        "grammar": "News 是不可數名詞，外表有 s 但視為單數。",
+        "vocab": "news [nuːz] (n.) 新聞"
+      }
+    },
+    {
+      "q": "How ______ glasses of water do you drink every day?",
+      "options": [
+        "many",
+        "much",
+        "little",
+        "some"
+      ],
+      "correctAnswer": "many",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你每天喝幾杯水？",
+        "grammar": "雖然 water 不可數，但 glasses (杯子) 是可數名詞，故用 many。",
+        "vocab": "glass [ɡlæs] (n.) 杯子"
+      }
+    },
+    {
+      "q": "The kids are having ______ fun at the playground.",
+      "options": [
+        "a lot of",
+        "many",
+        "a few",
+        "few"
+      ],
+      "correctAnswer": "a lot of",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "孩子們在操場玩得很開心。",
+        "grammar": "Fun 是不可數名詞，a lot of 可修飾可數與不可數名詞。",
+        "vocab": "playground [ˈpleɪɡraʊnd] (n.) 操場"
+      }
+    },
+    {
+      "q": "I have ______ homework to do tonight.",
+      "options": [
+        "too much",
+        "too many",
+        "a few",
+        "an"
+      ],
+      "correctAnswer": "too much",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我今晚有太多作業要做了。",
+        "grammar": "Homework 為不可數名詞，不可加 s，修飾語用 much。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 作業"
+      }
+    },
+    {
+      "q": "Would you like ______ coffee?",
+      "options": [
+        "some",
+        "any",
+        "a",
+        "many"
+      ],
+      "correctAnswer": "some",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你想要來點咖啡嗎？",
+        "grammar": "Coffee 不可數。在表達邀請或請求的疑問句中，常用 some 而非 any。",
+        "vocab": "coffee [ˈkɔːfi] (n.) 咖啡"
+      }
+    },
+    {
+      "q": "He ate two ______ of pizza for dinner.",
+      "options": [
+        "slices",
+        "slice",
+        "pizzas",
+        "piece"
+      ],
+      "correctAnswer": "slices",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他晚餐吃了兩片披薩。",
+        "grammar": "Pizza 常用量詞 slice (片) 或 piece 來計算。",
+        "vocab": "slice [slaɪs] (n.) 片/薄片"
+      }
+    },
+    {
+      "q": "There isn't ______ rice left in the bowl.",
+      "options": [
+        "much",
+        "many",
+        "few",
+        "a few"
+      ],
+      "correctAnswer": "much",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "碗裡沒剩多少飯了。",
+        "grammar": "Rice 是不可數名詞，否定句中修飾「多」用 much。",
+        "vocab": "rice [raɪs] (n.) 米飯"
+      }
+    },
+    {
+      "q": "We need four ______ to make the salad.",
+      "options": [
+        "tomatoes",
+        "tomato",
+        "tomatos",
+        "tomatoe"
+      ],
+      "correctAnswer": "tomatoes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們需要四顆番茄來做沙拉。",
+        "grammar": "Tomato 是可數名詞（蔬果類多數可數），複數加 -es。",
+        "vocab": "tomato [təˈmeɪtoʊ] (n.) 番茄"
+      }
+    },
+    {
+      "q": "Music ______ me feel relaxed.",
+      "options": [
+        "makes",
+        "make",
+        "making",
+        "to make"
+      ],
+      "correctAnswer": "makes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "音樂讓我感到放鬆。",
+        "grammar": "Music 是不可數名詞，視為單數，動詞需加 -s。",
+        "vocab": "relaxed [rɪˈlækst] (adj.) 放鬆的"
+      }
+    }
+  ]
+}

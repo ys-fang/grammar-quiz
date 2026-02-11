@@ -1,0 +1,246 @@
+{
+  "topicId": "20-反身代名詞",
+  "currentTopic": "Reflexive_Pronouns_15Q",
+  "questions": [
+    {
+      "q": "I accidentally cut ______ while I was cooking dinner.",
+      "options": [
+        "myself",
+        "me",
+        "my",
+        "mine"
+      ],
+      "correctAnswer": "myself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我做晚餐時不小心割傷了自己。",
+        "grammar": "主詞是 I，受詞也是 I，必須使用反身代名詞 myself。",
+        "vocab": "accidentally [ˌæksɪˈdentəli] (adv.) 意外地"
+      }
+    },
+    {
+      "q": "The kids enjoyed ______ very much at the birthday party.",
+      "options": [
+        "themselves",
+        "their",
+        "them",
+        "himself"
+      ],
+      "correctAnswer": "themselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "孩子們在生日派對上玩得很開心。",
+        "grammar": "主詞 kids 是複數，enjoy oneself 是固定用法，複數用 themselves。",
+        "vocab": "enjoy oneself (v.phr.) 玩得開心"
+      }
+    },
+    {
+      "q": "She painted the whole room all by ______.",
+      "options": [
+        "herself",
+        "her",
+        "she",
+        "hers"
+      ],
+      "correctAnswer": "herself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她獨自一人粉刷了整個房間。",
+        "grammar": "by herself 意為『靠她自己/獨自』。主詞為 She。",
+        "vocab": "paint [peɪnt] (v.) 繪製/粉刷"
+      }
+    },
+    {
+      "q": "He looked at ______ in the mirror before leaving.",
+      "options": [
+        "himself",
+        "him",
+        "his",
+        "he"
+      ],
+      "correctAnswer": "himself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他在離開前照了照鏡子中的自己。",
+        "grammar": "主詞是 He，受詞也是他，使用 himself。",
+        "vocab": "mirror [ˈmɪrər] (n.) 鏡子"
+      }
+    },
+    {
+      "q": "Don't worry about us. We can take care of ______.",
+      "options": [
+        "ourselves",
+        "our",
+        "us",
+        "myself"
+      ],
+      "correctAnswer": "ourselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別擔心我們。我們可以照顧好自己。",
+        "grammar": "主詞 We 對應的反身代名詞為 ourselves。",
+        "vocab": "take care of (v.phr.) 照顧"
+      }
+    },
+    {
+      "q": "Help ______ to some cookies, boys!",
+      "options": [
+        "yourselves",
+        "yourself",
+        "you",
+        "yours"
+      ],
+      "correctAnswer": "yourselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "孩子們，自己拿餅乾吃，別客氣！",
+        "grammar": "祈使句的對象是複數 (boys)，故使用 yourselves。",
+        "vocab": "Help yourself (v.phr.) 請自便"
+      }
+    },
+    {
+      "q": "The cat licked ______ to get clean.",
+      "options": [
+        "itself",
+        "it",
+        "its",
+        "it's"
+      ],
+      "correctAnswer": "itself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那隻貓舔自己以保持乾淨。",
+        "grammar": "動物主詞 (it) 對應的反身代名詞為 itself。",
+        "vocab": "lick [lɪk] (v.) 舔"
+      }
+    },
+    {
+      "q": "The president ______ answered the reporter's question.",
+      "options": [
+        "himself",
+        "his",
+        "him",
+        "he"
+      ],
+      "correctAnswer": "himself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "總統親自回答了記者的問題。",
+        "grammar": "此為強調用法，強調是總統『本人』親自做的。",
+        "vocab": "reporter [rɪˈpɔːrtər] (n.) 記者"
+      }
+    },
+    {
+      "q": "You should believe in ______ more.",
+      "options": [
+        "yourself",
+        "you",
+        "your",
+        "yours"
+      ],
+      "correctAnswer": "yourself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你應該更相信你自己一點。",
+        "grammar": "主詞 You (單數) 對應 yourself。",
+        "vocab": "believe in (v.phr.) 相信"
+      }
+    },
+    {
+      "q": "They found ______ in a difficult situation.",
+      "options": [
+        "themselves",
+        "them",
+        "their",
+        "they"
+      ],
+      "correctAnswer": "themselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他們發現自己處於困境中。",
+        "grammar": "主詞是 They，受詞也是同一群人，用 themselves。",
+        "vocab": "situation [ˌsɪtʃuˈeɪʃn] (n.) 情況"
+      }
+    },
+    {
+      "q": "I wrote this song by ______.",
+      "options": [
+        "myself",
+        "me",
+        "my",
+        "mine"
+      ],
+      "correctAnswer": "myself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我自己寫了這首歌。",
+        "grammar": "by myself 表『獨自完成』。",
+        "vocab": "song [sɔːŋ] (n.) 歌曲"
+      }
+    },
+    {
+      "q": "Little Tommy can dress ______ now.",
+      "options": [
+        "himself",
+        "him",
+        "his",
+        "he"
+      ],
+      "correctAnswer": "himself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小湯米現在可以自己穿衣服了。",
+        "grammar": "dress oneself 意為『自己穿衣』，主詞 Tommy 是男性單數。",
+        "vocab": "dress [dres] (v.) 穿衣"
+      }
+    },
+    {
+      "q": "The machine will turn ______ off after ten minutes.",
+      "options": [
+        "itself",
+        "it",
+        "its",
+        "it's"
+      ],
+      "correctAnswer": "itself",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這台機器十分鐘後會自動關閉。",
+        "grammar": "主詞 machine (物) 對應 itself。",
+        "vocab": "machine [məˈʃiːn] (n.) 機器"
+      }
+    },
+    {
+      "q": "Did you and Mary enjoy ______ at the concert?",
+      "options": [
+        "yourselves",
+        "yourself",
+        "them",
+        "ourselves"
+      ],
+      "correctAnswer": "yourselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你和瑪麗在音樂會上玩得開心嗎？",
+        "grammar": "主詞是 You and Mary (你們)，複數對應 yourselves。",
+        "vocab": "concert [ˈkɑːnsərt] (n.) 音樂會"
+      }
+    },
+    {
+      "q": "We shouldn't blame ______ for the mistake.",
+      "options": [
+        "ourselves",
+        "us",
+        "our",
+        "themselves"
+      ],
+      "correctAnswer": "ourselves",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們不該為了這個錯誤而責怪自己。",
+        "grammar": "主詞 We 對應 ourselves。",
+        "vocab": "blame [bleɪm] (v.) 責怪"
+      }
+    }
+  ]
+}

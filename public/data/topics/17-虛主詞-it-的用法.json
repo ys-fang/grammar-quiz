@@ -1,0 +1,166 @@
+{
+  "topicId": "17-虛主詞-it-的用法",
+  "currentTopic": "Dummy_Subject_It_10Q",
+  "questions": [
+    {
+      "q": "______ is important to study hard for the exam.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "There"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "努力準備考試是很重要的。",
+        "grammar": "當真正的語意焦點在後面的 to study 時，前方需用虛主詞 It。",
+        "vocab": "important [ɪmˈpɔːrtnt] (adj.) 重要的"
+      }
+    },
+    {
+      "q": "______ is dangerous for children to swim in this river.",
+      "options": [
+        "It",
+        "This",
+        "They",
+        "What"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "小孩在這條河裡游泳是危險的。",
+        "grammar": "It is + adj + for sb + to V 是虛主詞的經典結構。",
+        "vocab": "dangerous [ˈdeɪndʒərəs] (adj.) 危險的"
+      }
+    },
+    {
+      "q": "It is very kind ______ you to help the old lady.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "to"
+      ],
+      "correctAnswer": "of",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你真好，願意幫助那位老婦人。",
+        "grammar": "當形容詞是描述「人的特質」(kind) 時，介係詞要用 of。",
+        "vocab": "kind [kaɪnd] (adj.) 仁慈的"
+      }
+    },
+    {
+      "q": "______ is not easy to learn a new language in a month.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "There"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在一個月內學好一門新語言是不容易的。",
+        "grammar": "這類句子不能用 This 開頭，必須用虛主詞 It 指代後面的 to learn。",
+        "vocab": "language [ˈlæŋɡwɪdʒ] (n.) 語言"
+      }
+    },
+    {
+      "q": "It is necessary ______ students to follow the school rules.",
+      "options": [
+        "for",
+        "of",
+        "about",
+        "with"
+      ],
+      "correctAnswer": "for",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "學生有必要遵守校規。",
+        "grammar": "一般的形容詞 (necessary) 對人的要求，介係詞使用 for。",
+        "vocab": "necessary [ˈnesəseri] (adj.) 必要的"
+      }
+    },
+    {
+      "q": "______ was brave of the boy to save the drowning cat.",
+      "options": [
+        "It",
+        "This",
+        "He",
+        "That"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個男孩救起溺水的貓真是勇敢。",
+        "grammar": "形容詞 brave (勇敢) 是對人的評價，開頭仍使用虛主詞 It。",
+        "vocab": "brave [breɪv] (adj.) 勇敢的"
+      }
+    },
+    {
+      "q": "It takes me thirty minutes ______ to school every day.",
+      "options": [
+        "to walk",
+        "walk",
+        "walking",
+        "walked"
+      ],
+      "correctAnswer": "to walk",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我每天花三十分鐘走路去上學。",
+        "grammar": "It takes sb + 時間 + to V... 也是虛主詞 It 的常見句型。",
+        "vocab": "takes [teɪks] (v.) 花費(時間)"
+      }
+    },
+    {
+      "q": "______ is polite to say 'thank you' when you get help.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "There"
+      ],
+      "correctAnswer": "It",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "得到幫助時說「謝謝」是有禮貌的。",
+        "grammar": "描述行為特質時，使用虛主詞 It 引導後方的 to say。",
+        "vocab": "polite [pəˈlaɪt] (adj.) 有禮貌的"
+      }
+    },
+    {
+      "q": "It is a pity ______ you can't join our party tonight.",
+      "options": [
+        "that",
+        "to",
+        "for",
+        "which"
+      ],
+      "correctAnswer": "that",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "很可惜你今晚不能參加我們的派對。",
+        "grammar": "It is + N + that 子句，這裡的 It 指代後方的整件事。",
+        "vocab": "pity [ˈpɪti] (n.) 可惜的事"
+      }
+    },
+    {
+      "q": "Is ______ fun to play online games with friends?",
+      "options": [
+        "it",
+        "this",
+        "that",
+        "there"
+      ],
+      "correctAnswer": "it",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "和朋友一起玩線上遊戲很有趣嗎？",
+        "grammar": "疑問句中，It 仍作為虛主詞放在 be 動詞之後。",
+        "vocab": "online [ˈɑːnlaɪn] (adj.) 線上的"
+      }
+    }
+  ]
+}

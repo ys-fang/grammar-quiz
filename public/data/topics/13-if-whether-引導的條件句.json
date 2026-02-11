@@ -1,0 +1,166 @@
+{
+  "topicId": "13-if-whether-引導的條件句",
+  "currentTopic": "If_Whether_10Q",
+  "questions": [
+    {
+      "q": "If it ______ tomorrow, we will stay at home.",
+      "options": [
+        "rains",
+        "will rain",
+        "rained",
+        "is raining"
+      ],
+      "correctAnswer": "rains",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果明天下雨，我們就會待在家裡。",
+        "grammar": "條件句 (If = 如果) 表示未來假設時，子句須用現在式代替未來式。",
+        "vocab": "stay [steɪ] (v.) 停留/待在"
+      }
+    },
+    {
+      "q": "I don't know ______ he will come to the party tonight.",
+      "options": [
+        "if",
+        "what",
+        "which",
+        "whose"
+      ],
+      "correctAnswer": "if",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不知道他今晚是否會來參加派對。",
+        "grammar": "名詞子句 (if = 是否)，表示對未來的不確定，可以使用 will。",
+        "vocab": "tonight [təˈnaɪt] (adv.) 今晚"
+      }
+    },
+    {
+      "q": "I wonder ______ or not she likes the gift.",
+      "options": [
+        "if",
+        "whether",
+        "that",
+        "which"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我想知道她喜不喜歡這份禮物。",
+        "grammar": "看到句尾有 or not，前方優先選 whether 引導名詞子句。",
+        "vocab": "gift [ɡɪft] (n.) 禮物"
+      }
+    },
+    {
+      "q": "If you ______ hard, you will pass the exam.",
+      "options": [
+        "study",
+        "will study",
+        "studied",
+        "studies"
+      ],
+      "correctAnswer": "study",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果你努力學習，你就會通過考試。",
+        "grammar": "If 引導的條件句，主句用未來式，if 子句用現在式代替未來式。",
+        "vocab": "exam [ɪɡˈzæm] (n.) 考試"
+      }
+    },
+    {
+      "q": "We should ask the teacher ______ the sports meet will be held.",
+      "options": [
+        "whether",
+        "that",
+        "what",
+        "which"
+      ],
+      "correctAnswer": "whether",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們應該問老師運動會是否會舉行。",
+        "grammar": "引導名詞子句表示「是否」，且指涉未來不確定之事。",
+        "vocab": "held [held] (v.) 舉辦(hold過去分詞)"
+      }
+    },
+    {
+      "q": "If he ______ free this weekend, he'll help us with the work.",
+      "options": [
+        "is",
+        "will be",
+        "be",
+        "was"
+      ],
+      "correctAnswer": "is",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果他這週末有空，他會幫我們工作。",
+        "grammar": "If 條件句時態：現在式 (is) 代替未來式。",
+        "vocab": "weekend [ˈwiːkend] (n.) 週末"
+      }
+    },
+    {
+      "q": "______ she likes it or not, she has to do it.",
+      "options": [
+        "Whether",
+        "If",
+        "That",
+        "When"
+      ],
+      "correctAnswer": "Whether",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "不論她是否喜歡，她都必須做這件事。",
+        "grammar": "句首引導「不論...是否」時，僅能使用 Whether，不可使用 If。",
+        "vocab": "has to (v.phr.) 必須"
+      }
+    },
+    {
+      "q": "He'll call you as soon as he ______ there.",
+      "options": [
+        "gets",
+        "will get",
+        "got",
+        "get"
+      ],
+      "correctAnswer": "gets",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他一到那邊就會打給你。",
+        "grammar": "同 If 條件句邏輯，as soon as 引導的時間副詞子句也要用現在式代替未來式。",
+        "vocab": "get [ɡet] (v.) 到達"
+      }
+    },
+    {
+      "q": "I'm not sure ______ my mother will buy me the cell phone.",
+      "options": [
+        "if",
+        "that",
+        "what",
+        "where"
+      ],
+      "correctAnswer": "if",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我不確定我媽媽是否會買那支手機給我。",
+        "grammar": "名詞子句表示「是否」，可以用 if 或 whether。",
+        "vocab": "cell phone (n.) 手機"
+      }
+    },
+    {
+      "q": "You won't catch the bus if you ______ leave now.",
+      "options": [
+        "don't",
+        "won't",
+        "didn't",
+        "not"
+      ],
+      "correctAnswer": "don't",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果你現在不離開，你就趕不上公車了。",
+        "grammar": "If 條件句否定式，使用現在式助動詞 don't。",
+        "vocab": "catch [kætʃ] (v.) 趕上"
+      }
+    }
+  ]
+}

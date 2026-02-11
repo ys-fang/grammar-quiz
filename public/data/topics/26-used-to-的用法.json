@@ -1,0 +1,246 @@
+{
+  "topicId": "26-used-to-的用法",
+  "currentTopic": "Used_To_Three_Types_15Q",
+  "questions": [
+    {
+      "q": "My grandfather ______ go fishing every Sunday morning when he was young.",
+      "options": [
+        "used to",
+        "is used to",
+        "was used to",
+        "used"
+      ],
+      "correctAnswer": "used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我祖父年輕時每個週日早晨常去釣魚。",
+        "grammar": "描述「過去的習慣」，主詞是人，後接原形動詞 go，使用 used to。",
+        "vocab": "fishing [ˈfɪʃɪŋ] (n.) 釣魚"
+      }
+    },
+    {
+      "q": "The internet ______ find information quickly.",
+      "options": [
+        "is used to",
+        "used to",
+        "gets used to",
+        "is used to V-ing"
+      ],
+      "correctAnswer": "is used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "網際網路被用來快速尋找資訊。",
+        "grammar": "主詞是物 (Internet)，語意是「被用來...」，後接原形 find，使用 be used to V。",
+        "vocab": "information [ˌɪnfərˈmeɪʃn] (n.) 資訊"
+      }
+    },
+    {
+      "q": "She has lived in London for ten years, so she ______ the cold weather there.",
+      "options": [
+        "is used to",
+        "used to",
+        "was used to V",
+        "use to"
+      ],
+      "correctAnswer": "is used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她在倫敦住了十年，所以她已經習慣了那裡的寒冷天氣。",
+        "grammar": "描述「現在習慣於...」，後接名詞 weather，使用 be used to。",
+        "vocab": "weather [ˈweðər] (n.) 天氣"
+      }
+    },
+    {
+      "q": "I ______ eating spicy food since I moved to Sichuan.",
+      "options": [
+        "am used to",
+        "used to",
+        "was used to V",
+        "am use to"
+      ],
+      "correctAnswer": "am used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "自從搬到四川後，我已經習慣吃辣了。",
+        "grammar": "描述「習慣於某種狀態」，後接 V-ing (eating)，使用 be used to V-ing。",
+        "vocab": "spicy [ˈslaɪsi] (adj.) 辛辣的"
+      }
+    },
+    {
+      "q": "Solar energy ______ produce electricity in many countries.",
+      "options": [
+        "is used to",
+        "used to",
+        "be used to",
+        "is used"
+      ],
+      "correctAnswer": "is used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "太陽能被用來在許多國家生產電力。",
+        "grammar": "主詞是物 (Solar energy)，語意是「被用來...」，後接原形 produce，使用 be used to V。",
+        "vocab": "electricity [ɪˌlekˈtrɪsəti] (n.) 電力"
+      }
+    },
+    {
+      "q": "He ______ smoke, but he gave it up two years ago.",
+      "options": [
+        "used to",
+        "is used to",
+        "was used to",
+        "is used"
+      ],
+      "correctAnswer": "used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他以前常抽煙，但兩年前戒掉了。",
+        "grammar": "描述「過去經常做但現在不做了」，使用 used to + 原形。",
+        "vocab": "smoke [smoʊk] (v.) 抽煙"
+      }
+    },
+    {
+      "q": "It took me a long time to ______ the noise of the city.",
+      "options": [
+        "get used to",
+        "used to",
+        "be used to V",
+        "use to"
+      ],
+      "correctAnswer": "get used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我花了很長時間才習慣城市的噪音。",
+        "grammar": "get used to 強調「從不習慣變習慣」的過程。",
+        "vocab": "noise [nɔɪz] (n.) 噪音"
+      }
+    },
+    {
+      "q": "Knives ______ cut meat and vegetables.",
+      "options": [
+        "are used to",
+        "used to",
+        "are used to V-ing",
+        "be used to"
+      ],
+      "correctAnswer": "are used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "刀子被用來切肉和蔬菜。",
+        "grammar": "主詞是複數物 (Knives)，語意為「被用來...」，後接原形 cut。",
+        "vocab": "vegetable [ˈvedʒtəbl] (n.) 蔬菜"
+      }
+    },
+    {
+      "q": "Did you ______ wear glasses when you were a child?",
+      "options": [
+        "use to",
+        "used to",
+        "be used to",
+        "used"
+      ],
+      "correctAnswer": "use to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你小時候常戴眼鏡嗎？",
+        "grammar": "在疑問句中，did 已經帶走了過去式，動詞需還原為 use to。",
+        "vocab": "glasses [ˈɡlæsɪz] (n.) 眼鏡"
+      }
+    },
+    {
+      "q": "The little girl ______ sleeping with the lights on.",
+      "options": [
+        "is used to",
+        "used to",
+        "is used to V",
+        "was used to V"
+      ],
+      "correctAnswer": "is used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那個小女孩習慣開著燈睡覺。",
+        "grammar": "描述「習慣於」，後接 V-ing (sleeping)，使用 be used to V-ing。",
+        "vocab": "light [laɪt] (n.) 燈"
+      }
+    },
+    {
+      "q": "This empty box ______ keep old photographs.",
+      "options": [
+        "is used to",
+        "used to",
+        "is used to V-ing",
+        "was used to V-ing"
+      ],
+      "correctAnswer": "is used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這支空盒子被用來存放舊照片。",
+        "grammar": "主詞是物 (box)，語意為「被用來...」，後接原形 keep。",
+        "vocab": "photograph [ˈfoʊtəɡræf] (n.) 照片"
+      }
+    },
+    {
+      "q": "I ______ like basketball, but now I prefer tennis.",
+      "options": [
+        "used to",
+        "am used to",
+        "was used to",
+        "used"
+      ],
+      "correctAnswer": "used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我以前喜歡籃球，但現在我更喜歡網球。",
+        "grammar": "描述過去的偏好（現在變了），使用 used to。",
+        "vocab": "prefer [prɪˈfɜːr] (v.) 更喜歡"
+      }
+    },
+    {
+      "q": "Are you ______ working at night?",
+      "options": [
+        "used to",
+        "use to",
+        "used",
+        "be used to"
+      ],
+      "correctAnswer": "used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你習慣在晚上工作嗎？",
+        "grammar": "疑問句中 be 動詞移到句首，後方維持 used to + V-ing。",
+        "vocab": "working [ˈwɜːrkɪŋ] (v.) 工作"
+      }
+    },
+    {
+      "q": "Cameras ______ take pictures and videos.",
+      "options": [
+        "are used to",
+        "used to",
+        "be used to",
+        "are used to V-ing"
+      ],
+      "correctAnswer": "are used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "相機被用來拍攝照片和影片。",
+        "grammar": "主詞是複數物，被動語態 be used to + 原形。",
+        "vocab": "video [ˈvɪdioʊ] (n.) 影片"
+      }
+    },
+    {
+      "q": "I never ______ getting up so early before I joined the army.",
+      "options": [
+        "got used to",
+        "used to",
+        "was used to V",
+        "use to"
+      ],
+      "correctAnswer": "got used to",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "在我入伍前，我從未習慣這麼早起。",
+        "grammar": "表示「習慣於」的過程，後接 V-ing。",
+        "vocab": "army [ˈɑːrmi] (n.) 軍隊"
+      }
+    }
+  ]
+}

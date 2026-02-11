@@ -1,0 +1,176 @@
+{
+  "topicId": "06-現在完成式-vs-過去式",
+  "currentTopic": "Present_Perfect_vs_Past_Simple",
+  "questions": [
+    {
+      "q": "I ______ my keys. I can't find them anywhere!",
+      "options": [
+        "lost",
+        "have lost",
+        "am losing",
+        "was losing"
+      ],
+      "correctAnswer": "have lost",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我弄丟了我的鑰匙。我到處都找不到！",
+        "grammar": "【現在完成式】強調過去發生的動作對「現在」造成的影響（找不到鑰匙）。",
+        "vocab": "lost [lɔst] (v.) 遺失",
+        "restore": "Original: I lost my keys at some point, and I still don't have them."
+      }
+    },
+    {
+      "q": "He ______ to Japan three times last year.",
+      "options": [
+        "has gone",
+        "went",
+        "has been",
+        "was going"
+      ],
+      "correctAnswer": "went",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "他去年去了日本三次。",
+        "grammar": "【過去簡單式】句尾有明確的過去時間副詞「last year」，必須用過去式。",
+        "vocab": "Japan [dʒəˈpæn] (n.) 日本",
+        "restore": "Action finished in the past."
+      }
+    },
+    {
+      "q": "______ you ever ______ snails?",
+      "options": [
+        "Did / eat",
+        "Have / eaten",
+        "Do / eat",
+        "Are / eating"
+      ],
+      "correctAnswer": "Have / eaten",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你曾經吃過蝸牛嗎？",
+        "grammar": "【現在完成式】使用「Have + p.p.」詢問從過去到現在的「經驗」。",
+        "vocab": "snail [snel] (n.) 蝸牛",
+        "restore": "Have you had the experience of eating snails?"
+      }
+    },
+    {
+      "q": "Shakespeare ______ many famous plays.",
+      "options": [
+        "has written",
+        "writes",
+        "wrote",
+        "had written"
+      ],
+      "correctAnswer": "wrote",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "莎士比亞寫過許多著名的劇作。",
+        "grammar": "【過去簡單式】莎士比亞已故，其行為發生在已結束的時間點。",
+        "vocab": "famous [ˈfeməs] (adj.) 有名的",
+        "restore": "The author is no longer alive to write more."
+      }
+    },
+    {
+      "q": "We ______ each other since we were children.",
+      "options": [
+        "know",
+        "have known",
+        "knew",
+        "are knowing"
+      ],
+      "correctAnswer": "have known",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我們從小就互相認識。",
+        "grammar": "【現在完成式】since + 過去點，表示動作從過去持續至今。",
+        "vocab": "child [tʃaɪld] (n.) 小孩",
+        "restore": "We started knowing each other as kids and still do."
+      }
+    },
+    {
+      "q": "I ______ my breakfast at 7:00 AM this morning.",
+      "options": [
+        "have had",
+        "had",
+        "have have",
+        "was having"
+      ],
+      "correctAnswer": "had",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我今天早上七點吃了早餐。",
+        "grammar": "【過去簡單式】明確時間點「7:00 AM」，動作已完成且與現在無關。",
+        "vocab": "breakfast [ˈbrɛkfəst] (n.) 早餐",
+        "restore": "Completed action at a specific time."
+      }
+    },
+    {
+      "q": "She ______ just ______ her homework.",
+      "options": [
+        "has / finish",
+        "did / finish",
+        "has / finished",
+        "is / finishing"
+      ],
+      "correctAnswer": "has / finished",
+      "correctIndex": 2,
+      "explanation": {
+        "translation": "她剛剛完成了功課。",
+        "grammar": "【現在完成式】just 常用於現在完成式，表示「剛剛完成」。",
+        "vocab": "homework [ˈhomˌwɝk] (n.) 功課",
+        "restore": "The homework is ready now."
+      }
+    },
+    {
+      "q": "When ______ you ______ that car?",
+      "options": [
+        "have / bought",
+        "did / buy",
+        "do / buy",
+        "were / buying"
+      ],
+      "correctAnswer": "did / buy",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "你什麼時候買那輛車的？",
+        "grammar": "【過去簡單式】用 When 詢問具體發生時間時，不可用完成式。",
+        "vocab": "bought [bɔt] (v.) 買(buy過去式)",
+        "restore": "At what point in the past did you buy it?"
+      }
+    },
+    {
+      "q": "The rain ______ yet.",
+      "options": [
+        "didn't stop",
+        "hasn't stopped",
+        "doesn't stop",
+        "not stop"
+      ],
+      "correctAnswer": "hasn't stopped",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "雨還沒停。",
+        "grammar": "【現在完成式】yet 用於否定句，表示「到目前為止」尚未發生的狀態。",
+        "vocab": "stop [stɑp] (v.) 停止",
+        "restore": "It is still raining now."
+      }
+    },
+    {
+      "q": "My sister ______ in London for five years (from 2010 to 2015).",
+      "options": [
+        "has lived",
+        "lived",
+        "lives",
+        "was living"
+      ],
+      "correctAnswer": "lived",
+      "correctIndex": 1,
+      "explanation": {
+        "translation": "我姊姊曾在倫敦住過五年（從2010到2015）。",
+        "grammar": "【過去簡單式】雖然有 for five years，但括號註明時間已結束且不在倫敦了。",
+        "vocab": "London [ˈlʌndən] (n.) 倫敦",
+        "restore": "She doesn't live there now."
+      }
+    }
+  ]
+}

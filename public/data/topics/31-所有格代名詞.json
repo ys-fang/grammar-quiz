@@ -1,0 +1,246 @@
+{
+  "topicId": "31-所有格代名詞",
+  "currentTopic": "Possessive_Pronouns_15Q",
+  "questions": [
+    {
+      "q": "This is not my pen. ______ is blue.",
+      "options": [
+        "Mine",
+        "My",
+        "Me",
+        "I"
+      ],
+      "correctAnswer": "Mine",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這不是我的筆。我的是藍色的。",
+        "grammar": "Mine 代替了 My pen。空格後沒有名詞，需用所有格代名詞。",
+        "vocab": "pen [pen] (n.) 筆"
+      }
+    },
+    {
+      "q": "Is this your umbrella or ______?",
+      "options": [
+        "hers",
+        "her",
+        "she",
+        "his"
+      ],
+      "correctAnswer": "hers",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這是你的傘還是她的？",
+        "grammar": "hers 代替 her umbrella。句尾沒有名詞，選所有格代名詞。",
+        "vocab": "umbrella [ʌmˈbrelə] (n.) 傘"
+      }
+    },
+    {
+      "q": "Our car is old, but ______ is brand new.",
+      "options": [
+        "theirs",
+        "their",
+        "they",
+        "them"
+      ],
+      "correctAnswer": "theirs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我們的車很舊，但他們的是全新的。",
+        "grammar": "theirs = their car。作為主詞且避免重複，使用所有格代名詞。",
+        "vocab": "brand new (adj.) 全新的"
+      }
+    },
+    {
+      "q": "A: Whose book is this? <br>B: It's ______. I bought it yesterday.",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "correctAnswer": "mine",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "A: 這是誰的書？<br>B: 是我的。我昨天買的。",
+        "grammar": "mine = my book。回答「誰的東西」時常用所有格代名詞。",
+        "vocab": "bought [bɔːt] (v.) 買(buy的過去式)"
+      }
+    },
+    {
+      "q": "I found my keys, but Mary still can't find ______.",
+      "options": [
+        "hers",
+        "her",
+        "she",
+        "herself"
+      ],
+      "correctAnswer": "hers",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我找到我的鑰匙了，但瑪麗還是找不到她的。",
+        "grammar": "hers = her keys。避免重複提及 keys。",
+        "vocab": "found [faʊnd] (v.) 找到(find的過去式)"
+      }
+    },
+    {
+      "q": "Your bag is much bigger than ______.",
+      "options": [
+        "ours",
+        "our",
+        "we",
+        "us"
+      ],
+      "correctAnswer": "ours",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你的包包比我們的大得多。",
+        "grammar": "ours = our bag。比較對象需結構一致（包包比包包）。",
+        "vocab": "bigger [ˈbɪɡər] (adj.) 較大的"
+      }
+    },
+    {
+      "q": "He borrowed my bike because ______ was broken.",
+      "options": [
+        "his",
+        "him",
+        "he",
+        "hises"
+      ],
+      "correctAnswer": "his",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "他借了我的腳踏車，因為他的壞了。",
+        "grammar": "his 既是所有格也是所有格代名詞（代指 his bike）。",
+        "vocab": "broken [ˈbroʊkən] (adj.) 壞掉的"
+      }
+    },
+    {
+      "q": "Those seats are not ______. They belong to that family.",
+      "options": [
+        "yours",
+        "your",
+        "you",
+        "you're"
+      ],
+      "correctAnswer": "yours",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "那些座位不是你們的。它們屬於那個家庭。",
+        "grammar": "yours = your seats。指稱「你們的東西」。",
+        "vocab": "belong to (v.phr.) 屬於"
+      }
+    },
+    {
+      "q": "My classroom is on the first floor, and ______ is on the second.",
+      "options": [
+        "yours",
+        "your",
+        "you",
+        "you're"
+      ],
+      "correctAnswer": "yours",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的教室在一樓，你的在二樓。",
+        "grammar": "yours = your classroom。作為主詞使用。",
+        "vocab": "floor [flɔːr] (n.) 樓層"
+      }
+    },
+    {
+      "q": "I have my own problems, and they have ______.",
+      "options": [
+        "theirs",
+        "their",
+        "they",
+        "them"
+      ],
+      "correctAnswer": "theirs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我有我自己的問題，他們也有他們的。",
+        "grammar": "theirs = their problems。避免重複名詞。",
+        "vocab": "own [oʊn] (adj.) 自己的"
+      }
+    },
+    {
+      "q": "This house is ______ now. They bought it last month.",
+      "options": [
+        "theirs",
+        "their",
+        "they",
+        "them"
+      ],
+      "correctAnswer": "theirs",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這間房子現在是他們的了。他們上個月買的。",
+        "grammar": "用在 be 動詞後表示所有權。",
+        "vocab": "month [mʌnθ] (n.) 月份"
+      }
+    },
+    {
+      "q": "Don't take that cup! It's ______!",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "correctAnswer": "mine",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別拿那個杯子！那是我的！",
+        "grammar": "mine 強烈表達所有權，後無名詞。",
+        "vocab": "take [teɪk] (v.) 拿走"
+      }
+    },
+    {
+      "q": "My hair is longer than ______.",
+      "options": [
+        "hers",
+        "her",
+        "she",
+        "herself"
+      ],
+      "correctAnswer": "hers",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我的頭髮比她的長。",
+        "grammar": "hers = her hair。比較級中常見的代換用法。",
+        "vocab": "longer [ˈlɔːŋɡər] (adj.) 較長的"
+      }
+    },
+    {
+      "q": "These pencils are yours, and those are ______.",
+      "options": [
+        "ours",
+        "our",
+        "us",
+        "we"
+      ],
+      "correctAnswer": "ours",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這些鉛筆是你們的，那些是我們的。",
+        "grammar": "ours = our pencils。區分兩群人的物品。",
+        "vocab": "pencil [ˈpensl] (n.) 鉛筆"
+      }
+    },
+    {
+      "q": "I like my coffee black. How do you like ______?",
+      "options": [
+        "yours",
+        "your",
+        "you",
+        "you're"
+      ],
+      "correctAnswer": "yours",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我喜歡黑咖啡。你喜歡你的怎麼弄？",
+        "grammar": "yours = your coffee。口語中常見的簡略用法。",
+        "vocab": "black coffee (n.) 黑咖啡"
+      }
+    }
+  ]
+}

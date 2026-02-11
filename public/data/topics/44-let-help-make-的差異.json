@@ -1,0 +1,246 @@
+{
+  "topicId": "44-let-help-make-的差異",
+  "currentTopic": "Make_Let_Help_15Q",
+  "questions": [
+    {
+      "q": "My teacher ______ me redo the whole assignment because it was too messy.",
+      "options": [
+        "made",
+        "let",
+        "helped",
+        "gave"
+      ],
+      "correctAnswer": "made",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "老師要求我重做整份作業，因為太亂了。",
+        "grammar": "redo 是原形，且語境帶有命令/強迫，故選 made。",
+        "vocab": "assignment [əˈsaɪnmənt] (n.) 作業"
+      }
+    },
+    {
+      "q": "Please ______ me know if you change your mind about the trip.",
+      "options": [
+        "let",
+        "make",
+        "help",
+        "allow"
+      ],
+      "correctAnswer": "let",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果你改變旅行的心意，請讓我知道。",
+        "grammar": "let me know 是固定用法，指『告知/允許訊息流動』。",
+        "vocab": "mind [maɪnd] (n.) 心意/頭腦"
+      }
+    },
+    {
+      "q": "The heavy rain ______ the match stop for an hour.",
+      "options": [
+        "made",
+        "let",
+        "helped",
+        "caused"
+      ],
+      "correctAnswer": "made",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "大雨使比賽中斷了一小時。",
+        "grammar": "不可抗力導致的結果，帶有『使/強迫』意味，選 made。",
+        "vocab": "match [mætʃ] (n.) 比賽"
+      }
+    },
+    {
+      "q": "Can you ______ me carry these heavy boxes upstairs?",
+      "options": [
+        "help",
+        "make",
+        "let",
+        "get"
+      ],
+      "correctAnswer": "help",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "你能幫我搬這些重盒子到樓上嗎？",
+        "grammar": "詢問協助，選 help。後方可接原形 carry。",
+        "vocab": "upstairs [ˌʌpˈsterz] (adv.) 往樓上"
+      }
+    },
+    {
+      "q": "My parents never ______ me stay out late on school nights.",
+      "options": [
+        "let",
+        "make",
+        "help",
+        "permit"
+      ],
+      "correctAnswer": "let",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "我父母從不准許我在上學日的晚上待在外面太晚。",
+        "grammar": "指『許可』，選 let。",
+        "vocab": "late [leɪt] (adv.) 晚地"
+      }
+    },
+    {
+      "q": "The sad movie ______ me cry at the end.",
+      "options": [
+        "made",
+        "let",
+        "helped",
+        "caused"
+      ],
+      "correctAnswer": "made",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這部悲傷的電影最後讓我哭了。",
+        "grammar": "情感被觸發，帶有『使得』之意，選 made。",
+        "vocab": "sad [sæd] (adj.) 悲傷的"
+      }
+    },
+    {
+      "q": "I will ______ you borrow my camera if you promise to be careful.",
+      "options": [
+        "let",
+        "make",
+        "help",
+        "get"
+      ],
+      "correctAnswer": "let",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "如果你保證會小心，我就讓你借我的相機。",
+        "grammar": "指『准許/讓』，選 let。",
+        "vocab": "borrow [ˈbɑːroʊ] (v.) 借入"
+      }
+    },
+    {
+      "q": "Our coach ______ us practice for three hours every day.",
+      "options": [
+        "makes",
+        "lets",
+        "helps",
+        "allows"
+      ],
+      "correctAnswer": "makes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "教練要求我們每天練習三小時。",
+        "grammar": "嚴格要求/訓練，語氣強烈，選 makes。",
+        "vocab": "coach [koʊtʃ] (n.) 教練"
+      }
+    },
+    {
+      "q": "Does this medicine ______ you feel sleepy?",
+      "options": [
+        "make",
+        "let",
+        "help",
+        "get"
+      ],
+      "correctAnswer": "make",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "這種藥會讓你感到昏昏欲睡嗎？",
+        "grammar": "藥物引發的反應，『使』之意，選 make。",
+        "vocab": "medicine [ˈmedɪsn] (n.) 藥物"
+      }
+    },
+    {
+      "q": "He ______ me find my keys when I lost them yesterday.",
+      "options": [
+        "helped",
+        "made",
+        "let",
+        "got"
+      ],
+      "correctAnswer": "helped",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "昨天我弄丟鑰匙時，他幫我找到了。",
+        "grammar": "提供協助，選 helped。",
+        "vocab": "keys [kiːz] (n.) 鑰匙"
+      }
+    },
+    {
+      "q": "Don't ______ the cat jump on the dining table!",
+      "options": [
+        "let",
+        "make",
+        "help",
+        "cause"
+      ],
+      "correctAnswer": "let",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "別讓貓跳到餐桌上！",
+        "grammar": "『不准許/不讓』之意，選 let。",
+        "vocab": "dining table (n.) 餐桌"
+      }
+    },
+    {
+      "q": "The loud noise ______ everyone jump in surprise.",
+      "options": [
+        "made",
+        "let",
+        "helped",
+        "felt"
+      ],
+      "correctAnswer": "made",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "巨大的噪音讓每個人都嚇跳了一跳。",
+        "grammar": "外部刺激引發的自動反應，選 made。",
+        "vocab": "surprise [sərˈpraɪz] (n.) 驚訝"
+      }
+    },
+    {
+      "q": "She ______ her children do their homework before watching TV.",
+      "options": [
+        "makes",
+        "lets",
+        "helps",
+        "gets"
+      ],
+      "correctAnswer": "makes",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "她要求孩子們看電視前要做完功課。",
+        "grammar": "規矩/命令，選 makes。",
+        "vocab": "homework [ˈhoʊmwɜːrk] (n.) 功課"
+      }
+    },
+    {
+      "q": "The internet ______ people communicate more easily.",
+      "options": [
+        "helps",
+        "makes",
+        "lets",
+        "forces"
+      ],
+      "correctAnswer": "helps",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "網路幫助人們更輕鬆地溝通。",
+        "grammar": "提供輔助功能，選 helps。後接原形 communicate。",
+        "vocab": "communicate [kəˈmjuːnɪkeɪt] (v.) 溝通"
+      }
+    },
+    {
+      "q": "______ us go to the park and have some fun.",
+      "options": [
+        "Let",
+        "Make",
+        "Help",
+        "Allow"
+      ],
+      "correctAnswer": "Let",
+      "correctIndex": 0,
+      "explanation": {
+        "translation": "讓我們去公園玩得開心吧。",
+        "grammar": "Let's (Let us) 固定建議用法，選 Let。",
+        "vocab": "fun [fʌn] (n.) 樂趣"
+      }
+    }
+  ]
+}
