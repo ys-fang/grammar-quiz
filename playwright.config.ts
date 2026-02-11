@@ -21,5 +21,9 @@ export default defineConfig({
       name: 'chromium',
       use: { browserName: 'chromium' },
     },
+    {
+      name: 'webkit',
+      use: { browserName: 'webkit' },
+    },
   ],
 })
