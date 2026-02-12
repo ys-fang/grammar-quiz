@@ -3,8 +3,24 @@ import { createQuizEngine, type QuizState } from '../lib/quiz-engine'
 import { shuffle } from '../lib/shuffle'
 import type { QuizQuestion } from '../types/quiz'
 
+/** Shuffle options within a question and update correctIndex accordingly */
+function shuffleQuestionOptions(question: QuizQuestion): QuizQuestion {
+  const correctAnswer = question.options[question.correctIndex]
+  const shuffledOptions = shuffle(question.options)
+  const newCorrectIndex = shuffledOptions.indexOf(correctAnswer)
+
+  return {
+    ...question,
+    options: shuffledOptions,
+    correctIndex: newCorrectIndex,
+  }
+}
+
 export function useQuiz(questions: QuizQuestion[]) {
-  const shuffled = useMemo(() => shuffle(questions), [questions])
+  const shuffled = useMemo(() => {
+    // Shuffle questions order, then shuffle each question's options
+    return shuffle(questions).map(shuffleQuestionOptions)
+  }, [questions])
   const [engine] = useState(() => createQuizEngine(shuffled))
   const [state, setState] = useState<QuizState>(() => engine.getState())
 
