@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { describe, it, expect, vi, beforeEach } from 'vitest'
-import { MemoryRouter, Routes, Route } from 'react-router'
+import { MemoryRouter, Routes, Route } from 'react-router-dom'
 import { QuizPage } from '../../src/pages/QuizPage'
 import type { QuizQuestion } from '../../src/types/quiz'
 

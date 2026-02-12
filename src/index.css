@@ -1,7 +1,9 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* ── Design Tokens ─────────────────────────────────────── */
-@theme {
+:root {
   --color-rose: #E56399;
   --color-tan: #D3A588;
   --color-almond: #ECE2D0;
@@ -10,9 +12,7 @@
   --color-quiz-blue: #1a73e8;
   --color-correct: #2e7d32;
   --color-wrong: #d32f2f;
-}
 
-:root {
   --bg-gradient: linear-gradient(135deg, #ECE2D0 0%, #DFD5C1 100%);
   --quiz-gradient: linear-gradient(135deg, #1565c0 0%, #42a5f5 100%);
   --card-bg: #FFFFFF;

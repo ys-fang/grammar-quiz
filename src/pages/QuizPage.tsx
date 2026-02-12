@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useParams, useNavigate } from 'react-router'
+import { useParams, useNavigate } from 'react-router-dom'
 import { useQuiz } from '../hooks/useQuiz'
 import { useGlobalStats } from '../hooks/useGlobalStats'
 import { postScore } from '../lib/gas-client'

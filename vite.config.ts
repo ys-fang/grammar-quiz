@@ -1,10 +1,9 @@
 import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   base: process.env.VITE_BASE || '/',
-  plugins: [react(), tailwindcss()],
+  plugins: [react()],
   build: {
     target: ['es2020', 'safari14'],
   },
