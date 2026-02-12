@@ -25,37 +25,58 @@
     <div id="app-fallback" style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:sans-serif;color:#333;text-align:center;padding:20px;">
       <div>
         <p style="font-size:18px;">載入中...</p>
-        <p id="app-error" style="display:none;color:red;margin-top:12px;font-size:14px;"></p>
-        <p id="app-debug" style="display:none;color:#666;margin-top:8px;font-size:12px;"></p>
+        <p id="app-error" style="display:none;color:red;margin-top:12px;font-size:14px;word-break:break-all;"></p>
+        <p id="app-debug" style="display:none;color:#666;margin-top:8px;font-size:12px;word-break:break-all;"></p>
       </div>
     </div>
     <script>
-      // Diagnostic: catch JS errors and show them visually
+      var errEl = document.getElementById('app-error');
+      var dbgEl = document.getElementById('app-debug');
+      function showErr(msg) { if (errEl) { errEl.style.display = 'block'; errEl.textContent += msg + '\n'; } }
+      function showDbg(msg) { if (dbgEl) { dbgEl.style.display = 'block'; dbgEl.textContent += msg + '\n'; } }
+
+      // 1. Catch runtime JS errors
       window.addEventListener('error', function(e) {
-        var el = document.getElementById('app-error');
-        if (el) { el.style.display = 'block'; el.textContent = 'JS Error: ' + (e.message || e) + ' (' + (e.filename || '') + ':' + (e.lineno || '') + ')'; }
+        showErr('Error: ' + (e.message || e) + ' @' + (e.filename || '?') + ':' + (e.lineno || '?'));
+      }, true);
+
+      // 2. Catch unhandled promise rejections (module evaluation errors)
+      window.addEventListener('unhandledrejection', function(e) {
+        showErr('Rejection: ' + (e.reason ? (e.reason.message || e.reason) : 'unknown'));
       });
-      // Hide fallback once React mounts
+
+      // 3. Attach error handler to module script tag (catches load/parse failures)
+      var modScript = document.querySelector('script[type="module"][src]');
+      if (modScript) {
+        modScript.addEventListener('error', function() {
+          showErr('Module script failed to load: ' + modScript.getAttribute('src'));
+        });
+      }
+
+      // 4. Hide fallback once React mounts
       var observer = new MutationObserver(function() {
         var root = document.getElementById('root');
         if (root && root.children.length > 0) {
-          var fb = document.getElementById('app-fallback');
-          if (fb) fb.style.display = 'none';
+          document.getElementById('app-fallback').style.display = 'none';
           observer.disconnect();
         }
       });
       observer.observe(document.getElementById('root'), { childList: true });
-      // Timeout: if React hasn't mounted after 10s, show debug info
+
+      // 5. After 5s, if React hasn't mounted, run fetch diagnostic
       setTimeout(function() {
         var root = document.getElementById('root');
-        if (root && root.children.length === 0) {
-          var dbg = document.getElementById('app-debug');
-          if (dbg) {
-            dbg.style.display = 'block';
-            dbg.textContent = 'React 未載入 (10s timeout). UA: ' + navigator.userAgent.substring(0, 120);
-          }
+        if (root && root.children.length > 0) return;
+        var src = modScript ? modScript.getAttribute('src') : 'no-script-found';
+        showDbg('UA: ' + navigator.userAgent.substring(0, 100));
+        showDbg('Script src: ' + src);
+        if (src && src !== 'no-script-found') {
+          fetch(src).then(function(r) {
+            showDbg('Fetch: ' + r.status + ' type=' + (r.headers.get('content-type') || '?') + ' len=' + (r.headers.get('content-length') || '?'));
+            return r.text().then(function(t) { showDbg('JS starts: ' + t.substring(0, 80)); });
+          }).catch(function(e) { showDbg('Fetch error: ' + e.message); });
         }
-      }, 10000);
+      }, 5000);
     </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
