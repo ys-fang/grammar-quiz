@@ -20,7 +20,7 @@ type LoadState = 'loading' | 'error' | 'success'
 // Separate component that renders once data is loaded
 function QuizContent({ data, gasUrl }: { data: TopicData; gasUrl: string }) {
   const navigate = useNavigate()
-  const { state, answer, next, retryAll, retryWrongs } = useQuiz(data.questions)
+  const { state, answer, next, retryAll, retryWrongs } = useQuiz(data.questions, data.topicId)
   const stats = useGlobalStats(gasUrl, data.currentTopic)
   const [scorePosted, setScorePosted] = useState(false)
 
