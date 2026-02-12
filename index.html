@@ -2,8 +2,8 @@
 <html lang="zh-TW">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <link rel="icon" type="image/svg+xml" href="./vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
     <title>國中英文解憂雜貨店 | 線上文法專題練習</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -15,70 +15,71 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-NFRRHRMC');</script>
     <!-- End Google Tag Manager -->
+    <style>
+      #app-loading {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        font-family: 'Noto Sans TC', sans-serif;
+        background: linear-gradient(to bottom, #fff1f2, #fef3c7);
+      }
+      #app-loading .loader {
+        text-align: center;
+        color: #78350f;
+      }
+      #app-loading .spinner {
+        width: 40px;
+        height: 40px;
+        border: 3px solid #fecaca;
+        border-top-color: #dc2626;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin: 0 auto 16px;
+      }
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+    </style>
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFRRHRMC"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
+
     <div id="root"></div>
-    <div id="app-fallback" style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:sans-serif;color:#333;text-align:center;padding:20px;">
-      <div>
-        <p style="font-size:18px;">載入中...</p>
-        <p id="app-error" style="display:none;color:red;margin-top:12px;font-size:14px;word-break:break-all;"></p>
-        <p id="app-debug" style="display:none;color:#666;margin-top:8px;font-size:12px;word-break:break-all;"></p>
+
+    <!-- Loading indicator shown before React mounts -->
+    <div id="app-loading">
+      <div class="loader">
+        <div class="spinner"></div>
+        <div>載入中...</div>
       </div>
     </div>
+
     <script>
-      var errEl = document.getElementById('app-error');
-      var dbgEl = document.getElementById('app-debug');
-      function showErr(msg) { if (errEl) { errEl.style.display = 'block'; errEl.textContent += msg + '\n'; } }
-      function showDbg(msg) { if (dbgEl) { dbgEl.style.display = 'block'; dbgEl.textContent += msg + '\n'; } }
+      // Hide loading indicator once React mounts
+      (function() {
+        var loading = document.getElementById('app-loading');
+        var root = document.getElementById('root');
+        if (!loading || !root) return;
 
-      // 1. Catch runtime JS errors
-      window.addEventListener('error', function(e) {
-        showErr('Error: ' + (e.message || e) + ' @' + (e.filename || '?') + ':' + (e.lineno || '?'));
-      }, true);
-
-      // 2. Catch unhandled promise rejections (module evaluation errors)
-      window.addEventListener('unhandledrejection', function(e) {
-        showErr('Rejection: ' + (e.reason ? (e.reason.message || e.reason) : 'unknown'));
-      });
-
-      // 3. Attach error handler to main app script tag (catches load failures)
-      var modScript = document.querySelector('script[defer][src]');
-      if (modScript) {
-        modScript.addEventListener('error', function() {
-          showErr('Script failed to load: ' + modScript.getAttribute('src'));
+        var observer = new MutationObserver(function() {
+          if (root.children.length > 0) {
+            loading.style.display = 'none';
+            observer.disconnect();
+          }
         });
-      }
+        observer.observe(root, { childList: true });
 
-      // 4. Hide fallback once React mounts
-      var observer = new MutationObserver(function() {
-        var root = document.getElementById('root');
-        if (root && root.children.length > 0) {
-          document.getElementById('app-fallback').style.display = 'none';
-          observer.disconnect();
-        }
-      });
-      observer.observe(document.getElementById('root'), { childList: true });
-
-      // 5. After 5s, if React hasn't mounted, run fetch diagnostic
-      setTimeout(function() {
-        var root = document.getElementById('root');
-        if (root && root.children.length > 0) return;
-        var appScript = document.querySelector('script[defer][src]');
-        var src = appScript ? appScript.getAttribute('src') : 'no-script-found';
-        showDbg('UA: ' + navigator.userAgent.substring(0, 100));
-        showDbg('Script src: ' + src);
-        if (src && src !== 'no-script-found') {
-          fetch(src).then(function(r) {
-            showDbg('Fetch: ' + r.status + ' type=' + (r.headers.get('content-type') || '?') + ' len=' + (r.headers.get('content-length') || '?'));
-            return r.text().then(function(t) { showDbg('JS starts: ' + t.substring(0, 80)); });
-          }).catch(function(e) { showDbg('Fetch error: ' + e.message); });
-        }
-      }, 5000);
+        // Fallback: hide after 10s regardless
+        setTimeout(function() {
+          loading.style.display = 'none';
+        }, 10000);
+      })();
     </script>
+
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
