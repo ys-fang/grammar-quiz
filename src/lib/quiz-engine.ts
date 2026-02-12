@@ -23,15 +23,28 @@ export interface QuizEngine {
   retryWrongs(): QuizState
 }
 
-export function createQuizEngine(questions: QuizQuestion[]): QuizEngine {
-  let phase: Phase = 'question'
-  let pool = [...questions]
-  let allQuestions = [...questions]
-  let currentIndex = 0
-  let score = 0
-  let wrongs: QuizQuestion[] = []
-  let lastAnswerCorrect: boolean | null = null
-  let selectedIndex: number | null = null
+export interface RestoredState {
+  phase: Phase
+  questions: QuizQuestion[]
+  currentIndex: number
+  score: number
+  wrongs: QuizQuestion[]
+  lastAnswerCorrect: boolean | null
+  selectedIndex: number | null
+}
+
+export function createQuizEngine(
+  questions: QuizQuestion[],
+  restoredState?: RestoredState
+): QuizEngine {
+  let phase: Phase = restoredState?.phase ?? 'question'
+  let pool = restoredState?.questions ? [...restoredState.questions] : [...questions]
+  let allQuestions = restoredState?.questions ? [...restoredState.questions] : [...questions]
+  let currentIndex = restoredState?.currentIndex ?? 0
+  let score = restoredState?.score ?? 0
+  let wrongs: QuizQuestion[] = restoredState?.wrongs ? [...restoredState.wrongs] : []
+  let lastAnswerCorrect: boolean | null = restoredState?.lastAnswerCorrect ?? null
+  let selectedIndex: number | null = restoredState?.selectedIndex ?? null
 
   function getState(): QuizState {
     return {
