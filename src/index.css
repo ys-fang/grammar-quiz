@@ -114,7 +114,12 @@ body {
 /* ── Quiz Page ─────────────────────────────────────────── */
 .quiz-page {
   min-height: 100vh;
-  min-height: 100dvh;
+}
+
+@supports (min-height: 100dvh) {
+  .quiz-page {
+    min-height: 100dvh;
+  }
 }
 
 /* Option buttons */

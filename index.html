@@ -22,6 +22,41 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <div id="root"></div>
+    <div id="app-fallback" style="display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:sans-serif;color:#333;text-align:center;padding:20px;">
+      <div>
+        <p style="font-size:18px;">載入中...</p>
+        <p id="app-error" style="display:none;color:red;margin-top:12px;font-size:14px;"></p>
+        <p id="app-debug" style="display:none;color:#666;margin-top:8px;font-size:12px;"></p>
+      </div>
+    </div>
+    <script>
+      // Diagnostic: catch JS errors and show them visually
+      window.addEventListener('error', function(e) {
+        var el = document.getElementById('app-error');
+        if (el) { el.style.display = 'block'; el.textContent = 'JS Error: ' + (e.message || e) + ' (' + (e.filename || '') + ':' + (e.lineno || '') + ')'; }
+      });
+      // Hide fallback once React mounts
+      var observer = new MutationObserver(function() {
+        var root = document.getElementById('root');
+        if (root && root.children.length > 0) {
+          var fb = document.getElementById('app-fallback');
+          if (fb) fb.style.display = 'none';
+          observer.disconnect();
+        }
+      });
+      observer.observe(document.getElementById('root'), { childList: true });
+      // Timeout: if React hasn't mounted after 10s, show debug info
+      setTimeout(function() {
+        var root = document.getElementById('root');
+        if (root && root.children.length === 0) {
+          var dbg = document.getElementById('app-debug');
+          if (dbg) {
+            dbg.style.display = 'block';
+            dbg.textContent = 'React 未載入 (10s timeout). UA: ' + navigator.userAgent.substring(0, 120);
+          }
+        }
+      }, 10000);
+    </script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
