@@ -15,6 +15,8 @@ interface TopicData {
   questions: QuizQuestion[]
 }
 
+type LoadState = 'loading' | 'error' | 'success'
+
 // Separate component that renders once data is loaded
 function QuizContent({ data, gasUrl }: { data: TopicData; gasUrl: string }) {
   const navigate = useNavigate()
@@ -86,37 +88,97 @@ function QuizContent({ data, gasUrl }: { data: TopicData; gasUrl: string }) {
 
 export function QuizPage() {
   const { topicId } = useParams<{ topicId: string }>()
+  const navigate = useNavigate()
   const [data, setData] = useState<TopicData | null>(null)
   const [gasUrl, setGasUrl] = useState('')
-  const [error, setError] = useState<string | null>(null)
+  const [loadState, setLoadState] = useState<LoadState>('loading')
+  const [errorMessage, setErrorMessage] = useState('')
 
   useEffect(() => {
-    if (!topicId) return
+    if (!topicId) {
+      setLoadState('error')
+      setErrorMessage('找不到題目 ID')
+      return
+    }
 
-    Promise.all([
-      fetch(`${import.meta.env.BASE_URL}data/topics/${topicId}.json`).then(r => {
-        if (!r.ok) throw new Error('Topic not found')
-        return r.json()
-      }),
-      fetch(`${import.meta.env.BASE_URL}data/manifest.json`).then(r => r.json()),
-    ])
-      .then(([topicData, manifest]) => {
-        setData(topicData)
-        setGasUrl(manifest.gasUrl || '')
-      })
-      .catch(err => setError(err.message))
+    let cancelled = false
+
+    async function loadData() {
+      try {
+        const [topicResponse, manifestResponse] = await Promise.all([
+          fetch(`./data/topics/${topicId}.json`),
+          fetch('./data/manifest.json'),
+        ])
+
+        if (!topicResponse.ok) {
+          throw new Error('找不到此題目')
+        }
+
+        if (!manifestResponse.ok) {
+          throw new Error('無法載入設定')
+        }
+
+        const [topicData, manifest] = await Promise.all([
+          topicResponse.json(),
+          manifestResponse.json(),
+        ])
+
+        if (!cancelled) {
+          setData(topicData)
+          setGasUrl(manifest.gasUrl || '')
+          setLoadState('success')
+        }
+      } catch (err) {
+        console.error('Failed to load quiz data:', err)
+        if (!cancelled) {
+          setLoadState('error')
+          setErrorMessage(err instanceof Error ? err.message : '載入失敗')
+        }
+      }
+    }
+
+    loadData()
+    return () => {
+      cancelled = true
+    }
   }, [topicId])
 
-  if (error) {
+  if (loadState === 'loading') {
     return (
-      <div className="flex items-center justify-center min-h-screen">
-        <p className="text-red-600">載入失敗：{error}</p>
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-blue-50 to-slate-50">
+        <div className="animate-pulse text-blue-800 text-lg">載入題目中...</div>
+      </div>
+    )
+  }
+
+  if (loadState === 'error') {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-blue-50 to-slate-50 p-4">
+        <div className="bg-white rounded-xl shadow-lg p-8 max-w-md w-full text-center">
+          <div className="text-5xl mb-4">😕</div>
+          <h1 className="text-xl font-bold text-slate-800 mb-2">載入失敗</h1>
+          <p className="text-slate-600 mb-6">{errorMessage}</p>
+          <div className="flex flex-col gap-3">
+            <button
+              onClick={() => window.location.reload()}
+              className="px-6 py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors"
+            >
+              重試
+            </button>
+            <button
+              onClick={() => navigate('/')}
+              className="px-6 py-3 bg-slate-200 text-slate-700 rounded-lg font-medium hover:bg-slate-300 transition-colors"
+            >
+              返回首頁
+            </button>
+          </div>
+        </div>
       </div>
     )
   }
 
   if (!data) {
-    return <div className="flex items-center justify-center min-h-screen">載入中...</div>
+    return null
   }
 
   return <QuizContent key={data.topicId} data={data} gasUrl={gasUrl} />

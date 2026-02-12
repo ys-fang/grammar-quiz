@@ -2,17 +2,64 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { Manifest } from '../types/quiz'
 
+type LoadState = 'loading' | 'error' | 'success'
+
 export function LandingPage() {
   const [manifest, setManifest] = useState<Manifest | null>(null)
+  const [loadState, setLoadState] = useState<LoadState>('loading')
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/manifest.json`)
-      .then(r => r.json())
-      .then(setManifest)
+    let cancelled = false
+
+    async function loadManifest() {
+      try {
+        const response = await fetch('./data/manifest.json')
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`)
+        }
+        const data = await response.json()
+        if (!cancelled) {
+          setManifest(data)
+          setLoadState('success')
+        }
+      } catch (err) {
+        console.error('Failed to load manifest:', err)
+        if (!cancelled) {
+          setLoadState('error')
+        }
+      }
+    }
+
+    loadManifest()
+    return () => {
+      cancelled = true
+    }
   }, [])
 
-  if (!manifest) {
-    return <div className="flex items-center justify-center min-h-screen">載入中...</div>
+  if (loadState === 'loading') {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-rose-50 to-amber-50">
+        <div className="animate-pulse text-amber-800 text-lg">載入中...</div>
+      </div>
+    )
+  }
+
+  if (loadState === 'error' || !manifest) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-b from-rose-50 to-amber-50 p-4">
+        <div className="bg-white rounded-xl shadow-lg p-8 max-w-md w-full text-center">
+          <div className="text-5xl mb-4">📚</div>
+          <h1 className="text-xl font-bold text-slate-800 mb-2">無法載入題庫</h1>
+          <p className="text-slate-600 mb-6">請檢查網路連線後重試</p>
+          <button
+            onClick={() => window.location.reload()}
+            className="px-6 py-3 bg-amber-600 text-white rounded-lg font-medium hover:bg-amber-700 transition-colors"
+          >
+            重新整理
+          </button>
+        </div>
+      </div>
+    )
   }
 
   return (
