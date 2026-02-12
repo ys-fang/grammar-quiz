@@ -2,7 +2,8 @@ import { test, expect } from '@playwright/test'
 
 test.describe('Landing Page', () => {
   test.beforeEach(async ({ page }) => {
-    await page.goto('/')
+    // HashRouter: navigate to /#/
+    await page.goto('/#/')
   })
 
   test('displays the noren header and title', async ({ page }) => {
@@ -35,8 +36,8 @@ test.describe('Landing Page', () => {
     const firstCard = page.locator('.topic-card').first()
     await firstCard.click()
 
-    // Should navigate to a quiz route
-    await expect(page).toHaveURL(/\/quiz\//)
+    // Should navigate to a quiz route (HashRouter format: /#/quiz/...)
+    await expect(page).toHaveURL(/\/#\/quiz\//)
 
     // Quiz page should load with options
     await expect(page.locator('.option-btn').first()).toBeVisible({ timeout: 5000 })
@@ -44,7 +45,7 @@ test.describe('Landing Page', () => {
 
   test('responsive: mobile viewport shows 2 columns', async ({ page }) => {
     await page.setViewportSize({ width: 375, height: 812 })
-    await page.goto('/')
+    await page.goto('/#/')
 
     const sections = page.locator('.category-section')
     await expect(sections.first()).toBeVisible()
