@@ -5,18 +5,20 @@ export default defineConfig({
   base: process.env.VITE_BASE || '/',
   plugins: [
     react(),
-    // Remove crossorigin attribute from script/link tags
-    // iOS Safari behind Cloudflare proxy may silently fail CORS module loads
     {
-      name: 'remove-crossorigin',
+      name: 'html-compat',
       transformIndexHtml(html) {
-        return html.replace(/ crossorigin/g, '')
+        return html
+          // Convert module script to deferred classic script for max compatibility
+          .replace(/<script type="module" crossorigin /g, '<script defer ')
+          .replace(/<script type="module" /g, '<script defer ')
+          // Remove crossorigin only from Vite-generated stylesheet link
+          .replace(/(<link rel="stylesheet") crossorigin/g, '$1')
       },
     },
   ],
   build: {
-    target: ['es2020', 'safari14'],
-    modulePreload: false,
+    target: ['es2015'],
   },
   test: {
     globals: true,

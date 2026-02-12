@@ -45,11 +45,11 @@
         showErr('Rejection: ' + (e.reason ? (e.reason.message || e.reason) : 'unknown'));
       });
 
-      // 3. Attach error handler to module script tag (catches load/parse failures)
-      var modScript = document.querySelector('script[type="module"][src]');
+      // 3. Attach error handler to main app script tag (catches load failures)
+      var modScript = document.querySelector('script[defer][src]');
       if (modScript) {
         modScript.addEventListener('error', function() {
-          showErr('Module script failed to load: ' + modScript.getAttribute('src'));
+          showErr('Script failed to load: ' + modScript.getAttribute('src'));
         });
       }
 
@@ -67,7 +67,8 @@
       setTimeout(function() {
         var root = document.getElementById('root');
         if (root && root.children.length > 0) return;
-        var src = modScript ? modScript.getAttribute('src') : 'no-script-found';
+        var appScript = document.querySelector('script[defer][src]');
+        var src = appScript ? appScript.getAttribute('src') : 'no-script-found';
         showDbg('UA: ' + navigator.userAgent.substring(0, 100));
         showDbg('Script src: ' + src);
         if (src && src !== 'no-script-found') {
