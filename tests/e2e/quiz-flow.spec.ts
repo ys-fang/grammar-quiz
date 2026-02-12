@@ -19,7 +19,8 @@ test.describe('Quiz Flow', () => {
       }
     })
 
-    await page.goto(`/quiz/${encodeURIComponent(topicId)}`)
+    // HashRouter: navigate to /#/quiz/...
+    await page.goto(`/#/quiz/${encodeURIComponent(topicId)}`)
   })
 
   test('loads quiz and shows first question with options', async ({ page }) => {
@@ -137,8 +138,8 @@ test.describe('Quiz Flow', () => {
 
     await page.locator('button', { hasText: '← 返回' }).click()
 
-    // Should be on landing page
-    await expect(page).toHaveURL('/')
+    // Should be on landing page (HashRouter format)
+    await expect(page).toHaveURL(/\/#\/?$/)
     await expect(page.locator('.noren-part').first()).toBeVisible()
   })
 
